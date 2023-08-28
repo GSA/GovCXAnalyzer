@@ -1,0 +1,641 @@
+ID,UUID,Satisfaction,Trust/Confidence,Effectiveness/Quality,UserGroup,Years,Region,Ease/Simplicity,Efficiency/Speed,Equity/Transparency,Helpfulness,FreeText,CreatedAt,Page,Referrer,year,date
+2023-08-27_17:35:06-1,aafc75bd-5254-,5,4,4,Group4,3-4 years,Region2,3,4,3,3,I was able to easily find what I was looking for.,2021-11-17 19:09:38+00:00,/contact/,https://beepbeep.gov/,2021,Nov-2021
+2023-08-27_17:35:06-2,e8db984b-3d58-,4,3,4,Group3,2-3 years,Region3,3,1,1,1,The information was not very useful.,2021-11-17 19:13:53+00:00,/contact/,https://beepbeep.gov/,2021,Nov-2021
+2023-08-27_17:35:06-3,1b024298-84ba-,5,3,5,Group3,2-3 years,Region2,2,2,2,3,"I had hoped for a more robust sample reports section, ideally  real life examplesfrom many fields.Great website filled with valuable help",2021-11-29 18:18:57+00:00,/site/hisp/beepbeepgov-website/contact/,https://news.google.com/rss/articles/CBMicmh0dHBzOi8vYWcubnkuZ292L3ByZXNzLXJlbGVhc2UvMjAyMy9hdHRvcm5leS1nZW5lcmFsLWphbWVzLXNlY3VyZXMtMzAwMDAwLW9ubGluZS1zcG9ydGluZy1nb29kcy1yZXRhaWxlcnMtZmFpbGluZ9IBAA?oc=5,2021,Nov-2021
+2023-08-27_17:35:06-4,2f1481f6-d4dd-,4,4,2,Group2,1-2 years,Region2,2,4,2,2,the staff is so helpful...thank you !!!,2021-11-29 18:20:53+00:00,/site/hisp/beepbeepgov-website/contact/,https://news.google.com/rss/articles/CBMicGh0dHBzOi8vd3d3LmJpb21ldHJpY3VwZGF0ZS5jb20vMjAyMzA1L3JlcG9ydC1wdXRzLXNvbWUtZm9ybS10by1ob3ctdXMtc3RhdGVzLWFyZS1hdXRoZW50aWNhdGluZy1wdWJsaWMtYmVuZWZpdHPSAQA?oc=5,2021,Nov-2021
+2023-08-27_17:35:06-5,955d5749-766f-,4,5,4,Group4,3-4 years,Region2,3,4,4,4,lova yall!,2022-03-02 23:37:20+00:00,/contact/,https://news.google.com/rss/articles/CBMiZGh0dHBzOi8vd3d3Lm5leHRnb3YuY29tL2N5YmVyc2VjdXJpdHkvMjAyMy8wNS9jeWJlci1hZ2VuY2llcy11bnZlaWwtdXBkYXRlZC1yYW5zb213YXJlLWd1aWRlLzM4NjczNy_SAQA?oc=5,2022,Mar-2022
+2023-08-27_17:35:06-6,3a6521a7-8ecf-,4,4,4,Group4,2-3 years,Region2,2,2,2,2,cool,2022-03-03 16:57:47+00:00,/contact/,https://news.google.com/rss/articles/CBMiWmh0dHBzOi8vYWJvdXQuYmdvdi5jb20vbmV3cy9zYW0tdG8tc2NhbS1tb3JlLW9uLWNvbnRyYWN0aW5nLXNpdGUtdHJvdWJsZXMtY2hlbHNlYS1tZWdnaXR0L9IBAA?oc=5,2022,Mar-2022
+2023-08-27_17:35:06-7,752aa2c1-5b5d-,5,5,5,Group3,3-4 years,Region2,4,4,4,4,please improve your site so i can use it,2022-03-03 18:53:55+00:00,/contact/,https://news.google.com/rss/articles/CBMiXGh0dHBzOi8vd3d3Lmdvdi51ay9nb3Zlcm5tZW50L25ld3MvZmFxcy1vbi1nb3Zlcm5tZW50LWRpZ2l0YWwtaWRlbnRpdHktY29uc3VsdGF0aW9uLXJlc3BvbnNl0gEA?oc=5,2022,Mar-2022
+2023-08-27_17:35:06-8,7a29d617-0e0e-,3,4,3,Group3,2-3 years,Region3,1,3,3,3,there is some broken urls,2022-03-03 22:26:54+00:00,/contact/,https://beepbeep.gov/,2022,Mar-2022
+2023-08-27_17:35:06-9,027ff6ac-9ce1-,4,4,4,Group4,3-4 years,Region2,4,4,4,4,old information,2022-03-04 16:51:32+00:00,/contact/,https://news.google.com/rss/articles/CBMimgFodHRwczovL3d3dy5yc3RyZWV0Lm9yZy9jb21tZW50YXJ5L2lmLXBsYXRmb3Jtcy1hcmUtcmVxdWlyZWQtdG8taGF2ZS15b3VyLWdvdmVybm1lbnQtaWRzLWFuZC1mYWNlLXNjYW5zLWhhY2tlcnMtYW5kLWVuZW15LWdvdmVybm1lbnRzLWNhbi1hY2Nlc3MtdGhlbS10b28v0gEA?oc=5,2022,Mar-2022
+2023-08-27_17:35:06-10,50f0b26e-9085-,3,3,4,Group2,1-2 years,Region3,3,3,3,2,The website was pretty easy to navigate.,2022-03-04 19:20:43+00:00,/contact/,https://beepbeep.gov/,2022,Mar-2022
+2023-08-27_17:35:06-11,22810f80-fc72-,4,4,4,Group3,3-4 years,Region2,1,4,4,3,"this app makes me sad and takes so much time
+",2022-03-06 03:58:28+00:00,/contact/,https://beepbeep.gov/,2022,Mar-2022
+2023-08-27_17:35:06-12,4f3e22df-8281-,4,5,4,Group4,4-5 years,Region2,5,5,5,5,no.,2022-03-06 13:52:13+00:00,/contact/,https://beepbeep.gov/,2022,Mar-2022
+2023-08-27_17:35:06-13,901667c8-b430-,5,4,5,Group4,4-5 years,Region3,4,3,3,2,Keep up the good work 🙂,2022-03-07 18:01:44+00:00,/contact/,https://news.google.com/rss/articles/CBMiN2h0dHBzOi8vd3d3LmRvbC5nb3YvbmV3c3Jvb20vcmVsZWFzZXMvZXRhL2V0YTIwMjMwNDI3LTDSAQA?oc=5,2022,Mar-2022
+2023-08-27_17:35:06-14,5a52a44f-bb05-,5,5,5,Group4,3-4 years,Region2,5,5,5,3,More options pelase,2022-03-08 10:38:14+00:00,/contact/,https://news.google.com/rss/articles/CBMiRWh0dHBzOi8vZmVkc2Nvb3AuY29tL2FtZXJpY2Fucy1kZXNlcnZlLWdvdmVybm1lbnQtdGVjaC10aGF0LWRlbGl2ZXJzL9IBAA?oc=5,2022,Mar-2022
+2023-08-27_17:35:06-15,2295da65-855d-,4,5,5,Group4,3-4 years,Region2,3,4,2,3,,2022-03-08 21:42:33+00:00,/contact/,https://news.google.com/rss/articles/CBMic2h0dHBzOi8vd3d3Lm1lbmVuZGV6LnNlbmF0ZS5nb3YvbmV3c3Jvb20vcHJlc3MvbWVuZW5kZXotY2FsbHMtZm9yLXNob3J0ZW5lZC1wcm9jZXNzaW5nLXRpbWUtZm9yLWFtZW5kZWQtdGF4LWZpbGluZ3PSAQA?oc=5,2022,Mar-2022
+2023-08-27_17:35:06-16,c65a953f-7f1b-,4,5,5,Group3,3-4 years,Region3,3,4,3,2,,2022-03-09 04:00:15+00:00,/contact/,https://news.google.com/rss/articles/CBMiVmh0dHBzOi8vZmVkc2Nvb3AuY29tL2dzYS1uYW1lcy1uZXctdGVjaG5vbG9neS10cmFuc2Zvcm1hdGlvbi1zZXJ2aWNlcy1kZXB1dHktZGlyZWN0b3Iv0gEA?oc=5,2022,Mar-2022
+2023-08-27_17:35:06-17,d55a2e3e-59b8-,3,3,3,Group3,2-3 years,Region3,3,2,3,3,,2022-03-09 04:00:15+00:00,/contact/,https://news.google.com/rss/articles/CBMioAFodHRwczovL3d3dy5nc2EuZ292L2Fib3V0LXVzL25ld3Nyb29tL25ld3MtcmVsZWFzZXMvbmV3LXByZXNpZGVudGlhbC1pbm5vdmF0aW9uLWZlbGxvd3Mtd2lsbC1kZXNpZ24tbGFzdGluZy1pbXBhY3RmdWwtc29sdXRpb25zLWZvci1nb3Zlcm5tZW50LXNlcnZpY2VzLTA0MTAyMDIz0gEA?oc=5,2022,Mar-2022
+2023-08-27_17:35:06-18,7b6f006e-24bf-,4,4,4,Group3,3-4 years,Region3,2,4,1,1,,2022-03-09 04:00:20+00:00,/contact/,https://beepbeep.gov/,2022,Mar-2022
+2023-08-27_17:35:06-19,0137106e-eb26-,5,5,5,Group4,4-5 years,Region2,4,5,3,5,I couldn't even finsh what I wanted to do,2022-03-09 04:00:20+00:00,/contact/,https://news.google.com/rss/articles/CBMiQ2h0dHBzOi8vbmV3cy52YS5nb3YvMTE3NzM3L2hvdy10by1jaGVjay15b3VyLXBhY3QtYWN0LWNsYWltLXN0YXR1cy_SAQA?oc=5,2022,Mar-2022
+2023-08-27_17:35:06-20,342ea1b8-e4d3-,3,4,3,Group3,1-2 years,Region3,4,2,4,4,i'm a senior sitizen and this site is very hard to navigate,2022-03-09 17:23:33+00:00,/contact/,https://beepbeep.gov/,2022,Mar-2022
+2023-08-27_17:35:06-21,0c6ecc78-c7e5-,4,3,5,Group2,1-2 years,Region2,1,1,1,2,bad website,2022-03-10 02:41:33+00:00,/contact/,https://beepbeep.gov/,2022,Mar-2022
+2023-08-27_17:35:06-22,7f519fbc-f1c0-,4,5,5,Group5,4-5 years,Region2,4,5,4,2,poorly designed,2022-03-10 14:27:40+00:00,/contact/,https://beepbeep.gov/,2022,Mar-2022
+2023-08-27_17:35:06-23,3df36405-7dd8-,5,3,4,Group4,2-3 years,Region2,2,2,2,1,no everything is ok,2022-03-10 19:39:57+00:00,/contact/,https://news.google.com/rss/articles/CBMiI2h0dHBzOi8vaWRmcHIuaWxsaW5vaXMuZ292L2RyZS5odG1s0gEA?oc=5,2022,Mar-2022
+2023-08-27_17:35:06-24,eddbda74-3c8a-,4,4,4,Group3,4-5 years,Region2,1,3,2,1,Keep up the changes to the api,2022-03-10 19:40:17+00:00,/contact/,https://news.google.com/rss/articles/CBMid2h0dHBzOi8vb3ZlcnNpZ2h0LmhvdXNlLmdvdi9yZWxlYXNlL3Nlc3Npb25zLWxvZ2luLWdvdi1saWVkLXRvLWN1c3RvbWVycy1jb250aW51ZWQtdG8tY2hhcmdlLWZvci1ub24tZXhpc3RlbnQtc2VydmljZXMv0gEA?oc=5,2022,Mar-2022
+2023-08-27_17:35:06-25,f8843664-d4b0-,4,3,4,Group4,3-4 years,Region2,2,2,2,2,information is not easy to find,2022-03-11 00:20:43+00:00,/contact/,https://news.google.com/rss/articles/CBMiOWh0dHBzOi8vd3d3LnRoZXJlZ2lzdGVyLmNvbS8yMDIzLzAzLzI3L2luX2JyaWVmX3NlY3VyaXR5L9IBPWh0dHBzOi8vd3d3LnRoZXJlZ2lzdGVyLmNvbS9BTVAvMjAyMy8wMy8yNy9pbl9icmllZl9zZWN1cml0eS8?oc=5,2022,Mar-2022
+2023-08-27_17:35:06-26,d95aca09-1a5d-,4,4,4,Group5,3-4 years,Region3,3,5,3,3,"Yes, I love your website, you should start to make even more pretty next time. But that looks good to me.",2022-03-11 07:04:04+00:00,/contact/,https://news.google.com/rss/articles/CBMiL2h0dHBzOi8vZmVkc2Nvb3AuY29tL2hpbGxhcnktaGFydGxleS1pbnRlcnZpZXcv0gEA?oc=5,2022,Mar-2022
+2023-08-27_17:35:06-27,1fa58deb-3fa1-,4,5,4,Group4,2-3 years,Region2,3,3,4,4,has experience in logistics field.,2022-03-11 07:04:04+00:00,/contact/,https://news.google.com/rss/articles/CBMicGh0dHBzOi8vb3ZlcnNpZ2h0LmhvdXNlLmdvdi9yZWxlYXNlL3Nlc3Npb25zLWFubm91bmNlcy1oZWFyaW5nLWV4YW1pbmluZy10aGUtY2FwYWJpbGl0aWVzLW9mLWxvZ2luLWdvdiVFRiVCRiVCQy_SAQA?oc=5,2022,Mar-2022
+2023-08-27_17:35:06-28,9907bbbf-696e-,5,4,4,Group4,1-2 years,Region2,2,4,2,2,hisp teams conducting our visits was good,2022-03-11 13:52:08+00:00,/contact/,https://beepbeep.gov/,2022,Mar-2022
+2023-08-27_17:35:06-29,dd4ae15e-6b6d-,3,4,4,Group4,3-4 years,Region2,4,5,4,4,to work with hisp was good,2022-03-12 21:18:41+00:00,/contact/,https://news.google.com/rss/articles/CBMiMWh0dHBzOi8vd3d3LnZhLmdvdi9yZXNvdXJjZXMvc2lnbmluZy1pbi10by12YWdvdi_SAQA?oc=5,2022,Mar-2022
+2023-08-27_17:35:06-30,b0dd76c0-2a40-,5,4,5,Group4,3-4 years,Region2,4,4,4,4,the entire process went very smoothly. No issues whatsoever was good,2022-03-12 21:18:42+00:00,/contact/,https://beepbeep.gov/,2022,Mar-2022
+2023-08-27_17:35:06-31,a2417fc6-2fc1-,4,4,3,Group2,1-2 years,Region2,1,1,1,1,The process process was good,2022-03-12 21:18:55+00:00,/contact/,https://beepbeep.gov/,2022,Mar-2022
+2023-08-27_17:35:06-32,0d61c3df-ad0a-,4,4,4,Group3,2-3 years,Region3,3,3,3,4,the resources before the service day,2022-03-12 21:18:56+00:00,/contact/,https://beepbeep.gov/,2022,Mar-2022
+2023-08-27_17:35:06-33,d83f2c51-bf73-,4,5,4,Group4,3-4 years,Region2,5,2,2,2,working with all of the hisp employees was a great experience,2022-03-12 21:20:19+00:00,/contact/,https://news.google.com/rss/articles/CBMiS2h0dHBzOi8vZmN3LmNvbS9jb21tZW50LzIwMjMvMDMvd2h5LWl0cy10aW1lLXBpdm90LWRpZ2l0YWwtaWRlbnRpdHkvMzgzOTczL9IBAA?oc=5,2022,Mar-2022
+2023-08-27_17:35:06-34,81c79092-547f-,4,5,4,Group4,2-3 years,Region3,3,2,2,3,Good Communication from the call center team ,2022-03-12 21:20:20+00:00,/contact/,https://news.google.com/rss/articles/CBMiZmh0dHBzOi8vd3d3Lm5leHRnb3YuY29tL2l0LW1vZGVybml6YXRpb24vMjAyMy8wMy9wbGFucy1hcHByb3ZlLXVzZS1sb2dpbi1kb3QtZ292LXRheC1kYXktbmVhcnMvMzgzOTMyL9IBAA?oc=5,2022,Mar-2022
+2023-08-27_17:35:06-35,036c4b4a-15e2-,4,5,4,Group4,2-3 years,Region2,4,5,4,4,to work with the industry partners  is alwqays a pleasure,2022-03-12 21:20:58+00:00,/contact/,https://news.google.com/rss/articles/CBMikAFodHRwczovL292ZXJzaWdodC5ob3VzZS5nb3YvcmVsZWFzZS9zZXNzaW9ucy11bmNvdmVyaW5nLW1pc3Rha2VzLWluLWNvdmlkLTE5LXBhbmRlbWljLXByb2dyYW1zLXRvLXByb3RlY3QtdGF4cGF5ZXItZnVuZHMtaW4tdGhlLWZ1dHVyZSVFRiVCRiVCQy_SAQA?oc=5,2022,Mar-2022
+2023-08-27_17:35:06-36,02eefb15-2a4e-,3,5,4,Group4,3-4 years,Region2,4,2,4,3,dealing with hisp was okay,2022-03-12 21:20:58+00:00,/contact/,https://news.google.com/rss/articles/CBMiM2h0dHBzOi8vZmVkc2Nvb3AuY29tL2dzYS1sb2dpbi1nb3Ytd2F0Y2hkb2ctcmVwb3J0L9IBAA?oc=5,2022,Mar-2022
+2023-08-27_17:35:06-37,f9328a18-5c41-,5,4,5,Group4,4-5 years,Region2,3,3,3,1,phone attendant was good to talk to ,2022-03-13 00:26:20+00:00,/contact/,https://news.google.com/rss/articles/CBMiNWh0dHBzOi8vd3d3Lm9zaGEuZ292L25ld3MvbmV3c3JlbGVhc2VzL3RyYWRlLzAxMDkyMDIz0gEA?oc=5,2022,Mar-2022
+2023-08-27_17:35:06-38,8ec2bfac-307b-,4,4,4,Group3,0-1 years,Region3,3,4,2,2,hybrid the service experience would be nice,2022-03-13 00:26:20+00:00,/contact/,https://beepbeep.gov/,2022,Mar-2022
+2023-08-27_17:35:06-39,c2cbf414-4b41-,3,4,3,Group4,2-3 years,Region2,2,4,2,2,working with the the service team wa surprisingly s good,2022-03-13 00:26:32+00:00,/contact/,https://news.google.com/rss/articles/CBMib2h0dHBzOi8vZmN3LmNvbS9kaWdpdGFsLWdvdmVybm1lbnQvMjAyMy8wMi93aGl0ZS1ob3VzZS1tdWxscy1zY2FsaW5nLWxvZ2luLWRvdC1nb3YtcmVhY2gtZXZlcnktYW1lcmljYW4vMzgzMTQyL9IBAA?oc=5,2022,Mar-2022
+2023-08-27_17:35:06-40,a561de77-feed-,5,5,5,Group5,4-5 years,Region2,2,2,3,2,It felt like a collaborative effort,2022-03-13 00:26:33+00:00,/contact/,https://beepbeep.gov/,2022,Mar-2022
+2023-08-27_17:35:06-41,e8923fd2-9a81-,4,2,3,Group2,2-3 years,Region2,4,2,4,3,Much transparency was good,2022-03-13 00:26:45+00:00,/contact/,https://beepbeep.gov/,2022,Mar-2022
+2023-08-27_17:35:06-42,c4eaac4b-7adb-,4,4,3,Group2,1-2 years,Region2,2,4,3,3,,2022-03-13 00:26:45+00:00,/contact/,https://beepbeep.gov/,2022,Mar-2022
+2023-08-27_17:35:06-43,2a633b4a-4a86-,3,4,4,Group3,2-3 years,Region2,4,3,2,2,,2022-03-13 00:44:42+00:00,/contact/,https://news.google.com/rss/articles/CBMiP2h0dHBzOi8vY3liZXJzY29vcC5jb20vaXJzLWZhY2lhbC1yZWNvZ25pdGlvbi1pZGVudGl0eS1wcml2YWN5L9IBAA?oc=5,2022,Mar-2022
+2023-08-27_17:35:06-44,50498370-e489-,4,5,5,Group5,3-4 years,Region2,4,4,4,4,,2022-03-13 06:37:09+00:00,/contact/,https://news.google.com/rss/articles/CBMiNGh0dHBzOi8vZmVkc2Nvb3AuY29tL2RpZ2l0YWwtdGhlZnQtZW8tdG8tZm9sbG93LXNvdS_SAQA?oc=5,2022,Mar-2022
+2023-08-27_17:35:06-45,a3b8f643-7593-,4,4,3,Group4,2-3 years,Region2,3,1,3,1,,2022-03-14 08:23:55+00:00,/contact/,https://news.google.com/rss/articles/CBMiaWh0dHBzOi8vd3d3LmxvYnNlcnZhdGV1ci5jb20vMjAyMy8wMi8wMS9hc2stcnVzdHktYWJvdXQtZGlmZmljdWx0eS13aXRoLXNvY2lhbC1zZWN1cml0eXMtc2lnbi1pbi1wcm9jZXNzL9IBAA?oc=5,2022,Mar-2022
+2023-08-27_17:35:06-46,641d44ac-d324-,3,3,3,Group3,2-3 years,Region3,2,4,2,2,feedback from the team was good,2022-03-14 22:40:09+00:00,/contact/,https://news.google.com/rss/articles/CBMiXWh0dHBzOi8vd3d3LnZhLmdvdi9yZXNvdXJjZXMvd2hhdC1pZi1pLWNhbnQtc2lnbi1pbi10by12YWdvdi1iZWNhdXNlLW15LXBhc3N3b3JkLWRvZXNudC13b3JrL9IBAA?oc=5,2022,Mar-2022
+2023-08-27_17:35:06-47,cdca6231-05e6-,5,4,4,Group5,2-3 years,Region2,3,4,3,3,the process and interaction was good,2022-03-16 14:36:28+00:00,/contact/,https://news.google.com/rss/articles/CBMiVGh0dHBzOi8vd3d3Lm1lcml0YWxrLmNvbS9hcnRpY2xlcy9wbWEtZ29hbHMtdXBkYXRlLWdzYXMtbG9naW4tZ292LWNvbnRpbnVlcy10by1ncm93L9IBAA?oc=5,2022,Mar-2022
+2023-08-27_17:35:06-48,4b61d47b-d12e-,4,4,4,Group2,1-2 years,Region3,4,2,3,4,Communication between groups was good,2022-03-16 17:47:22+00:00,/contact/,https://beepbeep.gov/,2022,Mar-2022
+2023-08-27_17:35:06-49,ffd6f618-5464-,4,5,3,Group4,3-4 years,Region2,2,2,2,2,The phone call was not good,2022-03-16 19:57:51+00:00,/contact/,https://news.google.com/rss/articles/CBMia2h0dHBzOi8vZmVkdGVjaG1hZ2F6aW5lLmNvbS9hcnRpY2xlLzIwMjMvMDEvd2F5cy1pbXBsZW1lbnQtbXVsdGlmYWN0b3ItYXV0aGVudGljYXRpb24td2l0aG91dC1tb2JpbGUtZGV2aWNl0gFvaHR0cHM6Ly9mZWR0ZWNobWFnYXppbmUuY29tL2FydGljbGUvMjAyMy8wMS93YXlzLWltcGxlbWVudC1tdWx0aWZhY3Rvci1hdXRoZW50aWNhdGlvbi13aXRob3V0LW1vYmlsZS1kZXZpY2U_YW1w?oc=5,2022,Mar-2022
+2023-08-27_17:35:06-50,dd85f57f-48e5-,4,4,3,Group4,2-3 years,Region2,2,3,2,3,The application process was good,2022-03-16 23:45:03+00:00,/contact/,https://beepbeep.gov/,2022,Mar-2022
+2023-08-27_17:35:06-51,3e35c9bf-1938-,3,4,4,Group2,2-3 years,Region2,1,4,2,3,,2022-03-17 23:59:10+00:00,/contact/,https://beepbeep.gov/,2022,Mar-2022
+2023-08-27_17:35:06-52,84db58d6-34e9-,2,3,2,Group2,1-2 years,Region2,2,2,2,2,The visit team was good,2022-03-18 02:53:38+00:00,/contact/,https://beepbeep.gov/,2022,Mar-2022
+2023-08-27_17:35:06-53,5d69d390-6481-,4,4,2,Group2,1-2 years,Region2,2,2,2,2,,2022-03-18 16:54:12+00:00,/contact/,https://news.google.com/rss/articles/CBMiU2h0dHBzOi8vaWFwcC5vcmcvbmV3cy9hL3Vzcy1sb2dpbi1nb3YtcmVsaWVzLW9uLWRhdGEtYnJva2Vycy1mb3ItdXNlci12ZXJpZmljYXRpb24v0gEA?oc=5,2022,Mar-2022
+2023-08-27_17:35:06-54,1636cf8c-f62a-,5,5,5,Group3,3-4 years,Region3,2,2,2,2,,2022-03-18 17:40:45+00:00,/contact/,https://news.google.com/rss/articles/CBMiQ2h0dHBzOi8vd3d3LmFzcHBhLW5ldC5vcmcvbmV3cy9kb2wtbW9kZXJuaXppbmctZWZhc3QtYXV0aGVudGljYXRpb27SAQA?oc=5,2022,Mar-2022
+2023-08-27_17:35:06-55,e65c262b-7dab-,3,4,4,Group2,2-3 years,Region3,2,3,2,3,,2022-03-18 18:57:51+00:00,/contact/,https://news.google.com/rss/articles/CBMiN2h0dHBzOi8vd3d3LmRvbC5nb3YvbmV3c3Jvb20vcmVsZWFzZXMvZWJzYS9lYnNhMjAyMjEyMDjSAQA?oc=5,2022,Mar-2022
+2023-08-27_17:35:06-56,bc8a4dff-ee31-,5,4,4,Group5,3-4 years,Region2,3,4,4,4,Everyone is super helpful was good,2022-03-19 15:19:31+00:00,/contact/,https://news.google.com/rss/articles/CBMidGh0dHBzOi8vd3d3LmNicC5nb3YvbmV3c3Jvb20vbG9jYWwtbWVkaWEtcmVsZWFzZS9jYnAtYW5ub3VuY2VzLW1lYXN1cmVzLWZhY2lsaXRhdGUtdXBjb21pbmctY2hyaXN0bWFzcGFpc2Fuby1ob2xpZGF50gEA?oc=5,2022,Mar-2022
+2023-08-27_17:35:06-57,eba5f933-13b6-,4,3,4,Group3,2-3 years,Region3,1,3,3,3,The customer support team went above and beyond to assist me.,2022-03-19 19:37:21+00:00,/contact/,https://news.google.com/rss/articles/CBMiUGh0dHBzOi8vd3d3Lmpkc3VwcmEuY29tL2xlZ2FsbmV3cy9lbXBsb3llcnMtbXVzdC11cGRhdGUtaW5qdXJ5LXRyYWNraW5nLTU3MDY4Nzkv0gEA?oc=5,2022,Mar-2022
+2023-08-27_17:35:06-58,14652fdf-ca8f-,3,4,4,Group3,2-3 years,Region3,1,2,1,3,I'm incredibly impressed by the fast response time of your service.,2022-03-19 19:38:07+00:00,/contact/,https://beepbeep.gov/,2022,Mar-2022
+2023-08-27_17:35:06-59,9cefc2fc-111c-,4,4,3,Group2,2-3 years,Region2,3,4,3,4,The user interface is intuitive and easy to navigate.,2022-03-19 19:39:21+00:00,/contact/,https://news.google.com/rss/articles/CBMieWh0dHBzOi8vZmN3LmNvbS9kaWdpdGFsLWdvdmVybm1lbnQvMjAyMi8xMS9sb2dpbmdvdi1nZXR0aW5nLW5ldy1hbnRpLWZyYXVkLXRvb2xzLXByaXZhY3ktYWR2b2NhdGUtcmFpc2VzLWNvbmNlcm5zLzM4MDE1OS_SAQA?oc=5,2022,Mar-2022
+2023-08-27_17:35:06-60,7e239f7b-5845-,3,3,3,Group3,1-2 years,Region3,3,2,2,3,The quality of your tools never fails to exceed my expectations.,2022-03-19 19:39:38+00:00,/contact/,https://beepbeep.gov/,2022,Mar-2022
+2023-08-27_17:35:06-61,1f3bde62-56c9-,4,4,4,Group3,2-3 years,Region3,3,3,4,3,"I encountered some technical issues, but your team resolved them swiftly.",2022-03-19 19:39:46+00:00,/contact/,https://beepbeep.gov/,2022,Mar-2022
+2023-08-27_17:35:06-62,03adecd4-b8a8-,5,5,5,Group5,4-5 years,Region2,5,5,4,4,I'm disappointed with the lack of variety in your product selection.,2022-03-19 19:41:01+00:00,/contact/,https://beepbeep.gov/,2022,Mar-2022
+2023-08-27_17:35:06-63,4cfaf81b-3cb5-,4,3,2,Group2,2-3 years,Region2,3,5,3,2,"The process was a breeze, making my booking hassle-free.",2022-03-19 19:42:08+00:00,/contact/,https://news.google.com/rss/articles/CBMiSGh0dHBzOi8vd3d3LmFydHMuZ292L2dyYW50cy9maXJzdC10aW1lLWFwcGxpY2FudC1ndWlkZS1mb3Itb3JnYW5pemF0aW9uc9IBAA?oc=5,2022,Mar-2022
+2023-08-27_17:35:06-64,d5d6d73f-342b-,3,3,3,Group3,1-2 years,Region2,2,2,2,2,The website layout could use some improvement for better user experience.,2022-03-19 19:43:05+00:00,/contact/,https://news.google.com/rss/articles/CBMiXGh0dHBzOi8vd3d3LnZhLmdvdi9yZXNvdXJjZXMvc2hvdWxkLWktY3JlYXRlLWEtbG9naW5nb3Ytb3ItaWRtZS1hY2NvdW50LXRvLXNpZ24taW4tdG8tdmFnb3Yv0gEA?oc=5,2022,Mar-2022
+2023-08-27_17:35:06-65,99486ad3-dcdc-,4,4,3,Group2,2-3 years,Region2,3,3,3,3,Your service has become an essential part of my daily routine.,2022-03-19 19:43:11+00:00,/contact/,https://news.google.com/rss/articles/CBMieGh0dHBzOi8vd3d3Lm5leHRnb3YuY29tL3RlY2hub2xvZ3ktbmV3cy8yMDIyLzEwL2dzYXMtdGVjaC1zaG9wcy1mYWNlLTMwbS1kZWZpY2l0LWFmdGVyLXByaW9yaXR5LWNoYW5nZS1sYXN0LXllYXIvMzc4Mzg4L9IBAA?oc=5,2022,Mar-2022
+2023-08-27_17:35:06-66,00c4a6ad-4219-,4,4,4,Group3,2-3 years,Region2,2,2,2,2,"I received my order later than expected, which was quite frustrating.",2022-03-19 19:43:26+00:00,/contact/,https://news.google.com/rss/articles/CBMibWh0dHBzOi8vZmN3LmNvbS9kaWdpdGFsLWdvdmVybm1lbnQvMjAyMi8wOS9sYWJvci1kZXBhcnRtZW50LWV2b2x2ZXMtZWZmb3J0cy1hc3Npc3Qtc3RhdGVzLXVpLWRlbGl2ZXJ5LzM3NzUzNi_SAQA?oc=5,2022,Mar-2022
+2023-08-27_17:35:06-67,8583441f-2426-,3,4,4,Group2,2-3 years,Region2,2,2,3,4,The personalized recommendations really helped me discover great tools,2022-03-19 19:46:25+00:00,/contact/,https://news.google.com/rss/articles/CBMiO2h0dHBzOi8vZmVkc2Nvb3AuY29tL2dzYS1oaXJlcy1sb3Blei1hcy1sb2dpbi1nb3YtZGlyZWN0b3Iv0gEA?oc=5,2022,Mar-2022
+2023-08-27_17:35:06-68,9e1b4296-e57d-,3,4,4,Group3,1-2 years,Region2,2,4,2,2,The live chat support was knowledgeable and guided me effectively.,2022-03-19 19:46:38+00:00,/contact/,https://beepbeep.gov/,2022,Mar-2022
+2023-08-27_17:35:06-69,72c61780-3026-,3,2,4,Group3,1-2 years,Region2,2,2,2,2,The mobile app is fantastic; it makes shopping so convenient.,2022-03-19 19:48:38+00:00,/contact/,https://news.google.com/rss/articles/CBMiUmh0dHBzOi8vZmN3LmNvbS9kaWdpdGFsLWdvdmVybm1lbnQvMjAyMi8wOC9ob3ctdmFzLWFkb3B0aW9uLWxvZ2luZ292LWdvaW5nLzM3NjMyMC_SAQA?oc=5,2022,Mar-2022
+2023-08-27_17:35:06-70,7912b9a0-9f52-,4,2,3,Group3,3-4 years,Region2,1,2,2,2,I'm delighted with the quality of your offerings.,2022-03-19 19:49:17+00:00,/contact/,https://beepbeep.gov/,2022,Mar-2022
+2023-08-27_17:35:06-71,fdd2d574-112b-,3,4,3,Group3,2-3 years,Region3,2,2,2,2,The lack of clear instructions during setup made the process confusing.,2022-03-19 19:50:42+00:00,,https://beepbeep.gov/,2022,Mar-2022
+2023-08-27_17:35:06-72,a28046ef-a52e-,5,4,4,Group3,2-3 years,Region3,2,2,2,4,Youprogram keeps me coming back for more resources!,2022-03-19 19:51:24+00:00,,https://beepbeep.gov/,2022,Mar-2022
+2023-08-27_17:35:06-73,f2cd944a-7b87-,4,4,3,Group4,2-3 years,Region2,2,2,2,1,"The packaging of my order was damaged upon arrival, disappointing.",2022-03-19 19:51:56+00:00,,https://news.google.com/rss/articles/CBMiX2h0dHBzOi8vZmVkc2Nvb3AuY29tL3NlbmF0ZS1jb21taXR0ZWUtdG8tYXR0ZW1wdC1sb2dpbi1nb3Ytc2hhcmluZy1iaWxsLW1hcmstdXAtZm9yLXRoaXJkLXRpbWUv0gEA?oc=5,2022,Mar-2022
+2023-08-27_17:35:06-74,6ed18498-9f7f-,4,4,3,Group3,2-3 years,Region2,1,2,2,3,I appreciate the transparency in pricing and no hidden fees.,2022-03-19 19:52:10+00:00,,https://news.google.com/rss/articles/CBMiUmh0dHBzOi8vd2EuZ292L2hvdy10by1ndWlkZXMvc2VjdXJlYWNjZXNzLXdhc2hpbmd0b24tc2F3LXlvdXItbG9naW4tc3RhdGUtc2VydmljZXPSAQA?oc=5,2022,Mar-2022
+2023-08-27_17:35:06-75,1e3dbd91-fe40-,4,5,4,Group3,2-3 years,Region2,2,2,2,2,"The app submission service is a game-changer, saving me time and money.",2022-03-19 19:52:40+00:00,/contact/,https://news.google.com/rss/articles/CBMiUGh0dHBzOi8vd3d3LnZhLmdvdi9yZXNvdXJjZXMvaG93LXRvLWZpbGUtYS12YS10cmF2ZWwtcmVpbWJ1cnNlbWVudC1jbGFpbS1vbmxpbmUv0gEA?oc=5,2022,Mar-2022
+2023-08-27_17:35:06-76,e0bab191-a76e-,3,4,3,Group2,4-5 years,Region2,4,3,2,3,Navigating the returns process was more complicated than expected.,2022-03-19 19:53:06+00:00,,https://news.google.com/rss/articles/CBMiZWh0dHBzOi8vd3d3LmZlZHNtaXRoLmNvbS8yMDIyLzA1LzE4L2NvbWluZy1zb29uLW5ldy1sb2dpbi1wcm9jZXNzLWZvci1vcG0tcmV0aXJlbWVudC1zZXJ2aWNlcy1vbmxpbmUv0gEA?oc=5,2022,Mar-2022
+2023-08-27_17:35:06-77,6d595aaf-3d47-,4,4,5,Group4,3-4 years,Region2,3,3,3,4,The service I received was exactly as described—great job!,2022-03-19 19:53:57+00:00,,https://news.google.com/rss/articles/CBMiTmh0dHBzOi8vZ292ZXJubWVudGNpb21lZGlhLmNvbS9saXN0ZW4taW50ZWdyYXRpbmctdmEtc2VydmljZXMtdGhyb3VnaC1sb2dpbmdvdtIBAA?oc=5,2022,Mar-2022
+2023-08-27_17:35:06-78,dba2c357-5ba5-,3,4,3,Group3,1-2 years,Region2,2,2,2,2,The search function on your website needs improvement—it's not accurate.,2022-03-19 19:54:14+00:00,,https://beepbeep.gov/,2022,Mar-2022
+2023-08-27_17:35:06-79,0fb4ae5f-90b1-,5,5,5,Group5,4-5 years,Region2,4,2,2,3,The checkout page was a bit cluttered and overwhelming.,2022-03-19 19:54:33+00:00,,https://news.google.com/rss/articles/CBMie2h0dHBzOi8vZmN3LmNvbS9pdC1tb2Rlcm5pemF0aW9uLzIwMjIvMDQvdG1mLWFubm91bmNlcy1maXJzdC1ldmVyLWludmVzdG1lbnQtdmEtc3VwcG9ydC10cmFuc2l0aW9uLW5ldy1zaWduLXNlcnZpY2UvMzY1ODY0L9IBAA?oc=5,2022,Mar-2022
+2023-08-27_17:35:06-80,d943209e-8ad7-,5,4,4,Group4,3-4 years,Region2,4,5,4,2,Your team's communication during a service outage was exceptional.,2022-03-19 19:55:02+00:00,,https://beepbeep.gov/,2022,Mar-2022
+2023-08-27_17:35:06-81,b4d40115-8b84-,4,4,3,Group3,2-3 years,Region3,3,2,3,3,"The in-store experience was enjoyable, with friendly staff members.",2022-03-19 19:55:22+00:00,,https://beepbeep.gov/,2022,Mar-2022
+2023-08-27_17:35:06-82,3338e788-e5e1-,3,3,4,Group2,1-2 years,Region2,2,2,1,3,I'm struggling with the mobile app's frequent crashes—please fix this.,2022-03-19 19:55:28+00:00,,https://beepbeep.gov/,2022,Mar-2022
+2023-08-27_17:35:06-83,d47bc6b0-d062-,4,4,4,Group4,2-3 years,Region3,2,1,2,2,The product information on your website lacks important details.,2022-03-19 19:55:34+00:00,,https://news.google.com/rss/articles/CBMiSmh0dHBzOi8vZmN3LmNvbS9kaWdpdGFsLWdvdmVybm1lbnQvMjAyMi8wMi9sb2dpbmdvdi1sb29rcy1kaXJlY3Rvci8zNjE5MDYv0gEA?oc=5,2022,Mar-2022
+2023-08-27_17:35:06-84,d78a84a5-0f0d-,4,4,3,Group3,2-3 years,Region3,2,2,3,3,I love the modern look and feel of your redesigned website.,2022-03-19 19:56:15+00:00,,https://news.google.com/rss/articles/CBMiPGh0dHBzOi8vZmVkc2Nvb3AuY29tL2dzYS1mb3Jnb2VzLWZhY2lhbC1yZWNvZ25pdGlvbi1mb3Itbm93L9IBAA?oc=5,2022,Mar-2022
+2023-08-27_17:35:06-85,f6af7055-1e08-,4,4,4,Group2,3-4 years,Region2,2,5,2,3,The online tutorials are informative and helped me get started quickly.,2022-03-19 19:56:58+00:00,,https://news.google.com/rss/articles/CBMiVmh0dHBzOi8vZmN3LmNvbS9pdC1tb2Rlcm5pemF0aW9uLzIwMjIvMDIvaXJzLWdyYXBwbGVzLWlkbWUtd2hhdHMtbmV4dC1sb2dpbmdvdi8zNjE2Mzcv0gEA?oc=5,2022,Mar-2022
+2023-08-27_17:35:06-86,34c056f4-ed94-,4,4,4,Group3,2-3 years,Region2,4,4,4,4,I'm impressed by the speed of your service,2022-03-19 19:57:13+00:00,,https://beepbeep.gov/,2022,Mar-2022
+2023-08-27_17:35:06-87,0920765e-4507-,5,4,5,Group5,3-4 years,Region2,2,4,3,2,The reference guide is confusing and needs clarity.,2022-03-19 19:57:27+00:00,,https://www.google.com/,2022,Mar-2022
+2023-08-27_17:35:06-88,a1fcdeef-f1d0-,5,4,4,Group5,4-5 years,Region2,3,4,4,2,Your agency's commitment to sustainability is truly commendable.,2022-03-19 19:57:37+00:00,,https://beepbeep.gov/,2022,Mar-2022
+2023-08-27_17:35:06-89,267acb97-6463-,5,5,5,Group4,3-4 years,Region2,3,4,5,4,The online tool process needs optimization—it took too many steps.,2022-03-19 19:58:04+00:00,/contact/,https://resources.beepbeep.gov/,2022,Mar-2022
+2023-08-27_17:35:06-90,629bf573-9308-,5,5,5,Group5,4-5 years,Region2,5,5,5,4,"I encountered an error while applying a promo code, which was frustrating.",2022-03-19 19:58:21+00:00,/contact/,https://beepbeep.gov/,2022,Mar-2022
+2023-08-27_17:35:06-91,517ff997-eacd-,4,4,4,Group4,3-4 years,Region2,1,1,1,1,The lack of a guest checkout option is inconvenient for first-time applies.,2022-03-19 19:59:11+00:00,,https://beepbeep.gov/,2022,Mar-2022
+2023-08-27_17:35:06-92,42896acd-689c-,4,4,4,Group5,3-4 years,Region2,4,5,3,3,The customer service representative was rude and unhelpful.,2022-03-19 20:01:33+00:00,,https://beepbeep.gov/,2022,Mar-2022
+2023-08-27_17:35:06-93,d336120f-4990-,4,5,3,Group4,3-4 years,Region2,2,2,1,2,The interactive user guide made assembling the product a breeze.,2022-03-19 20:03:10+00:00,,https://catalog.beepbeep.gov/,2022,Mar-2022
+2023-08-27_17:35:06-94,9fde5041-bdb0-,5,4,4,Group3,2-3 years,Region2,2,2,2,2,I'm satisfied with the variety of payment methods you offer.,2022-03-19 20:03:20+00:00,,https://beepbeep.doi.gov/,2022,Mar-2022
+2023-08-27_17:35:06-95,287286f4-b22b-,4,5,5,Group4,2-3 years,Region2,3,2,3,2,The loading times on your website are incredibly slow—please fix this.,2022-03-19 20:03:40+00:00,,https://beepbeep.gov/maritime/contact/,2022,Mar-2022
+2023-08-27_17:35:06-96,393d6e23-7c41-,4,4,4,Group4,1-2 years,Region2,4,5,2,4,"The after-hrs support was fantastic, assisting me with my concerns.",2022-03-19 20:04:21+00:00,,https://beepbeep.gov/maritime/contact/,2022,Mar-2022
+2023-08-27_17:35:06-97,c0bc1041-590c-,4,5,4,Group3,2-3 years,Region3,3,4,4,2,the government...,2022-03-19 20:04:29+00:00,,https://beepbeep.gov/energy/contact/,2022,Mar-2022
+2023-08-27_17:35:06-98,009c360c-5f61-,4,4,4,Group3,1-2 years,Region3,3,2,2,3,,2022-03-19 20:04:44+00:00,,https://beepbeep.gov/,2022,Mar-2022
+2023-08-27_17:35:06-99,9d8218e7-3e3e-,3,4,4,Group3,1-2 years,Region3,2,2,2,2,,2022-03-19 20:04:51+00:00,,https://catalog.beepbeep.gov/,2022,Mar-2022
+2023-08-27_17:35:06-100,4a918652-4c0f-,4,4,3,Group1,2-3 years,Region2,1,2,2,3,each day was well organized and very productive was good,2022-03-19 20:04:55+00:00,,https://beepbeep.gov/,2022,Mar-2022
+2023-08-27_17:35:06-101,1bcf7ae7-e57b-,4,5,4,Group4,4-5 years,Region3,5,2,4,4,The Team was very helpful and anxious to learn as well as teach was nice,2022-03-19 20:05:56+00:00,,https://beepbeep.gov/,2022,Mar-2022
+2023-08-27_17:35:06-102,0d20638f-9690-,3,1,3,Group3,2-3 years,Region3,2,2,2,2,ALL ppl from the staff attendant to the more senior folks were very supportive was good,2022-03-19 20:06:47+00:00,,https://beepbeep.gov/,2022,Mar-2022
+2023-08-27_17:35:06-103,b1ffbc49-89a6-,4,4,3,Group4,3-4 years,Region2,2,4,2,2,opportunity to have the conversations with such qualified professionals was good,2022-03-19 20:07:13+00:00,/contact/,https://catalog.beepbeep.gov/,2022,Mar-2022
+2023-08-27_17:35:06-104,dde28e08-fd44-,4,4,3,Group4,2-3 years,Region2,3,4,3,3,took almost a year for a response. was frustrating,2022-03-19 20:07:27+00:00,/contact/,https://beepbeep.gov/maritime/contact/,2022,Mar-2022
+2023-08-27_17:35:06-105,166b0271-b777-,3,4,3,Group3,3-4 years,Region3,2,1,1,2,to receive our letter of approval took an extended amount of time,2022-03-19 20:07:31+00:00,/contact/,https://beepbeep.gov/maritime/contact/,2022,Mar-2022
+2023-08-27_17:35:06-106,6df34d45-2541-,5,4,4,Group3,2-3 years,Region2,4,4,3,2,information were not the same across various state and govt,2022-03-19 20:07:57+00:00,/contact/,https://beepbeep.gov/request/,2022,Mar-2022
+2023-08-27_17:35:06-107,86082eb3-53da-,3,3,3,Group4,1-2 years,Region2,2,3,3,3,There seemed to be a significant lag time between the benefits admission and approval,2022-03-19 20:08:05+00:00,/contact/,https://beepbeep.gov/,2022,Mar-2022
+2023-08-27_17:35:06-108,9bc9f72d-107a-,4,4,4,Group3,2-3 years,Region2,2,2,1,2,The application dismissal was frustrating,2022-03-19 20:08:15+00:00,/contact/,https://beepbeep.gov/,2022,Mar-2022
+2023-08-27_17:35:06-109,41174184-72c1-,5,5,4,Group4,3-4 years,Region2,4,5,4,4,one of the worse services i have every used,2022-03-19 20:08:29+00:00,/contact/,https://beepbeep.gov/,2022,Mar-2022
+2023-08-27_17:35:06-110,a1b13fd5-eec7-,3,4,2,Group3,3-4 years,Region3,3,3,3,3,not a nice experience,2022-03-19 20:10:51+00:00,/contact/,https://beepbeep.gov/,2022,Mar-2022
+2023-08-27_17:35:06-111,3371f212-e0b1-,4,4,3,Group3,2-3 years,Region3,2,3,3,3,very rude interaction,2022-03-19 20:11:06+00:00,/contact/,https://beepbeep.gov/,2022,Mar-2022
+2023-08-27_17:35:06-112,8da67b28-e70b-,4,4,4,Group4,3-4 years,Region2,3,3,3,3,Excellent website! consider this..,2022-03-19 20:11:31+00:00,/contact/,https://beepbeep.gov/,2022,Mar-2022
+2023-08-27_17:35:06-113,7f4bee94-465e-,4,4,4,Group3,3-4 years,Region3,3,2,2,2,Its nice website,2022-03-21 09:05:32+00:00,/contact/,https://beepbeep.gov/request/,2022,Mar-2022
+2023-08-27_17:35:06-114,697ea6d7-e078-,3,4,4,Group3,2-3 years,Region2,2,2,2,3,,2022-03-22 15:09:53+00:00,/contact/,https://beepbeep.gov/request/,2022,Mar-2022
+2023-08-27_17:35:06-115,4bdb9bd9-a16b-,3,5,4,Group3,1-2 years,Region3,2,2,3,1,,2022-03-22 16:26:33+00:00,/contact/,https://beepbeep.gov/food/contact/,2022,Mar-2022
+2023-08-27_17:35:06-116,998c0477-eff2-,5,3,3,Group2,1-2 years,Region2,2,2,2,2,,2022-03-22 20:48:39+00:00,/contact/,https://beepbeep.gov/food/contact/,2022,Mar-2022
+2023-08-27_17:35:06-117,04307290-6bd1-,4,4,4,Group4,3-4 years,Region3,4,4,4,4,,2022-03-23 09:35:18+00:00,/contact/,https://catalog.beepbeep.gov/,2022,Mar-2022
+2023-08-27_17:35:06-118,d782b6d5-3edd-,5,5,5,Group2,2-3 years,Region2,3,3,3,3,,2022-03-23 16:07:57+00:00,/contact/,https://beepbeep.gov/,2022,Mar-2022
+2023-08-27_17:35:06-119,2572f34f-cf82-,4,5,4,Group4,4-5 years,Region2,3,5,3,3,,2022-03-23 17:39:03+00:00,/contact/,https://catalog.beepbeep.gov/,2022,Mar-2022
+2023-08-27_17:35:06-120,a61f5d22-1cf0-,4,4,5,Group3,1-2 years,Region2,2,3,3,3,,2022-03-23 18:21:19+00:00,/contact/,https://beepbeep.gov/,2022,Mar-2022
+2023-08-27_17:35:06-121,cc8a33be-ab20-,5,5,5,Group3,0-1 years,Region2,1,1,1,3,,2022-03-24 06:38:15+00:00,/contact/,https://beepbeep.gov/,2022,Mar-2022
+2023-08-27_17:35:06-122,a1b8ddfe-98a2-,3,5,3,Group3,2-3 years,Region3,1,1,2,3,,2022-03-24 14:17:39+00:00,/contact/,https://beepbeep.gov/,2022,Mar-2022
+2023-08-27_17:35:06-123,60f7b058-5c27-,4,4,4,Group2,2-3 years,Region2,3,3,3,3,,2022-03-24 18:07:18+00:00,/contact/,https://beepbeep.gov/,2022,Mar-2022
+2023-08-27_17:35:06-124,613eed21-a55c-,4,3,4,Group3,2-3 years,Region2,3,2,3,2,,2022-03-25 12:56:38+00:00,/contact/,https://catalog.beepbeep.gov/,2022,Mar-2022
+2023-08-27_17:35:06-125,a40619f2-bc43-,5,5,5,Group4,3-4 years,Region2,5,4,4,4,,2022-03-25 21:22:04+00:00,/contact/,https://beepbeep.gov/,2022,Mar-2022
+2023-08-27_17:35:06-126,c8f397ae-473b-,3,4,4,Group2,2-3 years,Region3,4,3,4,4,,2022-03-26 08:49:05+00:00,/contact/,https://beepbeep.gov/,2022,Mar-2022
+2023-08-27_17:35:06-127,fe300066-9bae-,2,2,2,Group3,1-2 years,Region1,1,2,1,2,,2022-03-26 09:14:39+00:00,/contact/,https://beepbeep.gov/,2022,Mar-2022
+2023-08-27_17:35:06-128,2c9433e0-2131-,4,4,5,Group4,3-4 years,Region2,4,2,4,4,,2022-03-26 09:23:36+00:00,/contact/,https://beepbeep.gov/,2022,Mar-2022
+2023-08-27_17:35:06-129,7ad26aac-b520-,4,3,5,Group4,3-4 years,Region2,3,2,2,4,,2022-03-26 20:22:42+00:00,/contact/,https://catalog.beepbeep.gov/,2022,Mar-2022
+2023-08-27_17:35:06-130,232f0e06-fa3b-,4,3,3,Group2,1-2 years,Region3,2,1,2,2,,2022-03-27 18:09:27+00:00,/contact/,https://beepbeep.gov/,2022,Mar-2022
+2023-08-27_17:35:06-131,48b7e339-a4b3-,4,4,2,Group2,0-1 years,Region3,1,1,1,2,,2022-03-27 20:34:51+00:00,/contact/,https://beepbeep.gov/,2022,Mar-2022
+2023-08-27_17:35:06-132,d0c834da-04c3-,4,3,3,Group2,1-2 years,Region3,2,2,2,4,,2022-03-27 20:36:00+00:00,/contact/,https://beepbeep.gov/,2022,Mar-2022
+2023-08-27_17:35:06-133,0d5bb775-0c12-,4,2,3,Group2,2-3 years,Region3,2,2,2,3,,2022-03-27 23:30:13+00:00,/contact/,https://beepbeep.gov/,2022,Mar-2022
+2023-08-27_17:35:06-134,bd41bba4-4447-,4,4,4,Group4,2-3 years,Region2,4,4,5,4,,2022-03-28 12:15:47+00:00,/contact/,https://catalog.beepbeep.gov/,2022,Mar-2022
+2023-08-27_17:35:06-135,5f875e73-e6ab-,4,4,4,Group5,3-4 years,Region2,3,4,3,3,,2022-03-28 13:56:12+00:00,/contact/,https://catalog.beepbeep.gov/,2022,Mar-2022
+2023-08-27_17:35:06-136,f30bcddc-6272-,5,4,4,Group3,2-3 years,Region2,3,3,3,4,,2022-03-28 16:54:20+00:00,/contact/,https://catalog.beepbeep.gov/,2022,Mar-2022
+2023-08-27_17:35:06-137,1e2cf6b6-8b0e-,4,3,4,Group2,2-3 years,Region3,2,2,3,2,,2022-03-28 20:47:09+00:00,/contact/,https://beepbeep.gov/,2022,Mar-2022
+2023-08-27_17:35:06-138,3020de78-b60f-,4,4,4,Group3,2-3 years,Region3,4,4,4,4,,2022-03-29 01:27:35+00:00,/contact/,https://beepbeep.gov/,2022,Mar-2022
+2023-08-27_17:35:06-139,0b09521c-a7e9-,4,4,3,Group4,2-3 years,Region3,2,2,2,2,,2022-03-29 03:33:14+00:00,/contact/,https://catalog.beepbeep.gov/,2022,Mar-2022
+2023-08-27_17:35:06-140,82c89281-1462-,5,4,4,Group5,3-4 years,Region2,2,2,2,2,,2022-03-30 18:08:45+00:00,/contact/,https://beepbeep.gov/,2022,Mar-2022
+2023-08-27_17:35:06-141,98ef8bb5-0454-,4,4,4,Group2,1-2 years,Region2,2,2,2,4,,2022-04-01 13:57:32+00:00,/contact/,https://beepbeep.gov/,2022,Apr-2022
+2023-08-27_17:35:06-142,b2a5547d-8581-,5,5,5,Group5,4-5 years,Region2,2,4,4,3,,2022-04-02 06:52:41+00:00,/contact/,https://beepbeep.gov/,2022,Apr-2022
+2023-08-27_17:35:06-143,c6743578-5968-,4,3,3,Group2,1-2 years,Region2,2,2,2,2,,2022-04-02 18:07:31+00:00,/contact/,https://beepbeep.gov/,2022,Apr-2022
+2023-08-27_17:35:06-144,0d7993ce-b849-,4,4,3,Group2,3-4 years,Region2,4,2,2,3,,2022-04-04 02:15:03+00:00,/contact/,https://beepbeep.gov/,2022,Apr-2022
+2023-08-27_17:35:06-145,ce7cd6eb-2735-,4,5,5,Group4,2-3 years,Region2,3,3,3,3,,2022-04-04 13:25:07+00:00,/contact/,https://beepbeep.gov/,2022,Apr-2022
+2023-08-27_17:35:06-146,f27b7b7e-5c1e-,4,5,4,Group3,3-4 years,Region3,2,4,3,5,,2022-04-04 14:42:01+00:00,/contact/,https://beepbeep.gov/,2022,Apr-2022
+2023-08-27_17:35:06-147,3408cd4f-e005-,4,4,4,Group2,3-4 years,Region2,2,2,2,2,,2022-04-04 17:43:57+00:00,/contact/,https://catalog.beepbeep.gov/,2022,Apr-2022
+2023-08-27_17:35:06-148,4804e62b-3792-,4,3,4,Group3,2-3 years,Region3,4,2,2,3,,2022-04-04 18:24:03+00:00,/contact/,https://beepbeep.gov/,2022,Apr-2022
+2023-08-27_17:35:06-149,06813e0d-80b7-,5,5,5,Group5,4-5 years,Region2,5,4,4,4,,2022-04-05 12:37:01+00:00,/contact/,https://catalog.beepbeep.gov/,2022,Apr-2022
+2023-08-27_17:35:06-150,9f0b7e2f-56de-,4,3,3,Group3,2-3 years,Region2,2,2,2,2,,2022-04-05 15:54:58+00:00,/contact/,https://beepbeep.gov/,2022,Apr-2022
+2023-08-27_17:35:06-151,38456428-518d-,3,3,4,Group3,2-3 years,Region3,3,4,3,3,,2022-04-05 16:35:15+00:00,/contact/,https://beepbeep.gov/,2022,Apr-2022
+2023-08-27_17:35:06-152,fb2fe710-78f9-,4,2,4,Group2,3-4 years,Region2,2,3,2,3,,2022-04-05 18:48:19+00:00,/contact/,https://beepbeep.gov/,2022,Apr-2022
+2023-08-27_17:35:06-153,f8944da4-7dba-,4,4,4,Group4,2-3 years,Region2,3,5,3,3,,2022-04-05 19:36:09+00:00,/contact/,https://api.beepbeep.gov/,2022,Apr-2022
+2023-08-27_17:35:06-154,e01aad28-b678-,4,4,4,Group4,2-3 years,Region2,2,4,2,2,,2022-04-06 10:21:00+00:00,/contact/,https://catalog.beepbeep.gov/,2022,Apr-2022
+2023-08-27_17:35:06-155,96516177-2c4a-,1,1,1,Group3,1-2 years,Region2,2,2,2,2,,2022-04-06 12:34:14+00:00,/contact/,https://catalog.beepbeep.gov/,2022,Apr-2022
+2023-08-27_17:35:06-156,30ad215c-9efa-,4,3,3,Group4,2-3 years,Region3,4,4,4,3,,2022-04-08 12:06:17+00:00,/contact/,https://beepbeep.gov/,2022,Apr-2022
+2023-08-27_17:35:06-157,ec54a749-dc13-,4,4,4,Group3,2-3 years,Region3,2,3,3,3,,2022-04-08 18:26:27+00:00,/contact/,https://beepbeep.gov/,2022,Apr-2022
+2023-08-27_17:35:06-158,62a76b5e-b825-,4,4,4,Group3,2-3 years,Region3,3,4,4,4,,2022-04-08 20:23:25+00:00,/contact/,https://beepbeep.gov/,2022,Apr-2022
+2023-08-27_17:35:06-159,0e9613b1-103e-,4,4,4,Group3,3-4 years,Region2,3,4,4,4,,2022-04-08 22:40:37+00:00,/contact/,https://beepbeep.gov/,2022,Apr-2022
+2023-08-27_17:35:06-160,5ed15884-5763-,3,4,3,Group3,2-3 years,Region3,2,2,2,3,,2022-04-10 11:44:22+00:00,/contact/,https://beepbeep.gov/,2022,Apr-2022
+2023-08-27_17:35:06-161,0b87e99b-3f7f-,2,4,2,Group3,2-3 years,Region3,2,2,2,4,,2022-04-11 16:26:49+00:00,/contact/,https://beepbeep.gov/,2022,Apr-2022
+2023-08-27_17:35:06-162,4e46df89-d5d2-,4,5,2,Group1,2-3 years,Region3,2,2,2,3,,2022-04-11 16:28:26+00:00,/contact/,https://beepbeep.gov/,2022,Apr-2022
+2023-08-27_17:35:06-163,b27fda98-a693-,4,4,4,Group3,3-4 years,Region3,2,2,4,4,,2022-04-11 21:34:46+00:00,/contact/,https://catalog.beepbeep.gov/,2022,Apr-2022
+2023-08-27_17:35:06-164,7f67d30c-4ed0-,4,4,4,Group4,3-4 years,Region2,3,4,4,4,,2022-04-11 23:07:49+00:00,/contact/,https://resources.beepbeep.gov/,2022,Apr-2022
+2023-08-27_17:35:06-165,a3a6e496-9a61-,4,5,5,Group2,3-4 years,Region2,1,2,3,2,,2022-04-12 18:38:08+00:00,/contact/,https://catalog.beepbeep.gov/,2022,Apr-2022
+2023-08-27_17:35:06-166,71bf5154-47a3-,5,4,5,Group4,3-4 years,Region2,3,4,3,3,,2022-04-13 04:36:33+00:00,/contact/,https://www.bing.com/,2022,Apr-2022
+2023-08-27_17:35:06-167,43f4d693-68c6-,5,4,4,Group4,3-4 years,Region2,2,2,2,1,,2022-04-13 08:38:27+00:00,/contact/,https://resources.beepbeep.gov/,2022,Apr-2022
+2023-08-27_17:35:06-168,d4803e86-3b43-,4,4,4,Group2,2-3 years,Region3,2,2,2,2,,2022-04-13 20:30:06+00:00,/contact/,https://beepbeep.gov/,2022,Apr-2022
+2023-08-27_17:35:06-169,54f47640-e242-,3,4,3,Group3,2-3 years,Region3,2,2,1,1,,2022-04-14 04:58:21+00:00,/contact/,https://beepbeep.gov/,2022,Apr-2022
+2023-08-27_17:35:06-170,47f4f689-c547-,4,5,4,Group3,4-5 years,Region2,2,1,2,2,,2022-04-14 13:37:40+00:00,/contact/,https://beepbeep.gov/,2022,Apr-2022
+2023-08-27_17:35:06-171,92765e6c-2127-,4,4,3,Group3,3-4 years,Region2,2,3,3,4,,2022-04-14 15:13:43+00:00,/contact/,https://beepbeep.gov/,2022,Apr-2022
+2023-08-27_17:35:06-172,c5d5cc43-bfb1-,4,3,3,Group2,1-2 years,Region2,2,2,2,2,,2022-04-14 17:37:20+00:00,/contact/,https://beepbeep.gov/,2022,Apr-2022
+2023-08-27_17:35:06-173,f1c244f1-8f39-,4,4,4,Group5,3-4 years,Region2,4,3,3,1,,2022-04-14 20:49:56+00:00,/contact/,https://beepbeep.gov/,2022,Apr-2022
+2023-08-27_17:35:06-174,ebea6802-c739-,3,4,3,Group3,2-3 years,Region2,2,2,2,2,,2022-04-14 23:54:31+00:00,/contact/,https://beepbeep.gov/,2022,Apr-2022
+2023-08-27_17:35:06-175,e12cf53e-71d2-,4,5,4,Group3,2-3 years,Region3,3,3,3,3,,2022-04-17 22:30:37+00:00,/contact/,https://beepbeep.gov/,2022,Apr-2022
+2023-08-27_17:35:06-176,08ecd624-8c12-,4,4,4,Group5,3-4 years,Region2,4,5,4,3,,2022-04-17 22:32:21+00:00,/contact/,https://beepbeep.gov/,2022,Apr-2022
+2023-08-27_17:35:06-177,1481e2b3-fa67-,3,4,3,Group3,2-3 years,Region2,3,4,2,4,,2022-04-18 04:20:33+00:00,/contact/,https://beepbeep.gov/,2022,Apr-2022
+2023-08-27_17:35:06-178,6e6f0902-9fa6-,4,4,4,Group3,2-3 years,Region3,3,2,3,3,,2022-04-18 15:30:53+00:00,/contact/,https://beepbeep.gov/,2022,Apr-2022
+2023-08-27_17:35:06-179,c697e6ff-1d03-,3,3,3,Group2,3-4 years,Region2,3,3,2,3,,2022-04-19 00:28:07+00:00,/contact/,https://catalog.beepbeep.gov/,2022,Apr-2022
+2023-08-27_17:35:06-180,84c93dbc-32c8-,4,4,4,Group4,2-3 years,Region3,3,3,3,3,,2022-04-19 14:45:40+00:00,/contact/,https://beepbeep.gov/,2022,Apr-2022
+2023-08-27_17:35:06-181,37ddf64f-52ac-,5,5,4,Group3,2-3 years,Region2,2,4,3,2,,2022-04-19 15:14:30+00:00,/contact/,https://beepbeep.gov/,2022,Apr-2022
+2023-08-27_17:35:06-182,89f4e741-09f1-,4,2,4,Group2,2-3 years,Region3,3,4,3,3,,2022-04-19 19:04:36+00:00,/contact/,https://beepbeep.gov/,2022,Apr-2022
+2023-08-27_17:35:06-183,8b87a9a8-c171-,2,4,4,Group3,3-4 years,Region2,2,1,3,3,,2022-04-19 19:07:06+00:00,/contact/,https://beepbeep.gov/,2022,Apr-2022
+2023-08-27_17:35:06-184,25312d98-ffe2-,5,4,5,Group3,2-3 years,Region3,2,3,2,4,,2022-04-20 11:25:27+00:00,/contact/,https://catalog.beepbeep.gov/,2022,Apr-2022
+2023-08-27_17:35:06-185,1513ab2d-9847-,4,4,4,Group2,2-3 years,Region3,2,2,2,3,,2022-04-20 13:25:07+00:00,/contact/,https://catalog.beepbeep.gov/,2022,Apr-2022
+2023-08-27_17:35:06-186,f8b5640a-77fc-,4,3,4,Group3,2-3 years,Region3,3,3,3,2,,2022-04-20 14:42:11+00:00,/contact/,https://beepbeep.gov/,2022,Apr-2022
+2023-08-27_17:35:06-187,cdff3bc8-5255-,4,4,2,Group3,2-3 years,Region2,1,2,1,3,,2022-04-20 15:57:26+00:00,/contact/,https://catalog.beepbeep.gov/,2022,Apr-2022
+2023-08-27_17:35:06-188,733c23e2-4fb9-,5,5,4,Group3,2-3 years,Region2,1,4,2,3,,2022-04-20 17:21:09+00:00,/contact/,https://beepbeep.gov/,2022,Apr-2022
+2023-08-27_17:35:06-189,2e2f056d-bdf7-,4,4,3,Group4,2-3 years,Region3,2,2,2,4,,2022-04-21 20:36:10+00:00,/contact/,https://catalog.beepbeep.gov/,2022,Apr-2022
+2023-08-27_17:35:06-190,1f8abcfc-d062-,4,3,3,Group2,2-3 years,Region3,3,2,2,2,,2022-04-23 18:42:22+00:00,/contact/,https://beepbeep.gov/,2022,Apr-2022
+2023-08-27_17:35:06-191,cc335d70-aecc-,3,4,3,Group2,0-1 years,Region2,1,1,1,4,,2022-04-24 18:05:53+00:00,/contact/,https://beepbeep.gov/,2022,Apr-2022
+2023-08-27_17:35:06-192,4d30dc76-243d-,2,2,4,Group2,2-3 years,Region3,3,2,3,4,,2022-04-25 14:47:41+00:00,/contact/,https://beepbeep.gov/,2022,Apr-2022
+2023-08-27_17:35:06-193,6b1dec7b-74d2-,4,4,4,Group3,2-3 years,Region3,2,3,2,2,,2022-04-25 16:57:14+00:00,/contact/,https://beepbeep.gov/,2022,Apr-2022
+2023-08-27_17:35:06-194,0c8b3d3a-0aeb-,4,3,2,Group2,2-3 years,Region2,2,2,2,2,,2022-04-26 13:01:33+00:00,/contact/,https://beepbeep.gov/request/,2022,Apr-2022
+2023-08-27_17:35:06-195,5fadb08e-caef-,4,5,5,Group3,2-3 years,Region3,3,4,3,3,,2022-04-26 16:24:10+00:00,/contact/,https://beepbeep.gov/,2022,Apr-2022
+2023-08-27_17:35:06-196,3f8f0b63-8dcb-,4,4,3,Group3,2-3 years,Region2,1,1,1,1,,2022-04-27 04:07:38+00:00,/contact/,https://catalog.beepbeep.gov/,2022,Apr-2022
+2023-08-27_17:35:06-197,e71cd801-9700-,5,5,5,Group5,4-5 years,Region2,5,5,3,3,,2022-04-27 13:20:37+00:00,/contact/,https://resources.beepbeep.gov/,2022,Apr-2022
+2023-08-27_17:35:06-198,840420ba-020c-,4,3,4,Group2,2-3 years,Region3,3,2,2,4,,2022-04-27 16:55:36+00:00,/contact/,https://beepbeep.gov/,2022,Apr-2022
+2023-08-27_17:35:06-199,835e150f-a6af-,4,5,4,Group4,3-4 years,Region2,3,3,3,2,,2022-04-27 22:55:06+00:00,/contact/,https://beepbeep.gov/,2022,Apr-2022
+2023-08-27_17:35:06-200,288bbc08-99b6-,3,1,1,Group3,2-3 years,Region2,1,1,1,1,,2022-04-28 06:14:58+00:00,/contact/,https://beepbeep.gov/,2022,Apr-2022
+2023-08-27_17:35:06-201,7730245d-dd4d-,4,4,4,Group3,2-3 years,Region3,3,3,3,4,,2022-04-29 00:06:41+00:00,/contact/,https://beepbeep.gov/,2022,Apr-2022
+2023-08-27_17:35:06-202,18753f0f-0258-,4,3,4,Group3,2-3 years,Region3,3,2,4,3,,2022-04-29 06:40:40+00:00,/contact/,https://beepbeep.gov/,2022,Apr-2022
+2023-08-27_17:35:06-203,b99d5ac7-de1b-,2,4,2,Group4,1-2 years,Region2,2,2,2,2,,2022-04-29 07:34:01+00:00,/contact/,https://beepbeep.gov/,2022,Apr-2022
+2023-08-27_17:35:06-204,e1b8dff2-2bc4-,3,2,2,Group2,2-3 years,Region2,2,2,2,2,,2022-04-29 17:29:28+00:00,/contact/,https://beepbeep.gov/,2022,Apr-2022
+2023-08-27_17:35:06-205,6cda8cc0-db0b-,3,4,3,Group3,1-2 years,Region2,3,2,3,2,,2022-05-01 04:54:48+00:00,/contact/,https://beepbeep.gov/,2022,May-2022
+2023-08-27_17:35:06-206,743b53f1-3c73-,5,5,4,Group3,2-3 years,Region3,4,5,4,4,,2022-05-01 09:12:12+00:00,/contact/,https://beepbeep.gov/,2022,May-2022
+2023-08-27_17:35:06-207,2885f46a-98ab-,3,3,3,Group3,1-2 years,Region2,2,3,3,3,,2022-05-03 14:49:28+00:00,/contact/,https://beepbeep.gov/,2022,May-2022
+2023-08-27_17:35:06-208,f5e91da1-3095-,4,5,4,Group4,4-5 years,Region2,2,5,4,4,,2022-05-04 09:51:57+00:00,/contact/,https://beepbeep.gov/,2022,May-2022
+2023-08-27_17:35:06-209,eed5dc19-8695-,4,3,4,Group2,2-3 years,Region2,2,2,2,3,,2022-05-04 16:34:41+00:00,/contact/,https://beepbeep.gov/request/,2022,May-2022
+2023-08-27_17:35:06-210,1d2439d6-1c94-,3,3,2,Group3,2-3 years,Region2,2,2,2,1,,2022-05-04 18:01:58+00:00,/contact/,https://beepbeep.gov/,2022,May-2022
+2023-08-27_17:35:06-211,50259ec2-a424-,4,3,4,Group2,1-2 years,Region3,3,2,2,3,,2022-05-04 18:42:06+00:00,/contact/,https://beepbeep.gov/,2022,May-2022
+2023-08-27_17:35:06-212,715265a3-28cd-,3,4,3,Group3,2-3 years,Region3,3,3,3,3,,2022-05-04 18:59:13+00:00,/contact/,https://beepbeep.gov/,2022,May-2022
+2023-08-27_17:35:06-213,e1f62d8a-8c8a-,4,4,5,Group3,2-3 years,Region2,3,2,3,4,,2022-05-04 19:33:49+00:00,/contact/,https://beepbeep.gov/,2022,May-2022
+2023-08-27_17:35:06-214,897fc467-33bd-,4,4,3,Group2,1-2 years,Region2,2,2,2,2,,2022-05-04 21:03:03+00:00,/contact/,https://catalog.beepbeep.gov/,2022,May-2022
+2023-08-27_17:35:06-215,54894b89-5a0d-,4,4,4,Group3,2-3 years,Region3,3,2,2,2,,2022-05-05 16:35:15+00:00,/contact/,https://resources.beepbeep.gov/,2022,May-2022
+2023-08-27_17:35:06-216,2aa45742-75b4-,4,4,4,Group4,3-4 years,Region2,3,4,2,4,,2022-05-06 05:33:02+00:00,/contact/,https://catalog.beepbeep.gov/,2022,May-2022
+2023-08-27_17:35:06-217,4ec765a5-17c9-,4,4,3,Group3,1-2 years,Region3,2,4,4,3,,2022-05-06 20:53:53+00:00,/contact/,https://beepbeep.gov/,2022,May-2022
+2023-08-27_17:35:06-218,2c9edd3b-3c23-,4,2,3,Group2,1-2 years,Region3,2,4,3,3,,2022-05-06 22:42:46+00:00,/contact/,https://beepbeep.gov/,2022,May-2022
+2023-08-27_17:35:06-219,695839cb-94f7-,3,4,3,Group3,2-3 years,Region3,3,3,3,3,,2022-05-07 10:24:51+00:00,/contact/,https://beepbeep.gov/,2022,May-2022
+2023-08-27_17:35:06-220,46971704-8629-,4,3,3,Group3,2-3 years,Region2,2,3,2,2,,2022-05-07 15:12:40+00:00,/contact/,https://beepbeep.gov/,2022,May-2022
+2023-08-27_17:35:06-221,6d76ee0f-02b2-,4,4,4,Group3,1-2 years,Region2,2,2,2,2,,2022-05-07 17:01:17+00:00,/contact/,https://beepbeep.gov/,2022,May-2022
+2023-08-27_17:35:06-222,6d236346-49a6-,4,4,3,Group2,1-2 years,Region3,2,4,4,4,,2022-05-08 03:18:09+00:00,/contact/,https://beepbeep.gov/,2022,May-2022
+2023-08-27_17:35:06-223,a794e802-6d02-,4,3,4,Group3,2-3 years,Region3,2,3,2,3,,2022-05-09 16:40:39+00:00,/contact/,https://catalog.beepbeep.gov/,2022,May-2022
+2023-08-27_17:35:06-224,a4f3a0fa-4883-,5,5,5,Group3,4-5 years,Region2,5,4,3,3,,2022-05-10 03:32:23+00:00,/contact/,https://beepbeep.gov/labs/,2022,May-2022
+2023-08-27_17:35:06-225,3895e045-cfc4-,3,4,4,Group2,2-3 years,Region3,2,1,2,1,,2022-05-10 16:19:59+00:00,/contact/,https://beepbeep.gov/,2022,May-2022
+2023-08-27_17:35:06-226,358c08be-d8a8-,5,5,5,Group4,3-4 years,Region2,4,5,5,4,,2022-05-10 16:20:41+00:00,/contact/,https://catalog.beepbeep.gov/,2022,May-2022
+2023-08-27_17:35:06-227,086ff2cf-8af9-,4,4,4,Group3,3-4 years,Region2,3,4,3,3,,2022-05-10 16:21:02+00:00,/contact/,https://beepbeep.gov/,2022,May-2022
+2023-08-27_17:35:06-228,d7c9ab6e-8a0e-,4,5,4,Group3,2-3 years,Region2,2,3,2,2,,2022-05-10 16:21:18+00:00,/contact/,https://beepbeep.gov/,2022,May-2022
+2023-08-27_17:35:06-229,3192e132-1854-,2,4,3,Group3,2-3 years,Region3,4,2,2,2,,2022-05-11 05:10:42+00:00,/contact/,https://beepbeep.gov/contact/,2022,May-2022
+2023-08-27_17:35:06-230,1bdafd06-1331-,4,4,4,Group3,2-3 years,Region2,2,3,4,3,,2022-05-11 17:55:47+00:00,/contact/,https://beepbeep.gov/,2022,May-2022
+2023-08-27_17:35:06-231,4e8db852-bffe-,4,4,4,Group3,3-4 years,Region3,2,4,3,2,,2022-05-11 18:54:54+00:00,/contact/,https://beepbeep.gov/,2022,May-2022
+2023-08-27_17:35:06-232,3d256e5d-9067-,3,4,3,Group3,3-4 years,Region2,3,2,2,3,,2022-05-11 20:38:17+00:00,/contact/,https://beepbeep.gov/,2022,May-2022
+2023-08-27_17:35:06-233,673220f5-5286-,4,4,4,Group3,2-3 years,Region2,2,3,3,3,,2022-05-12 12:50:55+00:00,/contact/,https://beepbeep.gov/about/,2022,May-2022
+2023-08-27_17:35:06-234,f677afce-1a41-,4,5,5,Group5,3-4 years,Region2,3,4,4,3,,2022-05-12 18:02:46+00:00,/contact/,https://catalog.beepbeep.gov/,2022,May-2022
+2023-08-27_17:35:06-235,4fa2c213-0232-,4,4,4,Group3,2-3 years,Region3,2,2,2,2,,2022-05-12 21:02:53+00:00,/contact/,https://beepbeep.gov/,2022,May-2022
+2023-08-27_17:35:06-236,0a231062-f547-,4,4,4,Group3,1-2 years,Region3,2,2,2,3,,2022-05-13 14:56:58+00:00,/contact/,https://beepbeep.gov/,2022,May-2022
+2023-08-27_17:35:06-237,8ec263b9-39d1-,4,4,4,Group3,2-3 years,Region2,3,4,3,4,,2022-05-13 16:34:56+00:00,/contact/,https://beepbeep.gov/,2022,May-2022
+2023-08-27_17:35:06-238,8243a7cf-68cc-,4,4,4,Group2,1-2 years,Region2,2,4,2,4,,2022-05-14 06:04:10+00:00,/contact/,https://beepbeep.gov/,2022,May-2022
+2023-08-27_17:35:06-239,60d552f6-0bf4-,5,5,5,Group5,3-4 years,Region2,3,3,3,2,,2022-05-14 06:05:39+00:00,/contact/,https://beepbeep.gov/,2022,May-2022
+2023-08-27_17:35:06-240,e9ee245a-dc65-,5,5,4,Group3,2-3 years,Region3,2,2,2,3,,2022-05-14 06:06:05+00:00,/contact/,https://beepbeep.gov/,2022,May-2022
+2023-08-27_17:35:06-241,fb36594c-40a4-,3,2,2,Group2,0-1 years,Region1,1,1,1,2,,2022-05-14 06:06:36+00:00,/contact/,https://beepbeep.gov/,2022,May-2022
+2023-08-27_17:35:06-242,b107bed3-33a5-,4,4,4,Group3,1-2 years,Region2,2,2,2,2,,2022-05-14 14:25:44+00:00,/contact/,https://beepbeep.gov/,2022,May-2022
+2023-08-27_17:35:06-243,699e1357-ddc8-,3,3,3,Group2,2-3 years,Region3,4,4,4,4,,2022-05-14 15:41:43+00:00,/contact/,https://beepbeep.gov/contact/,2022,May-2022
+2023-08-27_17:35:06-244,a8feb198-3927-,4,4,4,Group5,1-2 years,Region3,2,2,2,2,,2022-05-14 18:48:35+00:00,/contact/,https://beepbeep.gov/,2022,May-2022
+2023-08-27_17:35:06-245,088a0938-3298-,4,4,4,Group3,1-2 years,Region3,3,2,2,1,,2022-05-14 20:40:43+00:00,/contact/,https://beepbeep.gov/,2022,May-2022
+2023-08-27_17:35:06-246,ddf6fb78-6f3c-,4,4,4,Group3,2-3 years,Region3,2,3,3,3,,2022-05-15 16:10:32+00:00,/contact/,https://beepbeep.gov/,2022,May-2022
+2023-08-27_17:35:06-247,0904e682-2438-,5,4,4,Group4,2-3 years,Region2,5,4,4,3,,2022-05-16 00:21:30+00:00,/contact/,https://beepbeep.gov/contact/,2022,May-2022
+2023-08-27_17:35:06-248,b98af1f8-aec2-,4,4,4,Group4,2-3 years,Region2,3,3,3,4,,2022-05-16 05:44:09+00:00,/contact/,https://beepbeep.gov/,2022,May-2022
+2023-08-27_17:35:06-249,306dfd56-4bab-,4,4,4,Group3,1-2 years,Region2,2,2,2,2,,2022-05-16 15:23:33+00:00,/contact/,https://beepbeep.gov/,2022,May-2022
+2023-08-27_17:35:06-250,692a7a5e-5876-,4,4,3,Group3,3-4 years,Region2,4,4,4,3,,2022-05-16 15:46:50+00:00,/contact/,https://beepbeep.gov/,2022,May-2022
+2023-08-27_17:35:06-251,e4e7147e-f693-,4,4,4,Group4,3-4 years,Region2,4,4,4,4,,2022-05-17 00:01:44+00:00,/contact/,https://beepbeep.gov/,2022,May-2022
+2023-08-27_17:35:06-252,0e6f35b6-30ce-,4,4,4,Group3,1-2 years,Region2,3,3,2,2,,2022-05-17 06:33:58+00:00,/contact/,https://beepbeep.gov/,2022,May-2022
+2023-08-27_17:35:06-253,2a528a7f-fe45-,3,4,4,Group2,1-2 years,Region2,2,2,3,3,,2022-05-17 21:26:20+00:00,/contact/,https://beepbeep.gov/,2022,May-2022
+2023-08-27_17:35:06-254,d7509011-a6da-,4,4,3,Group3,1-2 years,Region2,3,4,3,2,,2022-05-17 23:38:06+00:00,/contact/,https://beepbeep.gov/contact/,2022,May-2022
+2023-08-27_17:35:06-255,2f659df4-2fdb-,4,4,3,Group2,1-2 years,Region3,2,2,2,3,,2022-05-18 10:28:25+00:00,/contact/,https://beepbeep.gov/contact/,2022,May-2022
+2023-08-27_17:35:06-256,5eb5d438-e41d-,4,5,5,Group4,4-5 years,Region2,2,4,3,3,,2022-05-19 15:10:46+00:00,/contact/,https://beepbeep.gov/contact/,2022,May-2022
+2023-08-27_17:35:06-257,5042a34f-e716-,4,3,4,Group4,2-3 years,Region2,2,3,1,2,,2022-05-19 16:20:16+00:00,/contact/,https://beepbeep.gov/,2022,May-2022
+2023-08-27_17:35:06-258,35b2e0ce-7f8b-,5,5,5,Group4,3-4 years,Region3,2,2,2,2,,2022-05-19 20:53:20+00:00,/contact/,https://beepbeep.gov/,2022,May-2022
+2023-08-27_17:35:06-259,0cd5df80-3b95-,4,5,4,Group3,3-4 years,Region2,2,3,3,3,,2022-05-20 06:56:19+00:00,/contact/,https://catalog.beepbeep.gov/,2022,May-2022
+2023-08-27_17:35:06-260,fc2a0275-f855-,4,4,4,Group2,3-4 years,Region2,5,4,4,3,,2022-05-20 14:25:22+00:00,/contact/,https://beepbeep.gov/,2022,May-2022
+2023-08-27_17:35:06-261,7cf36f57-784b-,4,4,4,Group3,3-4 years,Region2,4,5,4,4,,2022-05-20 17:07:20+00:00,/contact/,https://beepbeep.gov/,2022,May-2022
+2023-08-27_17:35:06-262,6abfe999-aa5a-,4,4,4,Group1,3-4 years,Region2,2,2,2,4,,2022-05-20 23:45:59+00:00,/contact/,https://beepbeep.gov/,2022,May-2022
+2023-08-27_17:35:06-263,8095224f-a729-,4,3,4,Group3,2-3 years,Region3,3,3,3,3,,2022-05-21 01:06:12+00:00,/contact/,https://beepbeep.gov/,2022,May-2022
+2023-08-27_17:35:06-264,45100f61-3c70-,4,3,4,Group2,2-3 years,Region3,3,4,3,4,,2022-05-21 15:35:25+00:00,/contact/,https://catalog.beepbeep.gov/,2022,May-2022
+2023-08-27_17:35:06-265,9745320a-d7d6-,2,2,3,Group2,1-2 years,Region2,3,3,3,2,,2022-05-23 08:30:51+00:00,/contact/,https://resources.beepbeep.gov/,2022,May-2022
+2023-08-27_17:35:06-266,f48cafcb-aa9d-,4,5,5,Group4,3-4 years,Region2,2,2,2,2,,2022-05-23 14:00:16+00:00,/contact/,https://beepbeep.gov/about/,2022,May-2022
+2023-08-27_17:35:06-267,9a4e83a2-835b-,5,5,3,Group4,2-3 years,Region3,3,3,3,3,,2022-05-23 14:15:18+00:00,/contact/,https://beepbeep.gov/contact/,2022,May-2022
+2023-08-27_17:35:06-268,ed3a0fa1-1234-,4,4,3,Group2,1-2 years,Region2,2,2,2,2,,2022-05-24 09:23:29+00:00,/contact/,https://beepbeep.gov/,2022,May-2022
+2023-08-27_17:35:06-269,b29950aa-443e-,3,4,4,Group3,2-3 years,Region3,4,2,2,3,,2022-05-25 18:10:03+00:00,/contact/,https://catalog.beepbeep.gov/,2022,May-2022
+2023-08-27_17:35:06-270,3ec227f3-6c95-,4,2,3,Group3,2-3 years,Region3,4,2,4,4,,2022-05-26 05:14:22+00:00,/contact/,https://beepbeep.gov/,2022,May-2022
+2023-08-27_17:35:06-271,ee311aac-e890-,4,3,4,Group3,2-3 years,Region3,3,3,3,3,,2022-05-26 15:35:32+00:00,/contact/,https://beepbeep.gov/,2022,May-2022
+2023-08-27_17:35:06-272,1130f339-e9b0-,4,4,4,Group2,4-5 years,Region2,4,4,4,4,,2022-05-26 20:01:52+00:00,/contact/,https://beepbeep.gov/,2022,May-2022
+2023-08-27_17:35:06-273,3eda76a2-52f6-,4,4,4,Group3,3-4 years,Region3,1,2,3,3,,2022-05-26 21:46:32+00:00,/contact/,https://resources.beepbeep.gov/,2022,May-2022
+2023-08-27_17:35:06-274,b1800c21-fc26-,4,4,3,Group2,2-3 years,Region2,2,2,2,2,,2022-05-26 23:09:28+00:00,/contact/,https://www.google.com/,2022,May-2022
+2023-08-27_17:35:06-275,92fda418-c9e7-,4,5,4,Group3,1-2 years,Region2,2,2,2,3,,2022-05-27 11:49:14+00:00,/contact/,https://catalog.beepbeep.gov/,2022,May-2022
+2023-08-27_17:35:06-276,e2a8b3d8-fc2d-,3,4,3,Group4,2-3 years,Region3,3,4,3,3,,2022-05-27 20:39:58+00:00,/contact/,https://catalog.beepbeep.gov/,2022,May-2022
+2023-08-27_17:35:06-277,4dab635f-7938-,5,4,4,Group4,4-5 years,Region2,2,5,4,4,,2022-05-28 16:01:55+00:00,/contact/,https://beepbeep.gov/,2022,May-2022
+2023-08-27_17:35:06-278,1f7868c4-fe5d-,4,4,4,Group4,3-4 years,Region3,3,2,1,1,,2022-05-29 19:28:44+00:00,/contact/,https://beepbeep.gov/,2022,May-2022
+2023-08-27_17:35:06-279,6db276cc-849e-,4,4,4,Group3,2-3 years,Region3,2,5,2,3,,2022-05-31 00:43:42+00:00,/contact/,https://beepbeep.gov/,2022,May-2022
+2023-08-27_17:35:06-280,7e7f81fc-c3c6-,4,4,5,Group3,2-3 years,Region2,2,4,3,2,,2022-05-31 12:20:00+00:00,/contact/,https://beepbeep.gov/,2022,May-2022
+2023-08-27_17:35:06-281,c600ee44-9137-,5,4,5,Group4,3-4 years,Region2,4,4,2,3,,2022-05-31 18:59:46+00:00,/contact/,https://beepbeep.gov/,2022,May-2022
+2023-08-27_17:35:06-282,19ba3c25-578c-,3,4,4,Group3,2-3 years,Region2,4,3,3,3,,2022-06-01 14:55:12+00:00,/contact/,https://beepbeep.gov/,2022,Jun-2022
+2023-08-27_17:35:06-283,3fc5e786-dffd-,4,3,5,Group4,2-3 years,Region2,1,1,1,1,,2022-06-01 20:19:37+00:00,/contact/,https://beepbeep.gov/,2022,Jun-2022
+2023-08-27_17:35:06-284,d14ee1dd-abd9-,3,3,3,Group4,2-3 years,Region2,4,3,3,3,,2022-06-01 20:48:43+00:00,/contact/,https://catalog.beepbeep.gov/,2022,Jun-2022
+2023-08-27_17:35:06-285,c6a32ba9-37cf-,4,4,3,Group2,2-3 years,Region2,2,3,3,4,,2022-06-02 15:44:34+00:00,/contact/,https://beepbeep.gov/,2022,Jun-2022
+2023-08-27_17:35:06-286,7bfdc752-1f8b-,3,2,3,Group4,2-3 years,Region2,3,3,2,3,,2022-06-02 17:07:27+00:00,/contact/,https://www.bing.com/,2022,Jun-2022
+2023-08-27_17:35:06-287,db37587d-d62e-,4,4,5,Group3,2-3 years,Region2,3,4,3,2,,2022-06-02 17:38:53+00:00,/contact/,https://beepbeep.gov/search-results/?group=site&q=-aapi%20api%20OR%20%20res_format:api,2022,Jun-2022
+2023-08-27_17:35:06-288,501c2255-077e-,4,4,3,Group4,1-2 years,Region3,1,1,3,3,,2022-06-02 17:57:00+00:00,/contact/,https://beepbeep.gov/,2022,Jun-2022
+2023-08-27_17:35:06-289,6a58f7cb-4cb5-,5,4,4,Group5,4-5 years,Region2,5,5,5,5,,2022-06-02 19:02:40+00:00,/contact/,https://beepbeep.gov/about/,2022,Jun-2022
+2023-08-27_17:35:06-290,76293efa-aa7f-,4,4,3,Group4,2-3 years,Region2,3,4,4,4,,2022-06-03 20:30:35+00:00,/contact/,https://beepbeep.gov/,2022,Jun-2022
+2023-08-27_17:35:06-291,e851dc5b-d7da-,4,5,5,Group4,3-4 years,Region3,2,3,2,1,,2022-06-04 13:28:17+00:00,/contact/,https://beepbeep.gov/,2022,Jun-2022
+2023-08-27_17:35:06-292,a9445d17-62c8-,3,4,4,Group1,2-3 years,Region3,1,3,2,1,,2022-06-05 21:00:01+00:00,/contact/,https://beepbeep.gov/,2022,Jun-2022
+2023-08-27_17:35:06-293,047e423d-2ceb-,5,5,4,Group4,4-5 years,Region2,3,3,3,4,,2022-06-06 07:14:09+00:00,/contact/,https://beepbeep.gov/,2022,Jun-2022
+2023-08-27_17:35:06-294,4976b525-84ed-,4,3,4,Group3,1-2 years,Region2,3,2,2,4,,2022-06-06 17:37:09+00:00,/contact/,https://beepbeep.gov/about/,2022,Jun-2022
+2023-08-27_17:35:06-295,376d494e-38b3-,4,4,3,Group3,2-3 years,Region2,3,4,3,4,,2022-06-07 01:09:59+00:00,/contact/,https://beepbeep.gov/,2022,Jun-2022
+2023-08-27_17:35:06-296,be2c492c-d2b8-,3,5,3,Group5,2-3 years,Region3,3,5,5,5,,2022-06-07 05:09:31+00:00,/contact/,https://beepbeep.gov/,2022,Jun-2022
+2023-08-27_17:35:06-297,da313c10-5bb8-,5,5,5,Group3,1-2 years,Region3,2,2,2,2,,2022-06-07 18:09:02+00:00,/contact/,https://beepbeep.gov/,2022,Jun-2022
+2023-08-27_17:35:06-298,90ccbeb8-3909-,4,4,4,Group3,2-3 years,Region2,3,3,3,3,,2022-06-08 00:15:47+00:00,/contact/,https://beepbeep.gov/,2022,Jun-2022
+2023-08-27_17:35:06-299,b19ddd1c-b5d8-,3,4,4,Group3,3-4 years,Region3,3,4,3,2,,2022-06-08 05:29:09+00:00,/contact/,https://beepbeep.gov/,2022,Jun-2022
+2023-08-27_17:35:06-300,9b68ce57-ccd7-,4,4,4,Group4,2-3 years,Region3,4,3,2,2,,2022-06-08 17:04:50+00:00,/contact/,https://beepbeep.gov/,2022,Jun-2022
+2023-08-27_17:35:06-301,3977dfe7-5a5d-,4,4,4,Group3,3-4 years,Region3,3,4,3,4,,2022-06-08 17:05:08+00:00,/contact/,https://beepbeep.gov/,2022,Jun-2022
+2023-08-27_17:35:06-302,028db4ea-f320-,2,4,3,Group2,1-2 years,Region2,2,2,2,2,,2022-06-08 17:06:51+00:00,/contact/,https://beepbeep.gov/,2022,Jun-2022
+2023-08-27_17:35:06-303,10ac0918-8ec5-,5,3,3,Group3,2-3 years,Region3,3,3,2,4,,2022-06-08 20:44:32+00:00,/contact/,https://beepbeep.gov/,2022,Jun-2022
+2023-08-27_17:35:06-304,f4bc96a3-f9d5-,4,5,4,Group3,3-4 years,Region2,1,4,1,2,,2022-06-09 19:35:51+00:00,/contact/,https://catalog.beepbeep.gov/,2022,Jun-2022
+2023-08-27_17:35:06-305,5a6ca55a-a022-,4,5,5,Group4,2-3 years,Region2,4,4,4,4,,2022-06-10 21:30:05+00:00,/contact/,https://beepbeep.gov/request/,2022,Jun-2022
+2023-08-27_17:35:06-306,764ad9b6-4dba-,4,4,4,Group4,3-4 years,Region2,3,3,3,4,,2022-06-13 11:25:07+00:00,/contact/,https://beepbeep.gov/labs/,2022,Jun-2022
+2023-08-27_17:35:06-307,c33ecb1a-39fc-,4,5,5,Group3,3-4 years,Region2,4,2,4,4,,2022-06-13 14:22:46+00:00,/contact/,https://beepbeep.gov/,2022,Jun-2022
+2023-08-27_17:35:06-308,d0b97d18-ba02-,3,3,2,Group2,1-2 years,Region2,1,1,1,1,,2022-06-13 23:38:34+00:00,/contact/,https://beepbeep.gov/,2022,Jun-2022
+2023-08-27_17:35:06-309,dc2e7a75-bcfe-,3,4,4,Group3,2-3 years,Region3,3,3,3,4,,2022-06-14 15:57:17+00:00,/contact/,https://beepbeep.gov/data-policy/,2022,Jun-2022
+2023-08-27_17:35:06-310,754b1ce5-9043-,5,5,5,Group2,3-4 years,Region3,3,2,2,4,,2022-06-14 17:40:39+00:00,/contact/,https://beepbeep.gov/,2022,Jun-2022
+2023-08-27_17:35:06-311,aec56db5-5d9b-,4,5,5,Group3,4-5 years,Region2,4,5,4,4,,2022-06-15 12:05:05+00:00,/contact/,https://beepbeep.gov/,2022,Jun-2022
+2023-08-27_17:35:06-312,878f66b0-1993-,4,4,4,Group2,3-4 years,Region2,4,4,4,4,,2022-06-16 00:46:35+00:00,/contact/,https://beepbeep.gov/,2022,Jun-2022
+2023-08-27_17:35:06-313,80494b5e-a9ca-,5,5,4,Group5,3-4 years,Region2,4,4,5,4,,2022-06-16 20:05:14+00:00,/contact/,https://resources.beepbeep.gov/,2022,Jun-2022
+2023-08-27_17:35:06-314,fb40829f-4f67-,4,4,4,Group3,2-3 years,Region3,4,2,3,3,,2022-06-18 10:45:47+00:00,/contact/,https://beepbeep.gov/contact/,2022,Jun-2022
+2023-08-27_17:35:06-315,5548b939-b870-,5,5,4,Group5,2-3 years,Region2,1,2,2,2,,2022-06-18 15:07:13+00:00,/contact/,https://beepbeep.gov/,2022,Jun-2022
+2023-08-27_17:35:06-316,cdecf160-bab3-,4,3,3,Group2,2-3 years,Region2,2,1,2,2,,2022-06-20 22:44:53+00:00,/contact/,https://beepbeep.gov/,2022,Jun-2022
+2023-08-27_17:35:06-317,efc89d94-5957-,4,4,4,Group3,2-3 years,Region2,2,2,4,4,,2022-06-22 00:49:59+00:00,/contact/,https://beepbeep.gov/,2022,Jun-2022
+2023-08-27_17:35:06-318,20f5eb3a-b293-,4,5,5,Group4,4-5 years,Region2,5,5,4,4,,2022-06-22 11:44:12+00:00,/contact/,https://beepbeep.gov/,2022,Jun-2022
+2023-08-27_17:35:06-319,59a67193-6971-,4,4,4,Group3,2-3 years,Region3,3,3,3,3,,2022-06-22 13:57:37+00:00,/contact/,https://beepbeep.gov/,2022,Jun-2022
+2023-08-27_17:35:06-320,23b1f119-ff67-,4,5,4,Group4,3-4 years,Region3,2,5,2,2,,2022-06-22 14:09:04+00:00,/contact/,https://beepbeep.gov/,2022,Jun-2022
+2023-08-27_17:35:06-321,f9efe749-cab3-,4,5,5,Group4,4-5 years,Region2,2,2,2,2,,2022-06-22 14:55:27+00:00,/contact/,https://beepbeep.gov/,2022,Jun-2022
+2023-08-27_17:35:06-322,573492bf-f24f-,4,4,2,Group2,2-3 years,Region2,2,2,2,2,,2022-06-22 17:38:35+00:00,/contact/,https://beepbeep.gov/,2022,Jun-2022
+2023-08-27_17:35:06-323,4635cbb8-db00-,5,5,5,Group5,4-5 years,Region2,1,1,1,2,,2022-06-22 20:35:06+00:00,/contact/,https://beepbeep.gov/,2022,Jun-2022
+2023-08-27_17:35:06-324,c3599477-2210-,3,4,3,Group3,2-3 years,Region2,3,2,3,2,,2022-06-22 23:49:12+00:00,/contact/,https://beepbeep.gov/ocean/contact/,2022,Jun-2022
+2023-08-27_17:35:06-325,f53ca57c-6d07-,5,4,4,Group3,3-4 years,Region3,3,3,3,3,,2022-06-23 09:32:14+00:00,/contact/,https://beepbeep.gov/,2022,Jun-2022
+2023-08-27_17:35:06-326,e24d2fcc-fa03-,3,4,3,Group2,2-3 years,Region2,2,2,2,2,,2022-06-23 14:26:37+00:00,/contact/,https://beepbeep.doi.gov/,2022,Jun-2022
+2023-08-27_17:35:06-327,ec078843-76aa-,4,3,4,Group3,2-3 years,Region3,3,4,2,4,,2022-06-24 01:03:15+00:00,/contact/,https://api.beepbeep.gov/,2022,Jun-2022
+2023-08-27_17:35:06-328,cc66750c-dd3b-,4,5,4,Group5,3-4 years,Region2,3,4,4,4,,2022-06-24 19:58:41+00:00,/contact/,https://beepbeep.gov/,2022,Jun-2022
+2023-08-27_17:35:06-329,9681e4eb-90a6-,4,4,4,Group3,1-2 years,Region2,2,4,2,5,,2022-06-25 10:46:57+00:00,/contact/,https://beepbeep.gov/,2022,Jun-2022
+2023-08-27_17:35:06-330,7af8d745-2c4d-,4,3,4,Group3,2-3 years,Region2,3,2,3,4,,2022-06-25 10:55:18+00:00,/contact/,https://beepbeep.gov/,2022,Jun-2022
+2023-08-27_17:35:06-331,cd3268bd-050d-,4,4,4,Group4,1-2 years,Region2,4,4,2,1,,2022-06-25 14:49:01+00:00,/contact/,https://beepbeep.gov/,2022,Jun-2022
+2023-08-27_17:35:06-332,6585068e-65e1-,5,4,4,Group4,3-4 years,Region2,2,2,2,4,,2022-06-25 22:13:01+00:00,/contact/,https://beepbeep.gov/,2022,Jun-2022
+2023-08-27_17:35:06-333,9665432b-c50a-,3,3,4,Group3,3-4 years,Region2,3,2,2,3,,2022-06-27 16:01:15+00:00,/contact/,https://beepbeep.gov/,2022,Jun-2022
+2023-08-27_17:35:06-334,673da239-d641-,4,5,4,Group5,3-4 years,Region2,4,4,4,3,,2022-06-27 16:01:58+00:00,/contact/,https://catalog.beepbeep.gov/,2022,Jun-2022
+2023-08-27_17:35:06-335,51da0567-6037-,5,4,4,Group2,2-3 years,Region3,4,2,2,3,,2022-06-27 16:02:13+00:00,/contact/,https://catalog.beepbeep.gov/,2022,Jun-2022
+2023-08-27_17:35:06-336,bda03350-530a-,5,5,5,Group4,3-4 years,Region2,1,4,3,3,,2022-06-27 19:45:25+00:00,/contact/,https://catalog.beepbeep.gov/,2022,Jun-2022
+2023-08-27_17:35:06-337,a85223f9-0c2c-,5,3,4,Group4,2-3 years,Region2,2,4,4,3,,2022-06-27 23:12:10+00:00,/contact/,https://catalog.beepbeep.gov/,2022,Jun-2022
+2023-08-27_17:35:06-338,c7012e18-93c6-,4,3,3,Group4,1-2 years,Region3,2,2,2,4,,2022-06-28 09:56:28+00:00,/contact/,https://beepbeep.gov/,2022,Jun-2022
+2023-08-27_17:35:06-339,01d766aa-f360-,4,4,2,Group2,1-2 years,Region2,2,2,2,2,,2022-06-28 15:16:12+00:00,/contact/,https://catalog-prod-datagov.app.cloud.gov/,2022,Jun-2022
+2023-08-27_17:35:06-340,234f336c-c912-,3,2,2,Group3,1-2 years,Region3,2,2,2,2,,2022-06-28 21:18:27+00:00,/contact/,https://beepbeep.gov/,2022,Jun-2022
+2023-08-27_17:35:06-341,8fa9d5f6-017b-,5,4,4,Group3,1-2 years,Region3,1,2,1,2,,2022-06-29 20:05:43+00:00,/contact/,https://beepbeep.gov/,2022,Jun-2022
+2023-08-27_17:35:06-342,9ff5ecf2-994f-,3,4,3,Group2,1-2 years,Region3,4,3,3,3,,2022-06-30 18:15:42+00:00,/contact/,https://beepbeep.gov/,2022,Jun-2022
+2023-08-27_17:35:06-343,092afb92-5216-,4,4,4,Group3,2-3 years,Region2,2,4,3,2,,2022-07-01 04:29:57+00:00,/contact/,https://beepbeep.gov/,2022,Jul-2022
+2023-08-27_17:35:06-344,350d97c0-b5bc-,4,5,5,Group3,4-5 years,Region2,5,5,5,5,,2022-07-01 04:49:27+00:00,/contact/,https://beepbeep.gov/,2022,Jul-2022
+2023-08-27_17:35:06-345,1fd40af5-8338-,3,4,2,Group3,1-2 years,Region2,2,2,2,2,,2022-07-01 18:07:41+00:00,/contact/,https://catalog.beepbeep.gov/,2022,Jul-2022
+2023-08-27_17:35:06-346,d6404626-cc74-,4,5,5,Group2,2-3 years,Region3,3,1,1,2,,2022-07-02 03:46:11+00:00,/contact/,https://beepbeep.gov/climate/,2022,Jul-2022
+2023-08-27_17:35:06-347,47ee4174-64f5-,4,5,3,Group4,3-4 years,Region3,3,2,3,3,,2022-07-03 00:30:39+00:00,/contact/,https://beepbeep.gov/,2022,Jul-2022
+2023-08-27_17:35:06-348,ac906ff1-a600-,4,4,4,Group3,3-4 years,Region2,2,3,3,1,,2022-07-04 15:19:40+00:00,/contact/,https://beepbeep.gov/,2022,Jul-2022
+2023-08-27_17:35:06-349,c1238a04-ddde-,3,4,3,Group3,2-3 years,Region3,3,3,3,3,,2022-07-04 22:10:01+00:00,/contact/,https://beepbeep.gov/,2022,Jul-2022
+2023-08-27_17:35:06-350,f5f13f25-1812-,4,2,2,Group2,1-2 years,Region2,4,2,1,3,,2022-07-05 02:06:51+00:00,/contact/,https://beepbeep.gov/,2022,Jul-2022
+2023-08-27_17:35:06-351,e758e0fe-89ac-,4,4,3,Group2,3-4 years,Region2,3,3,3,3,,2022-07-05 03:55:55+00:00,/contact/,https://beepbeep.gov/,2022,Jul-2022
+2023-08-27_17:35:06-352,4033d474-ed2d-,4,4,4,Group3,2-3 years,Region2,4,3,3,3,,2022-07-05 07:18:37+00:00,/contact/,https://beepbeep.gov/,2022,Jul-2022
+2023-08-27_17:35:06-353,436ef7c8-f367-,4,4,3,Group4,2-3 years,Region2,4,4,3,4,,2022-07-05 19:07:40+00:00,/contact/,https://beepbeep.gov/,2022,Jul-2022
+2023-08-27_17:35:06-354,618fba44-fa13-,4,4,4,Group4,2-3 years,Region3,2,3,3,1,,2022-07-05 22:26:44+00:00,/contact/,https://catalog.beepbeep.gov/,2022,Jul-2022
+2023-08-27_17:35:06-355,aaf50870-e278-,3,4,3,Group3,1-2 years,Region2,3,2,2,2,,2022-07-06 14:22:23+00:00,/contact/,https://resources.beepbeep.gov/,2022,Jul-2022
+2023-08-27_17:35:06-356,d4c8bcf5-438b-,4,5,4,Group3,1-2 years,Region2,3,3,3,2,,2022-07-06 20:14:52+00:00,/contact/,https://catalog.beepbeep.gov/,2022,Jul-2022
+2023-08-27_17:35:06-357,1b1d687e-63ae-,4,2,3,Group3,1-2 years,Region2,2,2,2,2,,2022-07-06 23:16:26+00:00,/contact/,https://catalog.beepbeep.gov/,2022,Jul-2022
+2023-08-27_17:35:06-358,efb8f547-a079-,4,4,3,Group3,3-4 years,Region2,4,3,3,2,,2022-07-07 02:19:46+00:00,/contact/,https://beepbeep.gov/,2022,Jul-2022
+2023-08-27_17:35:06-359,d459affc-61d6-,4,4,4,Group3,3-4 years,Region3,2,4,2,2,,2022-07-07 13:46:25+00:00,/contact/,https://catalog.beepbeep.gov/,2022,Jul-2022
+2023-08-27_17:35:06-360,2e581ada-40b4-,4,3,3,Group3,2-3 years,Region3,2,3,2,3,,2022-07-07 15:12:38+00:00,/contact/,https://beepbeep.gov/,2022,Jul-2022
+2023-08-27_17:35:06-361,7f475830-0473-,4,4,5,Group3,2-3 years,Region2,4,3,3,3,,2022-07-07 18:03:28+00:00,/contact/,https://beepbeep.gov/,2022,Jul-2022
+2023-08-27_17:35:06-362,6dc3a9e7-b767-,5,5,4,Group4,3-4 years,Region3,1,3,1,2,,2022-07-07 18:09:00+00:00,/contact/,https://beepbeep.gov/,2022,Jul-2022
+2023-08-27_17:35:06-363,7263a06b-8eb1-,3,4,3,Group2,3-4 years,Region2,2,1,2,3,,2022-07-07 21:14:44+00:00,/contact/,https://beepbeep.gov/,2022,Jul-2022
+2023-08-27_17:35:06-364,0a130bac-5e00-,3,4,3,Group3,1-2 years,Region2,2,2,1,2,,2022-07-08 19:50:14+00:00,/contact/,https://catalog.beepbeep.gov/,2022,Jul-2022
+2023-08-27_17:35:06-365,4938e4c5-b23b-,4,4,4,Group2,1-2 years,Region3,2,2,2,3,,2022-07-10 11:27:27+00:00,/contact/,https://beepbeep.gov/,2022,Jul-2022
+2023-08-27_17:35:06-366,a08be427-fb8d-,4,4,3,Group3,2-3 years,Region2,2,2,2,2,,2022-07-10 11:33:33+00:00,/contact/,https://catalog.beepbeep.gov/,2022,Jul-2022
+2023-08-27_17:35:06-367,5c9b657d-4598-,3,4,3,Group2,1-2 years,Region2,1,1,1,1,,2022-07-10 12:14:06+00:00,/contact/,https://catalog.beepbeep.gov/,2022,Jul-2022
+2023-08-27_17:35:06-368,85616680-50e0-,4,4,4,Group4,2-3 years,Region2,2,4,2,2,,2022-07-11 23:15:35+00:00,/contact/,https://beepbeep.gov/,2022,Jul-2022
+2023-08-27_17:35:06-369,8bc88bfd-f837-,4,5,4,Group4,3-4 years,Region2,4,4,4,4,,2022-07-12 02:24:39+00:00,/contact/,https://catalog.beepbeep.gov/,2022,Jul-2022
+2023-08-27_17:35:06-370,f45c738d-aecb-,3,4,3,Group4,3-4 years,Region3,2,3,1,3,,2022-07-12 11:01:41+00:00,/contact/,https://beepbeep.gov/,2022,Jul-2022
+2023-08-27_17:35:06-371,553d7cf3-ff3e-,3,3,3,Group3,1-2 years,Region2,2,2,2,2,,2022-07-12 16:08:49+00:00,/contact/,https://beepbeep.gov/,2022,Jul-2022
+2023-08-27_17:35:06-372,098dda1b-6a13-,4,5,4,Group2,3-4 years,Region3,3,4,2,4,,2022-07-12 18:26:27+00:00,/contact/,https://beepbeep.gov/,2022,Jul-2022
+2023-08-27_17:35:06-373,843ec6d4-d1c7-,4,4,3,Group4,3-4 years,Region2,2,4,3,4,,2022-07-12 18:42:07+00:00,/contact/,https://beepbeep.gov/,2022,Jul-2022
+2023-08-27_17:35:06-374,bbfcdaef-02d4-,5,5,4,Group3,3-4 years,Region2,3,4,2,2,,2022-07-13 15:02:31+00:00,/contact/,https://beepbeep.gov/request/,2022,Jul-2022
+2023-08-27_17:35:06-375,e8d5c35a-2c0b-,3,4,3,Group3,2-3 years,Region2,2,3,3,3,,2022-07-13 21:02:28+00:00,/contact/,https://catalog.beepbeep.gov/,2022,Jul-2022
+2023-08-27_17:35:06-376,e930a41f-b980-,4,4,4,Group3,2-3 years,Region2,2,2,1,2,,2022-07-15 12:46:23+00:00,/contact/,https://resources.beepbeep.gov/,2022,Jul-2022
+2023-08-27_17:35:06-377,7c1e03c7-1359-,3,4,3,Group3,1-2 years,Region2,2,3,1,2,,2022-07-15 14:16:34+00:00,/contact/,https://beepbeep.gov/,2022,Jul-2022
+2023-08-27_17:35:06-378,7ccc21b4-02fe-,5,4,5,Group3,2-3 years,Region2,2,2,2,3,,2022-07-15 15:23:36+00:00,/contact/,https://beepbeep.gov/,2022,Jul-2022
+2023-08-27_17:35:06-379,a7fe4ce3-f248-,5,4,3,Group3,2-3 years,Region2,3,3,3,3,,2022-07-15 15:33:02+00:00,/contact/,https://catalog.beepbeep.gov/,2022,Jul-2022
+2023-08-27_17:35:06-380,559b77d9-d53f-,4,4,3,Group3,1-2 years,Region3,3,3,3,3,,2022-07-16 06:52:54+00:00,/contact/,https://beepbeep.gov/,2022,Jul-2022
+2023-08-27_17:35:06-381,61a2c6c5-ee77-,4,4,4,Group5,3-4 years,Region2,2,4,2,2,,2022-07-16 12:59:14+00:00,/contact/,https://beepbeep.gov/,2022,Jul-2022
+2023-08-27_17:35:06-382,adc0be35-e46e-,4,5,5,Group3,2-3 years,Region2,4,3,3,4,,2022-07-17 13:21:58+00:00,/contact/,https://beepbeep.gov/,2022,Jul-2022
+2023-08-27_17:35:06-383,a6c9af77-4599-,4,4,5,Group3,3-4 years,Region2,5,5,5,5,,2022-07-18 02:10:47+00:00,/contact/,https://catalog.beepbeep.gov/,2022,Jul-2022
+2023-08-27_17:35:06-384,53b766f8-fe4d-,5,5,4,Group3,2-3 years,Region2,1,2,1,2,,2022-07-18 04:26:56+00:00,/contact/,https://catalog.beepbeep.gov/,2022,Jul-2022
+2023-08-27_17:35:06-385,d4b92a64-3b8f-,3,4,2,Group2,1-2 years,Region3,1,2,2,4,,2022-07-18 07:14:33+00:00,/contact/,https://beepbeep.gov/,2022,Jul-2022
+2023-08-27_17:35:06-386,d1c689d1-9721-,4,4,4,Group4,2-3 years,Region3,3,3,3,2,,2022-07-21 15:47:22+00:00,/contact/,https://beepbeep.gov/,2022,Jul-2022
+2023-08-27_17:35:06-387,0846c762-7ed5-,4,4,4,Group3,3-4 years,Region2,2,4,3,3,,2022-07-21 16:38:33+00:00,/contact/,https://beepbeep.gov/,2022,Jul-2022
+2023-08-27_17:35:06-388,7e223870-5f59-,5,4,5,Group3,3-4 years,Region2,3,4,5,4,,2022-07-21 17:07:22+00:00,/contact/,https://beepbeep.gov/,2022,Jul-2022
+2023-08-27_17:35:06-389,12cbe004-1e22-,5,4,5,Group5,3-4 years,Region2,5,5,5,5,,2022-07-21 17:37:45+00:00,/contact/,https://catalog.beepbeep.gov/,2022,Jul-2022
+2023-08-27_17:35:06-390,72a03441-0d47-,4,5,4,Group3,2-3 years,Region2,3,1,2,2,,2022-07-21 17:52:07+00:00,/contact/,https://beepbeep.gov/,2022,Jul-2022
+2023-08-27_17:35:06-391,2cf19203-0901-,4,3,3,Group3,3-4 years,Region2,5,2,4,4,,2022-07-21 18:18:44+00:00,/contact/,https://beepbeep.gov/,2022,Jul-2022
+2023-08-27_17:35:06-392,c65516c4-35c3-,4,3,4,Group4,2-3 years,Region2,2,2,3,3,,2022-07-21 19:51:31+00:00,/contact/,https://beepbeep.gov/,2022,Jul-2022
+2023-08-27_17:35:06-393,091f997e-71d2-,4,4,5,Group2,4-5 years,Region2,5,4,4,5,,2022-07-21 20:03:32+00:00,/contact/,https://beepbeep.gov/,2022,Jul-2022
+2023-08-27_17:35:06-394,8446683d-6510-,2,5,5,Group4,2-3 years,Region2,3,4,4,4,,2022-07-22 19:44:28+00:00,/contact/,https://beepbeep.gov/contact/,2022,Jul-2022
+2023-08-27_17:35:06-395,9404e6b6-2c46-,4,4,4,Group4,2-3 years,Region3,2,1,2,2,,2022-07-23 01:23:04+00:00,/contact/,https://beepbeep.gov/contact/,2022,Jul-2022
+2023-08-27_17:35:06-396,6f5e28c0-da38-,3,2,4,Group5,1-2 years,Region1,1,1,1,1,,2022-07-23 06:58:10+00:00,/contact/,https://catalog.beepbeep.gov/,2022,Jul-2022
+2023-08-27_17:35:06-397,92449204-c0d8-,5,5,5,Group3,4-5 years,Region2,5,5,5,5,,2022-07-23 15:17:51+00:00,/contact/,https://catalog.beepbeep.gov/,2022,Jul-2022
+2023-08-27_17:35:06-398,a89d70d5-64f7-,5,5,5,Group5,4-5 years,Region2,4,4,4,2,,2022-07-23 18:34:19+00:00,/contact/,https://beepbeep.gov/,2022,Jul-2022
+2023-08-27_17:35:06-399,95d72b9a-8663-,4,4,5,Group4,2-3 years,Region2,3,2,2,2,,2022-07-23 21:06:37+00:00,/contact/,https://catalog.beepbeep.gov/,2022,Jul-2022
+2023-08-27_17:35:06-400,c64dd018-6d34-,4,5,5,Group4,3-4 years,Region2,3,3,2,2,,2022-07-24 16:20:45+00:00,/contact/,https://beepbeep.gov/,2022,Jul-2022
+2023-08-27_17:35:06-401,4fe3e206-1bcf-,4,3,4,Group3,2-3 years,Region3,1,1,1,1,,2022-07-25 20:03:37+00:00,/contact/,https://beepbeep.gov/,2022,Jul-2022
+2023-08-27_17:35:06-402,69d22c5e-316a-,4,4,4,Group4,2-3 years,Region2,1,3,2,2,,2022-07-26 10:55:29+00:00,/contact/,https://beepbeep.gov/,2022,Jul-2022
+2023-08-27_17:35:06-403,8b0d05b9-42e4-,5,5,4,Group4,3-4 years,Region2,4,5,4,4,,2022-07-26 15:39:11+00:00,/contact/,https://beepbeep.gov/,2022,Jul-2022
+2023-08-27_17:35:06-404,eb9abfb3-e26d-,4,5,4,Group5,3-4 years,Region2,3,4,3,4,,2022-07-27 00:00:07+00:00,/contact/,https://beepbeep.gov/,2022,Jul-2022
+2023-08-27_17:35:06-405,f9e60d5b-b906-,4,5,4,Group3,3-4 years,Region2,3,3,3,4,,2022-07-27 14:58:21+00:00,/contact/,https://catalog.beepbeep.gov/,2022,Jul-2022
+2023-08-27_17:35:06-406,3eef09e1-e496-,4,3,2,Group5,3-4 years,Region3,2,3,3,4,,2022-07-27 19:29:52+00:00,/contact/,https://beepbeep.gov/,2022,Jul-2022
+2023-08-27_17:35:06-407,0635db72-10b4-,3,5,5,Group4,4-5 years,Region2,5,4,3,4,,2022-07-27 21:13:18+00:00,/contact/,https://catalog.beepbeep.gov/,2022,Jul-2022
+2023-08-27_17:35:06-408,0dbba5e0-9ed1-,4,4,4,Group3,4-5 years,Region2,2,2,2,4,,2022-07-28 10:19:30+00:00,/contact/,https://beepbeep.gov/,2022,Jul-2022
+2023-08-27_17:35:06-409,a78bfddc-c591-,4,4,4,Group4,3-4 years,Region2,1,2,2,2,,2022-07-28 13:21:19+00:00,/contact/,https://resources.beepbeep.gov/,2022,Jul-2022
+2023-08-27_17:35:06-410,92565e80-4787-,5,4,5,Group4,3-4 years,Region3,4,3,3,2,,2022-07-28 18:43:20+00:00,/contact/,https://beepbeep.gov/,2022,Jul-2022
+2023-08-27_17:35:06-411,1f937fb8-707b-,3,4,4,Group1,2-3 years,Region2,4,5,4,3,,2022-07-28 19:09:14+00:00,/contact/,https://beepbeep.gov/,2022,Jul-2022
+2023-08-27_17:35:06-412,4afcb2ca-c3ca-,3,4,5,Group4,3-4 years,Region3,3,3,3,1,,2022-07-29 15:34:32+00:00,/contact/,https://beepbeep.gov/,2022,Jul-2022
+2023-08-27_17:35:06-413,b02d1052-d452-,5,5,5,Group3,2-3 years,Region2,3,5,4,4,,2022-07-29 21:52:39+00:00,/contact/,https://beepbeep.gov/,2022,Jul-2022
+2023-08-27_17:35:06-414,a809353e-1eff-,4,3,3,Group3,2-3 years,Region3,2,2,2,3,,2022-07-29 21:53:55+00:00,/contact/,https://beepbeep.gov/,2022,Jul-2022
+2023-08-27_17:35:06-415,888d7472-8c78-,4,2,3,Group4,2-3 years,Region3,2,2,2,2,,2022-07-30 21:05:08+00:00,/contact/,https://resources.beepbeep.gov/,2022,Jul-2022
+2023-08-27_17:35:06-416,133a2557-78e9-,5,5,4,Group4,3-4 years,Region2,1,4,3,3,,2022-07-30 22:38:07+00:00,/contact/,https://beepbeep.gov/,2022,Jul-2022
+2023-08-27_17:35:06-417,a5b07d1c-97e2-,4,4,4,Group3,3-4 years,Region2,4,4,4,3,,2022-07-31 03:13:22+00:00,/contact/,https://beepbeep.gov/developers/open-source/,2022,Jul-2022
+2023-08-27_17:35:06-418,70191005-6f45-,5,4,4,Group4,2-3 years,Region2,2,3,2,2,,2022-08-01 19:31:46+00:00,/contact/,https://beepbeep.gov/,2022,Aug-2022
+2023-08-27_17:35:06-419,27966a85-8068-,3,3,3,Group3,2-3 years,Region3,3,3,3,3,,2022-08-01 22:57:45+00:00,/contact/,https://beepbeep.gov/,2022,Aug-2022
+2023-08-27_17:35:06-420,aabce87d-f531-,4,4,5,Group4,4-5 years,Region2,2,1,1,1,,2022-08-01 23:08:21+00:00,/contact/,https://beepbeep.gov/,2022,Aug-2022
+2023-08-27_17:35:06-421,32f2b901-d413-,4,4,4,Group3,2-3 years,Region3,2,2,2,2,,2022-08-03 12:18:45+00:00,/contact/,https://beepbeep.gov/,2022,Aug-2022
+2023-08-27_17:35:06-422,db41ad93-78fb-,4,4,4,Group3,3-4 years,Region2,3,4,2,2,,2022-08-04 02:10:32+00:00,/contact/,https://beepbeep.gov/,2022,Aug-2022
+2023-08-27_17:35:06-423,9a1e1598-0781-,5,5,4,Group4,2-3 years,Region2,4,3,3,4,,2022-08-04 13:18:01+00:00,/contact/,https://catalog.beepbeep.gov/,2022,Aug-2022
+2023-08-27_17:35:06-424,83f52999-8461-,4,4,5,Group3,2-3 years,Region2,3,2,3,3,,2022-08-04 17:24:18+00:00,/contact/,https://catalog.beepbeep.gov/,2022,Aug-2022
+2023-08-27_17:35:06-425,276e8a87-dbca-,2,4,4,Group4,3-4 years,Region3,4,3,2,4,,2022-08-04 21:30:02+00:00,/contact/,https://catalog.beepbeep.gov/,2022,Aug-2022
+2023-08-27_17:35:06-426,2cdcac35-4332-,4,3,4,Group3,3-4 years,Region2,5,4,4,3,,2022-08-04 22:42:04+00:00,/contact/,https://catalog.beepbeep.gov/,2022,Aug-2022
+2023-08-27_17:35:06-427,1dd79be3-8717-,3,2,2,Group2,1-2 years,Region2,2,2,2,2,,2022-08-04 22:53:47+00:00,/contact/,https://beepbeep.gov/contact/,2022,Aug-2022
+2023-08-27_17:35:06-428,1a6fdedd-dc45-,4,4,4,Group3,2-3 years,Region2,2,2,3,3,,2022-08-04 23:11:02+00:00,/contact/,https://beepbeep.gov/,2022,Aug-2022
+2023-08-27_17:35:06-429,4b9c94a3-e83a-,4,4,4,Group2,2-3 years,Region3,2,3,2,2,,2022-08-05 02:04:59+00:00,/contact/,https://catalog.beepbeep.gov/,2022,Aug-2022
+2023-08-27_17:35:06-430,12b91414-a3b3-,4,4,4,Group3,2-3 years,Region2,2,4,3,3,,2022-08-05 14:06:41+00:00,/contact/,https://beepbeep.gov/,2022,Aug-2022
+2023-08-27_17:35:06-431,d05eac15-6609-,4,4,3,Group3,2-3 years,Region2,3,3,4,4,,2022-08-05 20:11:24+00:00,/contact/,https://beepbeep.gov/,2022,Aug-2022
+2023-08-27_17:35:06-432,623a3023-349a-,3,4,4,Group2,1-2 years,Region2,2,2,2,1,,2022-08-06 19:43:20+00:00,/contact/,https://beepbeep.gov/,2022,Aug-2022
+2023-08-27_17:35:06-433,bf78f92d-99f8-,5,4,4,Group3,2-3 years,Region2,3,4,3,3,,2022-08-06 23:26:54+00:00,/contact/,https://beepbeep.gov/,2022,Aug-2022
+2023-08-27_17:35:06-434,b31c3912-5fe4-,3,3,4,Group2,1-2 years,Region2,2,1,1,3,,2022-08-07 22:02:03+00:00,/contact/,https://beepbeep.gov/catalog-help/,2022,Aug-2022
+2023-08-27_17:35:06-435,d9f85312-ed41-,4,4,4,Group3,2-3 years,Region2,2,2,2,2,,2022-08-08 07:59:56+00:00,/contact/,https://catalog.beepbeep.gov/,2022,Aug-2022
+2023-08-27_17:35:06-436,a74689ff-82fa-,5,5,4,Group4,3-4 years,Region3,2,2,2,3,,2022-08-08 16:13:05+00:00,/contact/,https://catalog.beepbeep.gov/,2022,Aug-2022
+2023-08-27_17:35:06-437,f8cbbd70-7eeb-,4,5,4,Group3,2-3 years,Region3,2,3,2,3,,2022-08-08 21:49:40+00:00,/contact/,https://resources.beepbeep.gov/,2022,Aug-2022
+2023-08-27_17:35:06-438,7128120e-6b9b-,3,2,3,Group2,2-3 years,Region2,2,2,2,3,,2022-08-09 01:02:17+00:00,/contact/,https://beepbeep.gov/,2022,Aug-2022
+2023-08-27_17:35:06-439,c936b602-fe18-,4,3,4,Group3,2-3 years,Region3,3,2,2,4,,2022-08-09 01:05:19+00:00,/contact/,https://beepbeep.gov/,2022,Aug-2022
+2023-08-27_17:35:06-440,a39c2f0c-1622-,4,5,5,Group3,1-2 years,Region2,3,4,3,3,,2022-08-09 01:09:50+00:00,/contact/,https://beepbeep.gov/,2022,Aug-2022
+2023-08-27_17:35:06-441,c1d253f3-b513-,4,5,5,Group5,4-5 years,Region2,2,4,2,4,,2022-08-09 01:55:49+00:00,/contact/,https://beepbeep.gov/,2022,Aug-2022
+2023-08-27_17:35:06-442,19a28d6a-625a-,5,5,5,Group4,4-5 years,Region2,2,2,4,3,,2022-08-09 01:55:58+00:00,/home/,https://beepbeep.gov/,2022,Aug-2022
+2023-08-27_17:35:06-443,a4bd970f-2966-,4,4,2,Group2,1-2 years,Region2,1,1,1,1,,2022-08-09 01:56:08+00:00,/home/,https://beepbeep.gov/,2022,Aug-2022
+2023-08-27_17:35:06-444,6d86c122-2024-,5,5,5,Group2,2-3 years,Region3,1,1,1,1,,2022-08-09 01:56:11+00:00,/home/,https://google.gov/,2022,Aug-2022
+2023-08-27_17:35:06-445,7d084f40-3ed4-,4,4,4,Group2,2-3 years,Region3,1,1,1,2,,2022-08-09 01:56:12+00:00,/home/,https://google.gov/,2022,Aug-2022
+2023-08-27_17:35:06-446,acd83d38-4f6d-,4,4,4,Group4,4-5 years,Region3,4,3,4,3,,2022-08-09 01:56:13+00:00,/home/,https://google.gov/,2022,Aug-2022
+2023-08-27_17:35:06-447,89f55a0a-2a55-,5,5,4,Group3,3-4 years,Region2,4,5,5,3,,2022-08-09 01:56:14+00:00,/home/,https://google.gov/,2022,Aug-2022
+2023-08-27_17:35:06-448,beca33ae-ceec-,5,5,5,Group2,3-4 years,Region3,2,4,4,2,,2022-08-09 01:56:28+00:00,/home/,https://beepbeep.gov/,2022,Aug-2022
+2023-08-27_17:35:06-449,756b6253-14fe-,2,2,4,Group1,1-2 years,Region2,2,1,1,1,,2022-08-09 01:57:45+00:00,/home/,https://google.gov/,2022,Aug-2022
+2023-08-27_17:35:06-450,eb9f5d07-fe27-,5,5,5,Group2,4-5 years,Region2,2,3,3,4,,2022-08-09 01:58:37+00:00,../../../,https://beepbeep.gov/,2022,Aug-2022
+2023-08-27_17:35:06-451,8c229435-d8a9-,3,4,2,Group3,1-2 years,Region3,2,4,2,2,,2022-08-09 01:59:05+00:00,../../../,https://beepbeep.gov/,2022,Aug-2022
+2023-08-27_17:35:06-452,b8475f44-272f-,4,3,3,Group3,2-3 years,Region3,2,2,2,2,,2022-08-09 02:07:10+00:00,/contact/,https://beepbeep.gov/,2022,Aug-2022
+2023-08-27_17:35:06-453,5c7694ba-7b82-,4,4,4,Group5,4-5 years,Region2,4,4,4,4,,2022-08-09 19:06:36+00:00,/contact/,https://beepbeep.gov/developers/open-source/,2022,Aug-2022
+2023-08-27_17:35:06-454,4407b507-0c31-,4,5,5,Group3,3-4 years,Region2,2,3,4,4,,2022-08-09 22:55:15+00:00,/contact/,https://catalog.beepbeep.gov/,2022,Aug-2022
+2023-08-27_17:35:06-455,77863d50-2daf-,4,4,2,Group3,1-2 years,Region2,1,2,2,3,,2022-08-10 18:13:54+00:00,/contact/,https://catalog.beepbeep.gov/,2022,Aug-2022
+2023-08-27_17:35:06-456,63105799-69db-,5,4,4,Group3,2-3 years,Region3,3,3,4,4,,2022-08-11 12:07:32+00:00,/contact/,https://beepbeep.gov/about/,2022,Aug-2022
+2023-08-27_17:35:06-457,abcfc449-9b97-,5,5,5,Group5,4-5 years,Region2,2,2,1,1,,2022-08-11 14:20:40+00:00,/contact/,https://catalog.beepbeep.gov/,2022,Aug-2022
+2023-08-27_17:35:06-458,a49ce04c-9acb-,3,4,4,Group3,3-4 years,Region3,2,2,1,1,,2022-08-11 17:24:03+00:00,/contact/,https://beepbeep.gov/,2022,Aug-2022
+2023-08-27_17:35:06-459,0441c659-dbe1-,4,5,5,Group4,4-5 years,Region2,5,4,2,2,,2022-08-11 17:56:41+00:00,/contact/,https://catalog.beepbeep.gov/,2022,Aug-2022
+2023-08-27_17:35:06-460,d599a249-fae0-,4,4,4,Group3,1-2 years,Region3,1,1,1,2,,2022-08-11 21:04:08+00:00,/contact/,https://beepbeep.gov/,2022,Aug-2022
+2023-08-27_17:35:06-461,17eb1a26-ce25-,4,2,2,Group2,1-2 years,Region2,2,2,2,2,,2022-08-12 04:45:36+00:00,/contact/,https://beepbeep.gov/,2022,Aug-2022
+2023-08-27_17:35:06-462,40a78c9f-2ddf-,4,4,4,Group3,2-3 years,Region3,3,4,4,3,,2022-08-12 04:46:16+00:00,/contact/,https://beepbeep.gov/,2022,Aug-2022
+2023-08-27_17:35:06-463,42c4bdec-e36e-,4,4,5,Group3,3-4 years,Region2,4,4,4,4,,2022-08-13 02:55:52+00:00,/contact/,https://catalog.beepbeep.gov/,2022,Aug-2022
+2023-08-27_17:35:06-464,139dc1b2-270a-,4,3,3,Group2,1-2 years,Region2,2,2,2,2,,2022-08-13 19:11:18+00:00,/contact/,https://beepbeep.gov/,2022,Aug-2022
+2023-08-27_17:35:06-465,de843e0c-314e-,4,3,3,Group3,1-2 years,Region2,1,1,1,1,,2022-08-15 01:25:34+00:00,/contact/,https://www.bing.com/,2022,Aug-2022
+2023-08-27_17:35:06-466,7ac1530b-d1f8-,4,4,4,Group3,2-3 years,Region3,2,2,2,2,,2022-08-15 01:26:59+00:00,/contact/,https://beepbeep.gov/,2022,Aug-2022
+2023-08-27_17:35:06-467,39798354-50af-,4,4,4,Group4,3-4 years,Region2,3,3,3,2,,2022-08-15 14:46:50+00:00,/contact/,https://beepbeep.gov/,2022,Aug-2022
+2023-08-27_17:35:06-468,733abd41-0461-,4,3,2,Group2,1-2 years,Region2,2,4,3,2,,2022-08-16 12:53:13+00:00,/contact/,https://beepbeep.gov/,2022,Aug-2022
+2023-08-27_17:35:06-469,d26f3dfc-218b-,4,4,4,Group3,2-3 years,Region3,2,2,2,3,,2022-08-16 13:21:30+00:00,/contact/,https://beepbeep.doi.gov/,2022,Aug-2022
+2023-08-27_17:35:06-470,3a748a22-7e85-,3,3,2,Group2,1-2 years,Region2,2,2,2,2,,2022-08-16 15:06:37+00:00,/contact/,https://beepbeep.gov/,2022,Aug-2022
+2023-08-27_17:35:06-471,57266b86-03cd-,4,4,4,Group4,3-4 years,Region2,3,4,4,4,,2022-08-17 19:11:23+00:00,/contact/,https://beepbeep.gov/,2022,Aug-2022
+2023-08-27_17:35:06-472,d9bdca7a-ef82-,5,5,5,Group3,2-3 years,Region3,1,1,1,1,,2022-08-17 19:14:16+00:00,/contact/,https://beepbeep.gov/,2022,Aug-2022
+2023-08-27_17:35:06-473,40acda9d-dab0-,4,4,4,Group2,2-3 years,Region2,2,1,2,3,,2022-08-17 19:14:53+00:00,/contact/,https://catalog.beepbeep.gov/dataset/list-of-ssa-approved-forms,2022,Aug-2022
+2023-08-27_17:35:06-474,050a2eee-355c-,4,5,4,Group3,3-4 years,Region3,5,4,3,3,,2022-08-17 23:27:48+00:00,/contact/,https://catalog.beepbeep.gov/,2022,Aug-2022
+2023-08-27_17:35:06-475,9776579c-d5cb-,4,3,4,Group3,1-2 years,Region3,3,2,2,3,,2022-08-18 09:27:32+00:00,/contact/,https://catalog.beepbeep.gov/,2022,Aug-2022
+2023-08-27_17:35:06-476,0564ba9f-e059-,4,4,4,Group3,2-3 years,Region3,2,2,2,2,,2022-08-18 09:28:37+00:00,/contact/,https://catalog.beepbeep.gov/,2022,Aug-2022
+2023-08-27_17:35:06-477,56ce1502-5f6b-,3,4,4,Group2,2-3 years,Region2,2,1,2,3,,2022-08-18 14:41:53+00:00,/contact/,https://beepbeep.gov/,2022,Aug-2022
+2023-08-27_17:35:06-478,c70d7b1d-2059-,4,4,5,Group4,2-3 years,Region2,2,1,1,1,,2022-08-18 15:59:25+00:00,/contact/,https://beepbeep.gov/,2022,Aug-2022
+2023-08-27_17:35:06-479,e1ba548a-50a0-,4,4,4,Group2,2-3 years,Region2,2,4,2,4,,2022-08-18 17:08:20+00:00,/contact/,https://catalog.beepbeep.gov/,2022,Aug-2022
+2023-08-27_17:35:06-480,8621b45c-5445-,5,5,4,Group4,3-4 years,Region2,2,2,2,2,,2022-08-18 20:58:09+00:00,/contact/,https://beepbeep.gov/,2022,Aug-2022
+2023-08-27_17:35:06-481,394f13c0-9c95-,3,4,3,Group3,2-3 years,Region3,3,3,3,3,,2022-08-19 22:33:30+00:00,/contact/,https://beepbeep.gov/,2022,Aug-2022
+2023-08-27_17:35:06-482,ba43cee3-3b12-,4,5,5,Group4,3-4 years,Region2,2,3,2,1,,2022-08-20 05:39:45+00:00,/contact/,https://beepbeep.gov/,2022,Aug-2022
+2023-08-27_17:35:06-483,4da51ed6-8f68-,4,4,4,Group3,2-3 years,Region2,2,4,3,3,,2022-08-20 16:15:13+00:00,/contact/,https://beepbeep.gov/,2022,Aug-2022
+2023-08-27_17:35:06-484,4f798302-88a1-,4,3,3,Group2,2-3 years,Region3,2,2,2,2,,2022-08-20 21:13:10+00:00,/contact/,https://beepbeep.gov/,2022,Aug-2022
+2023-08-27_17:35:06-485,7d1dc573-b0f9-,3,3,2,Group2,0-1 years,Region1,3,3,2,3,,2022-08-20 21:13:10+00:00,/contact/,https://beepbeep.gov/,2022,Aug-2022
+2023-08-27_17:35:06-486,616457a4-7e35-,5,5,5,Group3,3-4 years,Region2,4,2,2,3,,2022-08-20 21:13:14+00:00,/contact/,https://beepbeep.gov/,2022,Aug-2022
+2023-08-27_17:35:06-487,dae13679-2d26-,4,4,4,Group3,2-3 years,Region2,4,2,4,3,,2022-08-20 21:13:42+00:00,/contact/,https://beepbeep.gov/,2022,Aug-2022
+2023-08-27_17:35:06-488,51a59be1-5870-,4,4,3,Group2,2-3 years,Region2,2,2,2,2,,2022-08-20 21:13:45+00:00,/contact/,https://beepbeep.gov/,2022,Aug-2022
+2023-08-27_17:35:06-489,a83825a3-03d7-,4,4,4,Group2,2-3 years,Region2,2,3,3,2,,2022-08-20 21:13:45+00:00,/contact/,https://beepbeep.gov/,2022,Aug-2022
+2023-08-27_17:35:06-490,3ddd0960-9ff0-,4,4,2,Group2,1-2 years,Region2,2,2,3,2,,2022-08-20 21:13:46+00:00,/contact/,https://beepbeep.gov/,2022,Aug-2022
+2023-08-27_17:35:06-491,bb42b34a-8ac2-,3,3,4,Group2,2-3 years,Region2,2,2,2,2,,2022-08-20 21:13:46+00:00,/contact/,https://beepbeep.gov/,2022,Aug-2022
+2023-08-27_17:35:06-492,d5c1d922-62d6-,3,4,3,Group3,1-2 years,Region2,2,2,2,2,,2022-08-20 21:13:47+00:00,/contact/,https://beepbeep.gov/,2022,Aug-2022
+2023-08-27_17:35:06-493,74749b78-e0d2-,4,4,4,Group3,3-4 years,Region2,4,4,4,4,,2022-08-20 21:13:47+00:00,/contact/,https://beepbeep.gov/,2022,Aug-2022
+2023-08-27_17:35:06-494,22c208da-9bfd-,5,5,4,Group4,2-3 years,Region2,2,2,2,4,,2022-08-20 21:13:47+00:00,/contact/,https://beepbeep.gov/,2022,Aug-2022
+2023-08-27_17:35:06-495,8c8d6306-9396-,4,4,3,Group2,2-3 years,Region3,3,2,2,2,,2022-08-20 21:13:48+00:00,/contact/,https://beepbeep.gov/,2022,Aug-2022
+2023-08-27_17:35:06-496,eb6a2f5f-7d32-,4,4,3,Group3,2-3 years,Region3,3,4,3,3,,2022-08-20 21:13:48+00:00,/contact/,https://beepbeep.gov/,2022,Aug-2022
+2023-08-27_17:35:06-497,029ac725-3e04-,5,5,4,Group4,4-5 years,Region2,4,4,4,5,,2022-08-20 21:13:49+00:00,/contact/,https://beepbeep.gov/,2022,Aug-2022
+2023-08-27_17:35:06-498,f2eaa4b9-5fe5-,4,4,4,Group3,1-2 years,Region2,2,3,3,4,,2022-08-20 21:13:49+00:00,/contact/,https://beepbeep.gov/,2022,Aug-2022
+2023-08-27_17:35:06-499,47358e48-b561-,4,4,4,Group3,1-2 years,Region3,2,3,3,3,,2022-08-20 21:13:50+00:00,/contact/,https://beepbeep.gov/,2022,Aug-2022
+2023-08-27_17:35:06-500,75c531d7-c92b-,3,4,2,Group2,0-1 years,Region2,3,3,3,3,,2022-08-20 21:13:50+00:00,/contact/,https://beepbeep.gov/,2022,Aug-2022
+2023-08-27_17:35:06-501,1587478e-1ed8-,4,5,5,Group3,2-3 years,Region2,1,2,4,3,,2022-08-20 21:13:50+00:00,/contact/,https://beepbeep.gov/,2022,Aug-2022
+2023-08-27_17:35:06-502,60e49f2d-1d5e-,3,4,3,Group3,2-3 years,Region3,2,2,3,3,,2022-08-20 21:13:51+00:00,/contact/,https://beepbeep.gov/,2022,Aug-2022
+2023-08-27_17:35:06-503,230c71fb-4d98-,4,4,3,Group3,2-3 years,Region2,4,4,3,4,,2022-08-20 21:13:51+00:00,/contact/,https://beepbeep.gov/,2022,Aug-2022
+2023-08-27_17:35:06-504,10e06449-69d5-,5,5,5,Group3,2-3 years,Region2,5,1,3,4,,2022-08-20 21:13:52+00:00,/contact/,https://beepbeep.gov/,2022,Aug-2022
+2023-08-27_17:35:06-505,21ba681d-1d69-,4,3,4,Group3,3-4 years,Region3,3,2,2,2,,2022-08-20 21:13:52+00:00,/contact/,https://beepbeep.gov/,2022,Aug-2022
+2023-08-27_17:35:06-506,c68bc7fd-1c5d-,4,5,4,Group3,2-3 years,Region2,3,3,3,3,,2022-08-20 21:13:53+00:00,/contact/,https://beepbeep.gov/,2022,Aug-2022
+2023-08-27_17:35:06-507,a56f8f5e-491d-,4,4,3,Group4,3-4 years,Region2,3,2,2,3,,2022-08-20 21:13:53+00:00,/contact/,https://beepbeep.gov/,2022,Aug-2022
+2023-08-27_17:35:06-508,27f7dd9c-2acc-,4,4,4,Group3,2-3 years,Region3,2,2,2,2,,2022-08-20 21:13:53+00:00,/contact/,https://beepbeep.gov/,2022,Aug-2022
+2023-08-27_17:35:06-509,8bc2fb73-8b5b-,4,4,4,Group2,3-4 years,Region2,2,2,2,2,,2022-08-20 21:13:54+00:00,/contact/,https://beepbeep.gov/,2022,Aug-2022
+2023-08-27_17:35:06-510,3883f928-7036-,4,5,5,Group3,4-5 years,Region2,2,4,3,3,,2022-08-20 21:13:55+00:00,/contact/,https://beepbeep.gov/,2022,Aug-2022
+2023-08-27_17:35:06-511,1bb41efe-fbd4-,3,3,3,Group2,1-2 years,Region3,1,2,2,2,,2022-08-20 21:13:55+00:00,/contact/,https://beepbeep.gov/,2022,Aug-2022
+2023-08-27_17:35:06-512,d9506a5a-9326-,3,4,3,Group2,1-2 years,Region2,2,4,2,3,,2022-08-20 21:13:55+00:00,/contact/,https://beepbeep.gov/,2022,Aug-2022
+2023-08-27_17:35:06-513,bf4c81d2-06ba-,4,5,5,Group4,2-3 years,Region2,3,4,4,4,,2022-08-20 21:13:56+00:00,/contact/,https://beepbeep.gov/,2022,Aug-2022
+2023-08-27_17:35:06-514,f41e9bea-84d3-,4,4,3,Group2,2-3 years,Region3,2,2,2,2,,2022-08-20 21:13:56+00:00,/contact/,https://beepbeep.gov/,2022,Aug-2022
+2023-08-27_17:35:06-515,a23df30c-d4a3-,4,5,4,Group2,1-2 years,Region2,1,1,1,1,,2022-08-20 21:13:57+00:00,/contact/,https://beepbeep.gov/,2022,Aug-2022
+2023-08-27_17:35:06-516,bd3ac33e-1955-,5,5,5,Group3,2-3 years,Region2,1,2,3,3,,2022-08-20 21:13:57+00:00,/contact/,https://beepbeep.gov/,2022,Aug-2022
+2023-08-27_17:35:06-517,b2204389-3e18-,4,4,3,Group3,2-3 years,Region2,3,4,3,3,,2022-08-20 21:13:57+00:00,/contact/,https://beepbeep.gov/,2022,Aug-2022
+2023-08-27_17:35:06-518,31e55da1-2ce8-,4,4,3,Group4,3-4 years,Region3,2,3,2,2,,2022-08-20 21:13:58+00:00,/contact/,https://beepbeep.gov/,2022,Aug-2022
+2023-08-27_17:35:06-519,ef42febf-958e-,3,4,2,Group1,0-1 years,Region1,1,1,1,4,,2022-08-20 21:13:58+00:00,/contact/,https://beepbeep.gov/,2022,Aug-2022
+2023-08-27_17:35:06-520,db952f85-d7bc-,4,4,3,Group3,2-3 years,Region3,2,3,3,2,,2022-08-20 21:13:59+00:00,/contact/,https://beepbeep.gov/,2022,Aug-2022
+2023-08-27_17:35:06-521,0c9c9c39-62b4-,3,3,2,Group2,2-3 years,Region3,1,1,2,2,,2022-08-20 21:13:59+00:00,/contact/,https://beepbeep.gov/,2022,Aug-2022
+2023-08-27_17:35:06-522,d9b33ec9-0085-,4,4,4,Group2,1-2 years,Region2,2,2,2,2,,2022-08-20 21:14:00+00:00,/contact/,https://beepbeep.gov/,2022,Aug-2022
+2023-08-27_17:35:06-523,e0a05fc8-2f2b-,4,3,4,Group3,1-2 years,Region3,2,2,2,3,,2022-08-20 21:14:00+00:00,/contact/,https://beepbeep.gov/,2022,Aug-2022
+2023-08-27_17:35:06-524,10773126-8db6-,4,3,3,Group3,2-3 years,Region3,2,2,2,2,,2022-08-20 21:14:01+00:00,/contact/,https://beepbeep.gov/,2022,Aug-2022
+2023-08-27_17:35:06-525,77966c96-0318-,4,5,4,Group3,1-2 years,Region2,3,4,3,2,,2022-08-20 21:14:02+00:00,/contact/,https://beepbeep.gov/,2022,Aug-2022
+2023-08-27_17:35:06-526,00ca3ccf-c8b1-,2,3,3,Group2,2-3 years,Region2,2,2,2,2,,2022-08-20 21:14:02+00:00,/contact/,https://beepbeep.gov/,2022,Aug-2022
+2023-08-27_17:35:06-527,ee428c52-6169-,4,5,4,Group3,2-3 years,Region3,2,2,2,2,,2022-08-20 21:14:03+00:00,/contact/,https://beepbeep.gov/,2022,Aug-2022
+2023-08-27_17:35:06-528,026e74a2-7e39-,4,5,5,Group4,4-5 years,Region2,4,2,4,5,,2022-08-20 21:14:04+00:00,/contact/,https://beepbeep.gov/,2022,Aug-2022
+2023-08-27_17:35:06-529,f5ee5fb2-02c1-,4,5,5,Group1,1-2 years,Region2,2,2,2,4,,2022-08-20 21:14:04+00:00,/contact/,https://beepbeep.gov/,2022,Aug-2022
+2023-08-27_17:35:06-530,0509fd0b-42a6-,4,4,4,Group3,3-4 years,Region3,3,3,2,2,,2022-08-20 21:14:05+00:00,/contact/,https://beepbeep.gov/,2022,Aug-2022
+2023-08-27_17:35:06-531,0957342f-c679-,4,5,4,Group2,1-2 years,Region2,2,3,3,3,,2022-08-20 21:14:06+00:00,/contact/,https://beepbeep.gov/,2022,Aug-2022
+2023-08-27_17:35:06-532,e30b388f-bed7-,4,4,3,Group3,1-2 years,Region2,3,2,2,2,,2022-08-20 21:14:06+00:00,/contact/,https://beepbeep.gov/,2022,Aug-2022
+2023-08-27_17:35:06-533,27dfab86-a6a7-,4,5,5,Group4,2-3 years,Region2,4,4,4,4,,2022-08-20 21:14:07+00:00,/contact/,https://beepbeep.gov/,2022,Aug-2022
+2023-08-27_17:35:06-534,cd73a330-24f5-,5,4,4,Group3,2-3 years,Region1,1,1,1,3,,2022-08-20 21:14:07+00:00,/contact/,https://beepbeep.gov/,2022,Aug-2022
+2023-08-27_17:35:06-535,64acf1ee-cb19-,4,4,5,Group3,3-4 years,Region2,2,2,2,3,,2022-08-20 21:14:08+00:00,/contact/,https://beepbeep.gov/,2022,Aug-2022
+2023-08-27_17:35:06-536,5249b5fe-b7f7-,4,4,4,Group3,3-4 years,Region3,3,2,2,2,,2022-08-20 21:14:08+00:00,/contact/,https://beepbeep.gov/,2022,Aug-2022
+2023-08-27_17:35:06-537,c6032ead-85f4-,4,5,3,Group4,2-3 years,Region3,3,2,2,3,,2022-08-20 21:14:08+00:00,/contact/,https://beepbeep.gov/,2022,Aug-2022
+2023-08-27_17:35:06-538,e39c20da-d0ef-,4,4,4,Group4,3-4 years,Region2,2,2,2,2,,2022-08-20 21:14:09+00:00,/contact/,https://beepbeep.gov/,2022,Aug-2022
+2023-08-27_17:35:06-539,86951e62-1dd0-,4,3,2,Group2,1-2 years,Region3,3,2,1,2,,2022-08-20 21:14:09+00:00,/contact/,https://beepbeep.gov/,2022,Aug-2022
+2023-08-27_17:35:06-540,f94e9a76-c905-,4,4,4,Group3,3-4 years,Region3,1,1,1,1,,2022-08-20 21:14:10+00:00,/contact/,https://beepbeep.gov/,2022,Aug-2022
+2023-08-27_17:35:06-541,00bf742f-348d-,4,4,4,Group3,3-4 years,Region2,3,2,2,2,,2022-08-20 21:14:10+00:00,/contact/,https://beepbeep.gov/,2022,Aug-2022
+2023-08-27_17:35:06-542,8d067bb2-f04f-,3,4,4,Group3,2-3 years,Region3,2,4,3,3,,2022-08-20 21:14:10+00:00,/contact/,https://beepbeep.gov/,2022,Aug-2022
+2023-08-27_17:35:06-543,7ce9284b-7141-,4,5,4,Group4,2-3 years,Region2,3,3,3,4,,2022-08-20 21:14:11+00:00,/contact/,https://beepbeep.gov/,2022,Aug-2022
+2023-08-27_17:35:06-544,6c0b8ac7-3175-,5,5,5,Group3,3-4 years,Region3,4,3,4,5,,2022-08-20 21:14:11+00:00,/contact/,https://beepbeep.gov/,2022,Aug-2022
+2023-08-27_17:35:06-545,754e4f03-6706-,3,4,4,Group3,1-2 years,Region2,2,3,2,2,,2022-08-20 21:14:12+00:00,/contact/,https://beepbeep.gov/,2022,Aug-2022
+2023-08-27_17:35:06-546,aa22f175-17e7-,3,3,3,Group3,1-2 years,Region2,3,3,3,3,,2022-08-20 21:14:12+00:00,/contact/,https://beepbeep.gov/,2022,Aug-2022
+2023-08-27_17:35:06-547,8b54456a-5782-,4,4,4,Group2,2-3 years,Region3,2,3,2,3,,2022-08-20 21:14:12+00:00,/contact/,https://beepbeep.gov/,2022,Aug-2022
+2023-08-27_17:35:06-548,e42a5547-53aa-,4,3,4,Group4,3-4 years,Region2,4,4,4,4,,2022-08-20 21:14:13+00:00,/contact/,https://beepbeep.gov/,2022,Aug-2022
+2023-08-27_17:35:06-549,08ebf630-8d43-,3,3,2,Group2,1-2 years,Region2,1,1,1,1,,2022-08-20 21:14:13+00:00,/contact/,https://beepbeep.gov/,2022,Aug-2022
+2023-08-27_17:35:06-550,78c79993-cc37-,4,4,4,Group3,2-3 years,Region2,4,3,3,3,,2022-08-20 21:14:14+00:00,/contact/,https://beepbeep.gov/,2022,Aug-2022
+2023-08-27_17:35:06-551,100ff93f-824a-,4,4,4,Group3,2-3 years,Region3,2,2,1,2,,2022-08-20 21:14:14+00:00,/contact/,https://beepbeep.gov/,2022,Aug-2022
+2023-08-27_17:35:06-552,f41dd321-3820-,4,4,4,Group2,2-3 years,Region3,2,2,2,2,,2022-08-20 21:14:15+00:00,/contact/,https://beepbeep.gov/,2022,Aug-2022
+2023-08-27_17:35:06-553,8dc53c79-f07c-,4,4,4,Group3,2-3 years,Region2,3,2,2,2,,2022-08-20 21:14:15+00:00,/contact/,https://beepbeep.gov/,2022,Aug-2022
+2023-08-27_17:35:06-554,ea09fcaf-01dd-,3,3,3,Group2,2-3 years,Region2,1,3,1,2,,2022-08-20 21:14:15+00:00,/contact/,https://beepbeep.gov/,2022,Aug-2022
+2023-08-27_17:35:06-555,6e847557-752f-,4,3,4,Group3,3-4 years,Region3,1,3,2,3,,2022-08-20 21:14:16+00:00,/contact/,https://beepbeep.gov/,2022,Aug-2022
+2023-08-27_17:35:06-556,b939e6bd-00fc-,3,3,3,Group3,2-3 years,Region2,2,2,2,2,,2022-08-20 21:14:16+00:00,/contact/,https://beepbeep.gov/,2022,Aug-2022
+2023-08-27_17:35:06-557,b0b5cf3e-76f8-,4,4,4,Group2,1-2 years,Region2,2,2,2,2,,2022-08-20 21:14:17+00:00,/contact/,https://beepbeep.gov/,2022,Aug-2022
+2023-08-27_17:35:06-558,e6a6333f-44ca-,4,4,4,Group3,2-3 years,Region3,2,4,3,3,,2022-08-20 21:14:17+00:00,/contact/,https://beepbeep.gov/,2022,Aug-2022
+2023-08-27_17:35:06-559,a9c57fd1-7b57-,3,4,3,Group3,3-4 years,Region3,3,4,4,4,,2022-08-20 21:14:17+00:00,/contact/,https://beepbeep.gov/,2022,Aug-2022
+2023-08-27_17:35:06-560,e0c7a98c-35f3-,5,5,5,Group4,4-5 years,Region3,2,2,2,2,,2022-08-20 21:14:18+00:00,/contact/,https://beepbeep.gov/,2022,Aug-2022
+2023-08-27_17:35:06-561,18d6717d-d860-,5,5,3,Group4,2-3 years,Region2,1,4,2,4,,2022-08-20 21:14:18+00:00,/contact/,https://beepbeep.gov/,2022,Aug-2022
+2023-08-27_17:35:06-562,bb1dea76-9379-,4,3,4,Group3,2-3 years,Region2,4,2,3,3,,2022-08-20 21:14:19+00:00,/contact/,https://beepbeep.gov/,2022,Aug-2022
+2023-08-27_17:35:06-563,eb341d0b-66b8-,4,4,2,Group2,1-2 years,Region2,1,2,1,2,,2022-08-20 21:14:19+00:00,/contact/,https://beepbeep.gov/,2022,Aug-2022
+2023-08-27_17:35:06-564,9beaa4af-a53c-,5,4,5,Group5,3-4 years,Region2,2,1,1,1,,2022-08-20 21:14:19+00:00,/contact/,https://beepbeep.gov/,2022,Aug-2022
+2023-08-27_17:35:06-565,6dc7bc53-177e-,4,5,4,Group4,3-4 years,Region2,3,4,3,3,,2022-08-20 21:14:20+00:00,/contact/,https://beepbeep.gov/,2022,Aug-2022
+2023-08-27_17:35:06-566,6042e470-2b2e-,4,4,4,Group3,2-3 years,Region2,1,2,2,1,,2022-08-20 21:14:20+00:00,/contact/,https://beepbeep.gov/,2022,Aug-2022
+2023-08-27_17:35:06-567,6f5f7aea-ad51-,4,5,5,Group4,3-4 years,Region3,2,4,4,4,,2022-08-20 21:14:21+00:00,/contact/,https://beepbeep.gov/,2022,Aug-2022
+2023-08-27_17:35:06-568,33606955-9d60-,4,4,3,Group3,2-3 years,Region2,2,2,2,2,,2022-08-20 21:14:21+00:00,/contact/,https://beepbeep.gov/,2022,Aug-2022
+2023-08-27_17:35:06-569,6ac80c6d-b563-,5,5,4,Group5,4-5 years,Region2,4,3,3,5,,2022-08-20 21:14:21+00:00,/contact/,https://beepbeep.gov/,2022,Aug-2022
+2023-08-27_17:35:06-570,40c2bfa6-243b-,3,3,2,Group1,0-1 years,Region1,1,1,1,1,,2022-08-20 21:14:22+00:00,/contact/,https://beepbeep.gov/,2022,Aug-2022
+2023-08-27_17:35:06-571,b44dd940-faa3-,4,4,3,Group2,1-2 years,Region2,2,2,2,2,,2022-08-20 21:14:22+00:00,/contact/,https://beepbeep.gov/,2022,Aug-2022
+2023-08-27_17:35:06-572,0170bc74-f03f-,3,4,4,Group2,3-4 years,Region2,1,3,1,1,,2022-08-20 21:14:23+00:00,/contact/,https://beepbeep.gov/,2022,Aug-2022
+2023-08-27_17:35:06-573,d7cc132d-d22d-,5,5,5,Group3,2-3 years,Region3,2,2,2,2,,2022-08-20 21:14:23+00:00,/contact/,https://beepbeep.gov/,2022,Aug-2022
+2023-08-27_17:35:06-574,9a4ed2ca-7fb6-,3,3,3,Group3,2-3 years,Region3,1,1,1,3,,2022-08-20 21:14:23+00:00,/contact/,https://beepbeep.gov/,2022,Aug-2022
+2023-08-27_17:35:06-575,925217c1-cc0e-,4,3,4,Group2,3-4 years,Region2,4,4,2,4,,2022-08-20 21:14:24+00:00,/contact/,https://beepbeep.gov/,2022,Aug-2022
+2023-08-27_17:35:06-576,7d49a177-0d04-,4,5,4,Group3,4-5 years,Region2,3,3,3,3,,2022-08-20 21:14:24+00:00,/contact/,https://beepbeep.gov/,2022,Aug-2022
+2023-08-27_17:35:06-577,e0611286-f5c9-,4,4,4,Group2,1-2 years,Region2,2,2,4,3,,2022-08-20 21:14:25+00:00,/contact/,https://beepbeep.gov/,2022,Aug-2022
+2023-08-27_17:35:06-578,ccccaa25-6d04-,5,4,4,Group3,3-4 years,Region2,3,3,3,4,,2022-08-20 21:14:25+00:00,/contact/,https://beepbeep.gov/,2022,Aug-2022
+2023-08-27_17:35:06-579,3390d12a-b1ae-,4,3,4,Group2,2-3 years,Region3,2,3,3,3,,2022-08-20 21:14:26+00:00,/contact/,https://beepbeep.gov/,2022,Aug-2022
+2023-08-27_17:35:06-580,9ff696b9-a259-,3,4,4,Group3,2-3 years,Region2,2,2,2,2,,2022-08-20 21:14:26+00:00,/contact/,https://beepbeep.gov/,2022,Aug-2022
+2023-08-27_17:35:06-581,aed3f86f-b71f-,5,5,4,Group4,3-4 years,Region2,2,2,2,2,,2022-08-20 21:14:26+00:00,/contact/,https://beepbeep.gov/,2022,Aug-2022
+2023-08-27_17:35:06-582,2209ef27-80e7-,5,5,4,Group4,2-3 years,Region3,3,3,3,4,,2022-08-20 21:14:27+00:00,/contact/,https://beepbeep.gov/,2022,Aug-2022
+2023-08-27_17:35:06-583,b846731e-62e3-,5,5,5,Group4,3-4 years,Region3,1,2,2,1,,2022-08-20 21:14:27+00:00,/contact/,https://beepbeep.gov/,2022,Aug-2022
+2023-08-27_17:35:06-584,19a5079b-1933-,4,4,4,Group3,2-3 years,Region2,3,3,3,4,,2022-08-20 21:14:28+00:00,/contact/,https://beepbeep.gov/,2022,Aug-2022
+2023-08-27_17:35:06-585,fe3215e5-04a2-,5,4,5,Group4,3-4 years,Region3,3,3,3,3,,2022-08-20 21:14:28+00:00,/contact/,https://beepbeep.gov/,2022,Aug-2022
+2023-08-27_17:35:06-586,4f98f05f-5d60-,2,4,4,Group4,3-4 years,Region2,3,4,3,4,,2022-08-20 21:14:29+00:00,/contact/,https://beepbeep.gov/,2022,Aug-2022
+2023-08-27_17:35:06-587,ae213d17-2cd3-,2,2,2,Group2,1-2 years,Region2,2,2,2,2,,2022-08-20 21:14:29+00:00,/contact/,https://beepbeep.gov/,2022,Aug-2022
+2023-08-27_17:35:06-588,f128d5a8-f24b-,4,4,3,Group3,2-3 years,Region3,3,4,3,3,,2022-08-20 21:14:29+00:00,/contact/,https://beepbeep.gov/,2022,Aug-2022
+2023-08-27_17:35:06-589,12a55ba3-0a96-,4,4,3,Group4,2-3 years,Region2,2,4,2,3,,2022-08-20 21:14:30+00:00,/contact/,https://beepbeep.gov/,2022,Aug-2022
+2023-08-27_17:35:06-590,a6dfa062-b03a-,5,4,5,Group3,4-5 years,Region2,5,5,5,5,,2022-08-20 21:14:30+00:00,/contact/,https://beepbeep.gov/,2022,Aug-2022
+2023-08-27_17:35:06-591,165c6781-db01-,5,4,5,Group4,2-3 years,Region3,3,2,3,3,,2022-08-20 21:14:31+00:00,/contact/,https://beepbeep.gov/,2022,Aug-2022
+2023-08-27_17:35:06-592,974abceb-86dc-,4,5,4,Group3,3-4 years,Region3,4,3,3,4,,2022-08-20 21:14:31+00:00,/contact/,https://beepbeep.gov/,2022,Aug-2022
+2023-08-27_17:35:06-593,1b9fb089-18ad-,4,5,5,Group4,3-4 years,Region2,4,4,4,2,,2022-08-20 21:14:31+00:00,/contact/,https://beepbeep.gov/,2022,Aug-2022
+2023-08-27_17:35:06-594,4bfe2d4a-280d-,3,4,5,Group3,2-3 years,Region2,3,3,3,3,,2022-08-20 21:14:32+00:00,/contact/,https://beepbeep.gov/,2022,Aug-2022
+2023-08-27_17:35:06-595,dd0e1a1c-8f20-,4,5,5,Group5,2-3 years,Region2,2,4,2,1,,2022-08-20 21:14:32+00:00,/contact/,https://beepbeep.gov/,2022,Aug-2022
+2023-08-27_17:35:06-596,8c58b4bf-b265-,4,3,4,Group4,4-5 years,Region2,5,5,5,5,,2022-08-20 21:14:32+00:00,/contact/,https://beepbeep.gov/,2022,Aug-2022
+2023-08-27_17:35:06-597,26d9d108-71e8-,4,5,4,Group3,1-2 years,Region2,2,4,3,3,,2022-08-20 21:14:33+00:00,/contact/,https://beepbeep.gov/,2022,Aug-2022
+2023-08-27_17:35:06-598,ee1031d2-3287-,4,3,3,Group3,2-3 years,Region2,2,3,3,2,,2022-08-20 21:14:33+00:00,/contact/,https://beepbeep.gov/,2022,Aug-2022
+2023-08-27_17:35:06-599,7012e9df-8e0d-,4,4,4,Group3,3-4 years,Region3,2,3,3,3,,2022-08-20 21:14:34+00:00,/contact/,https://beepbeep.gov/,2022,Aug-2022
+2023-08-27_17:35:06-600,dbb4ad55-d0e0-,4,3,3,Group1,2-3 years,Region1,1,1,1,1,,2022-08-20 21:14:34+00:00,/contact/,https://beepbeep.gov/,2022,Aug-2022
+2023-08-27_17:35:06-601,cd7461da-f93c-,4,4,4,Group2,1-2 years,Region2,2,2,2,2,,2022-08-20 21:14:34+00:00,/contact/,https://beepbeep.gov/,2022,Aug-2022
+2023-08-27_17:35:06-602,a4460642-c2a5-,4,4,4,Group2,2-3 years,Region2,1,1,1,1,,2022-08-20 21:14:35+00:00,/contact/,https://beepbeep.gov/,2022,Aug-2022
+2023-08-27_17:35:06-603,52260c2e-0dc3-,3,3,4,Group3,2-3 years,Region3,2,2,2,2,,2022-08-20 21:14:35+00:00,/contact/,https://beepbeep.gov/,2022,Aug-2022
+2023-08-27_17:35:06-604,1e922ffb-1e06-,3,4,3,Group2,2-3 years,Region3,2,2,2,2,,2022-08-20 21:14:35+00:00,/contact/,https://beepbeep.gov/,2022,Aug-2022
+2023-08-27_17:35:06-605,e77632c0-3e76-,5,4,4,Group3,2-3 years,Region2,4,4,4,3,,2022-08-20 21:14:36+00:00,/contact/,https://beepbeep.gov/,2022,Aug-2022
+2023-08-27_17:35:06-606,b31a7bcc-a284-,4,4,3,Group3,2-3 years,Region2,2,2,2,2,,2022-08-20 21:14:36+00:00,/contact/,https://beepbeep.gov/,2022,Aug-2022
+2023-08-27_17:35:06-607,a04a6c45-0337-,4,4,4,Group4,3-4 years,Region2,3,4,3,4,,2022-08-20 21:14:37+00:00,/contact/,https://beepbeep.gov/,2022,Aug-2022
+2023-08-27_17:35:06-608,f35d7fd7-7e66-,4,4,4,Group2,3-4 years,Region2,2,2,3,2,,2022-08-20 21:14:37+00:00,/contact/,https://beepbeep.gov/,2022,Aug-2022
+2023-08-27_17:35:06-609,c395d9c3-b88c-,4,3,2,Group2,1-2 years,Region3,1,1,1,2,,2022-08-20 21:14:38+00:00,/contact/,https://beepbeep.gov/,2022,Aug-2022
+2023-08-27_17:35:06-610,43958235-ef97-,4,5,5,Group3,3-4 years,Region2,2,4,4,2,,2022-08-20 21:14:39+00:00,/contact/,https://beepbeep.gov/,2022,Aug-2022
+2023-08-27_17:35:06-611,ac5f854b-aa0c-,4,4,5,Group3,0-1 years,Region1,2,4,2,4,,2022-08-20 21:14:39+00:00,/contact/,https://beepbeep.gov/,2022,Aug-2022
+2023-08-27_17:35:06-612,bd7e5c49-2c56-,2,2,2,Group1,0-1 years,Region1,2,1,1,1,,2022-08-20 21:14:39+00:00,/contact/,https://beepbeep.gov/,2022,Aug-2022
+2023-08-27_17:35:06-613,205e9ecf-31d9-,4,4,5,Group3,2-3 years,Region2,2,3,3,4,,2022-08-20 21:14:40+00:00,/contact/,https://beepbeep.gov/,2022,Aug-2022
+2023-08-27_17:35:06-614,d9ffd5c0-0ec8-,5,5,5,Group2,3-4 years,Region2,2,2,3,4,,2022-08-20 21:14:40+00:00,/contact/,https://beepbeep.gov/,2022,Aug-2022
+2023-08-27_17:35:06-615,0d943965-8cd8-,4,5,4,Group3,2-3 years,Region3,2,2,2,3,,2022-08-20 21:14:41+00:00,/contact/,https://beepbeep.gov/,2022,Aug-2022
+2023-08-27_17:35:06-616,1232ec76-b01a-,2,1,1,Group1,0-1 years,Region2,1,1,1,2,,2022-08-20 21:14:41+00:00,/contact/,https://beepbeep.gov/,2022,Aug-2022
+2023-08-27_17:35:06-617,22a34eea-3fcc-,3,3,3,Group2,1-2 years,Region2,2,1,2,3,,2022-08-20 21:14:42+00:00,/contact/,https://beepbeep.gov/,2022,Aug-2022
+2023-08-27_17:35:06-618,f5fd3e2b-8981-,5,5,5,Group4,3-4 years,Region3,2,2,2,3,,2022-08-20 21:14:42+00:00,/contact/,https://beepbeep.gov/,2022,Aug-2022
+2023-08-27_17:35:06-619,9fd1b6a3-50da-,4,3,4,Group3,2-3 years,Region2,2,3,2,2,,2022-08-20 21:14:43+00:00,/contact/,https://beepbeep.gov/,2022,Aug-2022
+2023-08-27_17:35:06-620,43d09167-98fc-,3,4,4,Group3,3-4 years,Region2,3,3,3,3,,2022-08-20 21:14:43+00:00,/contact/,https://beepbeep.gov/,2022,Aug-2022
+2023-08-27_17:35:06-621,1d210d20-ab8d-,3,2,4,Group2,0-1 years,Region1,1,2,2,3,,2022-08-20 21:14:44+00:00,/contact/,https://beepbeep.gov/,2022,Aug-2022
+2023-08-27_17:35:06-622,67cc77fb-22ae-,4,5,4,Group3,3-4 years,Region2,2,4,3,3,,2022-08-20 21:14:44+00:00,/contact/,https://beepbeep.gov/,2022,Aug-2022
+2023-08-27_17:35:06-623,5c935014-d684-,3,3,2,Group1,2-3 years,Region3,3,2,3,3,,2022-08-20 21:14:46+00:00,/contact/,https://beepbeep.gov/,2022,Aug-2022
+2023-08-27_17:35:06-624,49d00525-58ac-,3,4,3,Group3,2-3 years,Region3,3,2,3,2,,2022-08-20 21:14:46+00:00,/contact/,https://beepbeep.gov/,2022,Aug-2022
+2023-08-27_17:35:06-625,d17f4bab-e8c8-,5,5,4,Group3,2-3 years,Region3,2,3,3,4,,2022-08-20 21:14:47+00:00,/contact/,https://beepbeep.gov/,2022,Aug-2022
+2023-08-27_17:35:06-626,0533901e-6777-,4,4,4,Group3,3-4 years,Region2,2,2,2,3,,2022-08-20 21:14:48+00:00,/contact/,https://beepbeep.gov/,2022,Aug-2022
+2023-08-27_17:35:06-627,103de861-6947-,4,4,3,Group4,2-3 years,Region3,2,3,3,3,,2022-08-20 21:14:48+00:00,/contact/,https://beepbeep.gov/,2022,Aug-2022
+2023-08-27_17:35:06-628,a99d652c-7208-,2,4,2,Group2,1-2 years,Region2,4,2,2,2,,2022-08-20 21:14:49+00:00,/contact/,https://beepbeep.gov/,2022,Aug-2022
+2023-08-27_17:35:06-629,df2e502c-aede-,4,4,4,Group4,3-4 years,Region2,4,3,3,3,,2022-08-20 21:14:50+00:00,/contact/,https://beepbeep.gov/,2022,Aug-2022
+2023-08-27_17:35:06-630,37e79a8a-d5e1-,4,5,4,Group4,3-4 years,Region2,3,4,3,3,,2022-08-20 21:14:51+00:00,/contact/,https://beepbeep.gov/,2022,Aug-2022
+2023-08-27_17:35:06-631,2bcee264-3734-,3,3,3,Group3,1-2 years,Region2,2,4,3,3,,2022-08-20 21:14:52+00:00,/contact/,https://beepbeep.gov/,2022,Aug-2022
+2023-08-27_17:35:06-632,e5668760-f14a-,4,4,4,Group4,3-4 years,Region2,2,2,2,3,,2022-08-20 21:14:52+00:00,/contact/,https://beepbeep.gov/,2022,Aug-2022
+2023-08-27_17:35:06-633,788948f6-dc89-,4,3,3,Group2,0-1 years,Region1,1,1,2,2,,2022-08-20 21:14:52+00:00,/contact/,https://beepbeep.gov/,2022,Aug-2022
+2023-08-27_17:35:06-634,03380951-68aa-,4,4,4,Group3,2-3 years,Region2,2,2,2,2,,2022-08-20 21:14:53+00:00,/contact/,https://beepbeep.gov/,2022,Aug-2022
+2023-08-27_17:35:06-635,ef4c8c39-f3bc-,5,5,5,Group4,3-4 years,Region2,2,2,2,3,,2022-08-20 21:14:53+00:00,/contact/,https://beepbeep.gov/,2022,Aug-2022
+2023-08-27_17:35:06-636,8dae2d0d-6c21-,4,4,3,Group3,2-3 years,Region3,2,4,3,2,,2022-08-20 21:14:54+00:00,/contact/,https://beepbeep.gov/,2022,Aug-2022
+2023-08-27_17:35:06-637,14f01ddf-2ccf-,4,4,4,Group3,2-3 years,Region3,3,3,3,3,,2022-08-20 21:14:55+00:00,/contact/,https://beepbeep.gov/,2022,Aug-2022
+2023-08-27_17:35:06-638,62ce120a-4eb9-,4,4,4,Group3,2-3 years,Region3,3,2,3,4,,2022-08-20 21:14:55+00:00,/contact/,https://beepbeep.gov/,2022,Aug-2022
+2023-08-27_17:35:06-639,0ec5a6c0-a470-,3,4,4,Group2,1-2 years,Region2,2,4,2,2,,2022-08-20 21:14:56+00:00,/contact/,https://beepbeep.gov/,2022,Aug-2022
