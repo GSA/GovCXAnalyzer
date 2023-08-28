@@ -1,5 +1,6 @@
 import scipy.stats as ss
 import scikit_posthocs as sp
+### kruskal wallice testing, 
 
 
 def get_kruskal(df, col, target_col):
@@ -56,12 +57,10 @@ def get_kruskal(df, col, target_col):
 
 
 def get_spearman(cdf, col, target_col):
-
     
     print('Spearman')
     print('col:', col)
     print('target col: ', target_col)
-    
     var = cdf.groupby(col)[target_col].apply(list).values
     
     N = cdf.shape[0]

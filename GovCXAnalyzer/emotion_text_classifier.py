@@ -16,6 +16,7 @@ def tokenize(batch):
 
 
 def initialize_emotion_classifier(topk=3):
+    """default returns the top 3 emotions"""
     
     classifier = pipeline("text-classification",model='bhadresh-savani/distilbert-base-uncased-emotion', top_k=topk)
     return classifier

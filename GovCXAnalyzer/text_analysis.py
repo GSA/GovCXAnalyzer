@@ -10,13 +10,22 @@ from IPython import display
 from collections import Counter, defaultdict
 import unicodedata
 import re
-import numpy as np
- # load stop words
 import en_core_web_md
 import PyLDAVis
+from sklearn.feature_extraction.text import TfidfVectorizer, CountVectorizer
+from sklearn.decomposition import NMF, MiniBatchNMF, LatentDirichletAllocation
 
-# load spacy nlp model
-web = en_core_web_md.load()
+import numpy as np
+from nltk import sent_tokenize, word_tokenize
+
+from nltk.cluster.util import cosine_distance
+
+MULTIPLE_WHITESPACE_PATTERN = re.compile(r"\s+", re.UNICODE)
+
+def init_web_nlp():
+    """returns en core web spacy model"""
+    web = en_core_web_md.load()
+    return web
 
 # NLP Imports
 from nltk.corpus import stopwords
@@ -40,73 +49,18 @@ def is_english(text):
     return len(words & ENGLISH_STOPWORDS) > len(words & NON_ENGLISH_STOPWORDS)
 
 def get_nrc_emotions(tokens):
+    """take a list of tokens (e.g., one tokenized customer
+     feedback comment) and return a list with tokens and the top emotions vy lexicons"""
     l = []
     for i in range(len(tokens)):
 
         emotion = NRCLex(tokens[i])
         
-   # Classify emotion
         l.append({'token': tokens[i], 'emotions': emotion.top_emotions})
     
     return l
 
 
-
-
-# # Iterate through list
-# for i in range(len(text)):
-
-#    # call by object creation
-#    emotion = NRCLex(text[i])
-
-#    # Classify emotion
-#    print('\n', text[i], ': ', emotion.top_emotions) 
-
-
-from sklearn.feature_extraction.text import TfidfVectorizer, CountVectorizer
-from sklearn.decomposition import NMF, MiniBatchNMF, LatentDirichletAllocation
-
-# n_samples = 2000
-# n_features = 1000
-# n_components = 10
-# n_top_words = 20
-# batch_size = 128
-# init = "nndsvda"
-
-
-# def plot_top_words(model, feature_names, n_top_words=20, title):
-#     fig, axes = plt.subplots(2, 5, figsize=(30, 15), sharex=True)
-#     axes = axes.flatten()
-    
-#     dl = []
-    
-    
-#     for topic_idx, topic in enumerate(model.components_):
-#         d = {}
-        
-#         top_features_ind = topic.argsort()[: -n_top_words - 1 : -1]
-#         top_features = [feature_names[i] for i in top_features_ind]
-#         weights = topic[top_features_ind]
-#         d['label'] =f"Topic {topic_idx +1}"
-#         d['weights'] = weights
-#         d['top_features'] =top_features
-#         dl.append(d)
-#         ax = axes[topic_idx]
-#         ax.barh(top_features, weights, height=0.7)
-#         ax.set_title(f"Topic {topic_idx +1}", fontdict={"fontsize": 30})
-#         ax.invert_yaxis()
-#         ax.tick_params(axis="both", which="major", labelsize=20)
-#         for i in "top right left".split():
-#             ax.spines[i].set_visible(False)
-#         fig.suptitle(title, fontsize=40)
-
-#     plt.subplots_adjust(top=0.90, bottom=0.05, wspace=0.90, hspace=0.3)
-#     plt.show()
-    
-#     return pd.DataFrame(dl)
-
-
-    
 
 
 def loading_dataset(ltexts):
@@ -131,16 +85,6 @@ def pipe_ents(entities, label,textcol='text', entitycol='label'):
 
 
     
-
-import re
-
-import numpy as np
-from nltk import sent_tokenize, word_tokenize
-
-from nltk.cluster.util import cosine_distance
-
-MULTIPLE_WHITESPACE_PATTERN = re.compile(r"\s+", re.UNICODE)
-
 
 def normalize_whitespace(text):
     """
@@ -185,7 +129,6 @@ def core_cosine_similarity(vector1, vector2):
     :return: 0 < cosine similarity value < 1
     """
     return 1 - cosine_distance(vector1, vector2)
-
 
 
 class TextRank4Sentences():
@@ -295,12 +238,58 @@ class TextRank4Sentences():
         self.pr_vector = self._run_page_rank(similarity_matrix)
 
 
+
+## TOPIC MODELING SECTION
+
+# n_samples = 2000
+# n_features = 1000
+# n_components = 10
+# n_top_words = 20
+# batch_size = 128
+# init = "nndsvda"
+
+
+# def plot_top_words_return_lda_df(model, feature_names, n_top_words=20, title):
+#     fig, axes = plt.subplots(2, 5, figsize=(30, 15), sharex=True)
+#     axes = axes.flatten()
+    
+#     dl = []
+    
+#     for topic_idx, topic in enumerate(model.components_):
+#         d = {}
+        
+#         top_features_ind = topic.argsort()[: -n_top_words - 1 : -1]
+#         top_features = [feature_names[i] for i in top_features_ind]
+#         weights = topic[top_features_ind]
+#         d['label'] =f"Topic {topic_idx +1}"
+#         d['weights'] = weights
+#         d['top_features'] =top_features
+#         dl.append(d)
+#         ax = axes[topic_idx]
+#         ax.barh(top_features, weights, height=0.7)
+#         ax.set_title(f"Topic {topic_idx +1}", fontdict={"fontsize": 30})
+#         ax.invert_yaxis()
+#         ax.tick_params(axis="both", which="major", labelsize=20)
+#         for i in "top right left".split():
+#             ax.spines[i].set_visible(False)
+#         fig.suptitle(title, fontsize=40)
+
+#     plt.subplots_adjust(top=0.90, bottom=0.05, wspace=0.90, hspace=0.3)
+#     plt.show()
+    
+#     return pd.DataFrame(dl)
+
+
+    
+### ADD LDAVis section SECTION
 def save_pyldavis(vis_data, outpath):
     PyLDAVis.save_html(vis_data, outpath)
 
     
 from spacy import displacy
+add function for rendering top similar
 
+## ADD IN NOTEBOOK
 # def make_text
 # # for all statements when I ranked them/ 
 # text_str = '\n'.join([i +': ' + z for i, z in zip(
@@ -315,6 +304,8 @@ from spacy import displacy
 # for i,t in enumerate(t5[1:]):
     
 #     displacy.render(web(t + '\n\n'), 'ent')
+### TEXT-PREPROCESSING ADDITIONAL PIPELINE FUNCTIONS
+## ADD profanity data processing functions for web survey comments
 
 import nltk
  

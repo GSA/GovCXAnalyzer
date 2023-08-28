@@ -5,13 +5,19 @@ import pandas as pd
 import numpy as np
 from collections import defaultdict
 from IPython import display
-# adding style
-plt.rcParams['figure.figsize'] = 8, 5
-plt.style.use("fivethirtyeight")
-# pd.options.plotting.backend = "plotly"
-# from warnings import warnings
-# # adding simple warning filter
-# warnings.simplefilter('ignore')
+from ydata_profiling import ProfileReport
+
+## specifically for OMB A-11 - nullity + processing
+
+def get_profile(df, use_omb_a11=True, idcols =  ['ID', 'UUID'], 
+    additional_cols = ['CreatedAt', "Page", "Referrer", "User Agent"]):
+    
+    if use_omb_a11:
+        return ProfileReport(df[[col for col in list(df.columns) if col not in idcols + additional_cols]])
+    else:
+        return ProfileReport(df)
+
+        
 
 # Utility functions
 def count_unique_values(df, cat_col_list):
@@ -35,17 +41,6 @@ def create_cardinality_feature(df):
     num_rows = len(df)
     random_code_list = np.arange(100, 1000, 1)
     return np.random.choice(random_code_list, num_rows)
-
-
-def make_segment_likert_table(df, usergroupcol, likertcol):
-    
-    print(likertcol)
-    table =  df.groupby(usergroupcol)[likertcol].describe()
-    table["Survey Prompt"] = likertcol
-    
-    table = table.reset_index()
-    display.display(table)
-    return table
 
 
 stats_dict = {
@@ -124,6 +119,7 @@ def visualize_cat_distributions(df, c):
     plt.show()
     plt.close()
 
+## exploratory data analysis and visualizations for various data types 
 def make_swarm_plot(df, x="attributes_q2_point_scale", y="agency", hue="channel"):
     sns.set_theme(style="ticks", palette="pastel")
 
@@ -151,24 +147,20 @@ def make_cat_plot(df, category_code,title, topk=15, color='paleturquoise'):
         n = topk
         
     df2 = df.copy()
-    plt.rcParams['figure.figsize'] = 12,8
     height = df2[category_code].value_counts()[:n].tolist()
     bars =  df2[category_code].value_counts()[:n].index.tolist()
     y_pos = np.arange(len(bars))
     a = plt.bar(y_pos, height , width=0.7 ,color= ['c']+[color]*14)
     plt.xticks(y_pos, bars)
     plt.xticks(rotation=90)
-    plt.title(f"Top {str(n)} {title}", fontdict=None, position= [0.48,1.05], size = 'x-large')
+    plt.title(f"Top {str(n)} {title}", fontdict=None)
     plt.show()
     return a
     
-
     
-
 def plot_likert_group_col(df, group_col, likert_col):
     cdf = df[[group_col, likert_col]].dropna()
-    
-    # Draw a pointplot to show pulse as a function of three categorical factors
+
     g = sns.catplot(
         data=cdf, x=group_col, y=likert_col,
         capsize=.2, palette="YlGnBu_d", errorbar="se",
@@ -179,8 +171,6 @@ def plot_likert_group_col(df, group_col, likert_col):
 
     plt.xticks(rotation = 'vertical')
 
-    # Or use degrees explicitly 
-
     degrees = 90  # Adjust according to one's preferences/needs
     plt.xticks(rotation=degrees)
     plt.show()
@@ -189,7 +179,6 @@ def plot_likert_group_col(df, group_col, likert_col):
 
 def create_catplot(df, xcat, ylikert):
     # Draw a pointplot to show pulse as a function of categorical factors
-
     g  = sns.catplot(
     data=df, x=xcat, y=ylikert,
     capsize=.2, palette="YlGnBu_d", errorbar="se",
@@ -199,6 +188,7 @@ def create_catplot(df, xcat, ylikert):
     return g
 
 def return_likert_boxenplot(df, likertcol):
+
     return sns.boxenplot(
    df[likertcol]
    )
@@ -208,9 +198,6 @@ def return_distplot_quant(df,  quantcol):
     return sns.distplot(
     df[quantcol])
 
-
-# # adding simple warning filter
-# warnings.simplefilter('ignore')
 
 # Utility functions
 def count_unique_values(df, cat_col_list):
@@ -237,13 +224,13 @@ def create_cardinality_feature(df):
 
 
 def make_segment_likert_table(df, usergroupcol, likertcol):
-    
-    print(likertcol)
+    """takes a dataframe, usergroup, and specific target col of interest"""
     table =  df.groupby(usergroupcol)[likertcol].describe()
-    table["Survey Prompt"] = likertcol
-    
+
     table = table.reset_index()
     display.display(table)
+
+    
     return table
 
 
@@ -308,14 +295,16 @@ def correlation(x, y):
     else:
         return 0 # no variation, correlation is 0
 
-def make_year_pct_pos(osha, yearcol, cxdriver):
-    dfyear = pd.crosstab(osha[yearcol], osha[cxdriver]).reset_index()
+
+def make_year_pct_pos(df, yearcol, cxdriver):
+    """plot for creating percent positive by yr"""
+    dfyear = pd.crosstab(df[yearcol], df[cxdriver]).reset_index()
     dfyear[yearcol] = dfyear[yearcol].map(np.int)
     dfyear[f'PCT_POSITIVE'] = dfyear['yes'] / (dfyear['yes'] + dfyear['no'])
     dfyear['PCT_NONPOSITIVE'] = dfyear['no'] / (dfyear['yes'] + dfyear['no'])
     dfpctgranted =pd.melt(dfyear, id_vars=[yearcol], value_vars=['PCT_POSITIVE', 'PCT_NONPOSITIVE'])
     sns.set_style("white")
-    ax = sns.barplot(x=yearcol, y="value", hue=cxdriver, data=dfpctgranted)#, saturation=.5)
+    ax = sns.barplot(x=yearcol, y="value", hue=cxdriver, data=dfpctgranted)
     plt.show()
     return ax
 

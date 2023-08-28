@@ -5,15 +5,19 @@ import seaborn as sns
 from collections import Counter
 from .utils import *
 from nltk.corpus import stopwords
-# from textblob import TextBlob
-from nltk import FreqDist
-import user_agent
-import pandas as pd
-import re
+import user_agents
 import string
 from nltk.corpus import stopwords
 from urllib.parse import urlparse, unquote, parse_qs
-# from warnings import warnings
+from nltk.tokenize import TweetTokenizer
+stop_words = set(stopwords.words("english"))
+import matplotlib.pyplot as plt
+import numpy as np
+from scipy import stats
+from ekphrasis.classes.spellcorrect import SpellCorrector
+from ekphrasis.classes.preprocessor import TextPreProcessor
+from ekphrasis.classes.tokenizer import SocialTokenizer
+from ekphrasis.dicts.emoticons import emoticons
 
 def camel_case_split(s):
 
@@ -24,10 +28,6 @@ def camel_case_split(s):
     # remove any empty strings from the list
     split_string = list(filter(lambda x: x != '', split_string))
     return split_string
- 
-transtable = str.maketrans(dict.fromkeys(string.punctuation))
-stop_words = set(stopwords.words("english"))
-stop_words.update([' ' ,'s',"/", "'s","also", "e.g.",])
 
 def load_data(filepath):
     # Example: Load the data (replace with actual loading code if necessary)
@@ -105,15 +105,18 @@ def convert_likert_cols(df, likert_cols, agree_scale=False):
     return dfnew
 
 
-def make_date_touchpoints_df(df):
+def make_date_touchpoints_df(df, datecol="Created At"):
     
-    df['CreatedAt'] = df['CreatedAt'].map(pd.to_datetime)
+    df['CreatedAt'] = df[datecol].map(pd.to_datetime)
+    
     df['year'] = df['CreatedAt'].map(lambda dt: dt.year)
     df['date'] = df['CreatedAt'].map(lambda x: x.strftime("%b-%Y"))
+    
     return df
 
 
 def make_user_agent_info(user_agent):
+    """pass user_agent object to retrieve"""
     d = {}
    
     d['os'] = user_agent.os.family#
@@ -125,16 +128,24 @@ def make_user_agent_info(user_agent):
     return d
 
 
-import matplotlib.pyplot as plt
-import numpy as np
-from scipy import stats
+def make_user_agent_df_cols(df, user_agent_col="User Agent"):
+    user_agent_df = df['User Agent'].map(user_agents.parse).map(make_user_agent_info).apply(pd.Series)
+    user_agent_cols = list(user_agent_df.columns)
+    return user_agent_df
 
-from nltk.tokenize import TweetTokenizer
-tok = TweetTokenizer()
+def make_user_agent_info(user_agent):
+    """pass user_agent object to retrieve"""
+    d = {}
+   
+    d['os'] = user_agent.os.family#
+    d['browser'] = user_agent.browser.family
+    d['device'] = user_agent.device.family
+    d['is_mobile'] = user_agent.is_mobile # returns True
+    d['is_pc'] =user_agent.is_pc # returns False
+   
+    return d
 
-from ekphrasis.classes.preprocessor import TextPreProcessor
-from ekphrasis.classes.tokenizer import SocialTokenizer
-from ekphrasis.dicts.emoticons import emoticons
+
 
 def init_textprocesser():
     text_processor = TextPreProcessor(
@@ -175,15 +186,19 @@ def return_preprocess_sents(sentences,text_processor):
         l.append(" ".join(text_processor.pre_process_doc(s)))
     return l
 
-    
-from ekphrasis.classes.spellcorrect import SpellCorrector
-sp = SpellCorrector(corpus="english") 
 
+def init_spellcorrector():
 
+    sp = SpellCorrector(corpus="english")
+    return sp
 
 
 def preprocess_text(text, lower=True):
     """takes a tqeet text and tokenizes it"""
+
+
+    tok = TweetTokenizer()
+
     tokens = tok.tokenize(text)
     if lower is True:
         return ' '.join([token.lower() for token in tokens])
