@@ -28,7 +28,14 @@ python based code repository for analyzing customer experience data, notably the
 * Ashleigh Sanders - ashleigh.sanders@gsa.gov <br>
 
 ## TO DO: add thank you to testers
-* 
+* What insights can we glean about HISP performance and public sentiment from the CX response data that GSA collects? 
+* What insights can we uncover about the response-level touchpoints data responses? 
+* What statistical analyses are most meaningful for understanding the CX response data? How can these statistical functions be best captured in a reusable tool kit?
+*  
+
+Does the available CX data offer a more meaningful performance metric for HISPs? What about if we link it with financial data?
+How could A-11 be redesigned to better capture meaningful CX data from the public?
+
 
 ## Our Approach
 * *Our approach can be broken up into 3 main sections: preprocessing, model architectures, and Ensemble*

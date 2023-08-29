@@ -1,17 +1,11 @@
 # Standard Library Imports
 import pandas as pd
-import glob
-import string
 import seaborn as sns
-import datetime
-import warnings
-import requests
 from IPython import display
 from collections import Counter, defaultdict
-import unicodedata
 import re
 import en_core_web_md
-import PyLDAVis
+from nrclex import NRCLex
 from sklearn.feature_extraction.text import TfidfVectorizer, CountVectorizer
 from sklearn.decomposition import NMF, MiniBatchNMF, LatentDirichletAllocation
 
@@ -61,11 +55,8 @@ def get_nrc_emotions(tokens):
     return l
 
 
-
-
 def loading_dataset(ltexts):
     print("Loading dataset...")
-    t0 = time()
 
     data_samples = ltexts
     print("done in %0.3fs." % (time() - t0))
@@ -82,9 +73,6 @@ def pipe_ents(entities, label,textcol='text', entitycol='label'):
     """entities is a list"""
     return ' | '.join(list(set([ent[textcol] for ent in entities if ent[entitycol] == label])))
 
-
-
-    
 
 def normalize_whitespace(text):
     """
@@ -279,15 +267,14 @@ class TextRank4Sentences():
     
 #     return pd.DataFrame(dl)
 
-
     
 ### ADD LDAVis section SECTION
-def save_pyldavis(vis_data, outpath):
-    PyLDAVis.save_html(vis_data, outpath)
-
-    
+# def save_pyldavis(vis_data, outpath):
+#     PyLDAVis.save_html(vis_data, outpath)
+i
+ 
 from spacy import displacy
-add function for rendering top similar
+
 
 ## ADD IN NOTEBOOK
 # def make_text
@@ -309,11 +296,7 @@ add function for rendering top similar
 
 import nltk
  
-ENGLISH_STOPWORDS = set(nltk.corpus.stopwords.words('english'))
-NON_ENGLISH_STOPWORDS = set(nltk.corpus.stopwords.words()) - ENGLISH_STOPWORDS
- 
-STOPWORDS_DICT = {lang: set(nltk.corpus.stopwords.words(lang)) for lang in nltk.corpus.stopwords.fileids()}
- 
+
 def get_language(text):
     words = set(nltk.wordpunct_tokenize(text.lower()))
     return max(((lang, len(words & stopwords)) for lang, stopwords in STOPWORDS_DICT.items()), key = lambda x: x[1])[0]
