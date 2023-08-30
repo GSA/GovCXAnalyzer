@@ -9,10 +9,14 @@ from nltk.corpus import stopwords
 from nltk.stem import WordNetLemmatizer
 from nltk import pos_tag
 from nltk.stem import PorterStemmer
+import nltk
+import pyLDAvis.gensim_models
+import pyLDAvis
 
-stop_words = stopwords
 import warnings
 warnings.filterwarnings('ignore')
+
+stop_words= set(nltk.corpus.stopwords.words('english'))
 
 def to_string(s):
     try:
@@ -100,7 +104,7 @@ def bigram_preprocess(tokens, deacc=True, lowercase=True, errors='ignore',
             yield tokens[i] + '_' + tokens[i+1]
 
 
-def create_lda_from_df_textcol(df, textcol):
+def create_vis_lda_from_df_textcol(df, textcol):
                                
     
     documents = df[textcol].dropna().apply(lambda x: preProc(str(x))).tolist()
@@ -120,4 +124,6 @@ def create_lda_from_df_textcol(df, textcol):
     corpus = [dictionary_bigrams.doc2bow(text) for text in bigrams]
     lda = LdaModel(corpus, num_topics=15, id2word=dictionary_bigrams)
 
-    return lda
+
+    vis = pyLDAvis.gensim_models.prepare(lda, corpus, dictionary_bigrams)
+    return vis
