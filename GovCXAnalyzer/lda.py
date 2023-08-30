@@ -27,7 +27,6 @@ def unicodeToAscii(s):
         c for c in unicodedata.normalize('NFD', s)
         if unicodedata.category(c) != 'Mn'
         )
-warnings.filterwarnings('ignore')
 
 def normalizeString(s):
     tknzr = TweetTokenizer()
@@ -100,14 +99,11 @@ def bigram_preprocess(tokens, deacc=True, lowercase=True, errors='ignore',
         for i in range(0,len(tokens)-1):
             yield tokens[i] + '_' + tokens[i+1]
 
-import warnings
-warnings.filterwarnings('ignore')
-
 
 def create_lda_from_df_textcol(df, textcol):
                                
     
-    documents = df[textcol].dropna().apply(lambda x: preProc(str(x))) #.tolist()
+    documents = df[textcol].dropna().apply(lambda x: preProc(str(x))).tolist()
     
     texts = [word_tokenize(doc)  for doc in documents]
     texts_lower = [[word.lower() for word in text] for text in texts]
