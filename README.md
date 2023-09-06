@@ -62,8 +62,12 @@ How could A-11 be redesigned to better capture meaningful CX data from the publi
 
 ## Create your environment either through conda or python venv
 ```bash
+## change directory to this repository - make sure you are in this repository
+cd GovCXAnalyzer
 ## for conda
 conda create -n cxenv python=3.9
+# conda activate
+conda activate cxenv
 # install requirements
 pip install -r requirements.txt
 python -m spacy download en_core_web_md
