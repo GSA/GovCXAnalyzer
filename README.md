@@ -38,21 +38,7 @@ How could A-11 be redesigned to better capture meaningful CX data from the publi
 
 
 ## Our Approach
-* *Our approach can be broken up into 3 main sections: preprocessing, model architectures, and Ensemble*
-* Pre-processing:
-    *tokenization + using pre-trained embeddings/ creating our own pre-trained word representations*
-    * Word Embeddings:
-        * Glove (Pennington et al., 2014) , Word2Vec (Mikolov et al., 2013), fasText (Bojanowski et al., 2016):
-            * params:
-                * dim: 50, 100, 200, 300
-
-                    
-        *  Language Model: Elmo (Perters et al., 2018), Bert , sciBert:
-            *     params: default
-    * Model Architectures:
-        * fasttext baseline
-        * allennlp scibert text classifier
-        * cnn text classifiers
+* 
 ## need to add additonal info
 
 
@@ -62,8 +48,12 @@ How could A-11 be redesigned to better capture meaningful CX data from the publi
 
 ## Create your environment either through conda or python venv
 ```bash
+## change directory to this repository - make sure you are in this repository
+cd GovCXAnalyzer
 ## for conda
 conda create -n cxenv python=3.9
+# conda activate
+conda activate cxenv
 # install requirements
 pip install -r requirements.txt
 python -m spacy download en_core_web_md
