@@ -6,18 +6,9 @@ python based code repository for analyzing customer experience data, notably the
 ## Table of Contents
 * [HISP CX Background Details](#HISP-CX-Background-Details)
 * [Project Team](#project-team) :sparkles: :sparkles: :email:
-* [Our Approach](#our-approach) :bookmark:
 * [Requirements](#requirements)
 * [Repo Layout](#repo-layout)
-* [Datasets](#text-corpora) :books: 
-* [Unsupervised Learning](#unsupervised-learning)
-* [Sentiment Analysis](#snorkel)
-* [Text Classification](#model-training)
-* [Visualization & Statistical Analysis Methods](#evaluation) :chart_with_upwards_trend:
-* [References](#references)
 * [Tags](#tags) 
-* [Future Work](#future-work) :crystal_ball:	
-
 
 ## HISP CX Background Details
 *This is the code repository for analyzing survey data, in particular the A-11 data. This code repository equips users with a suite of statistical methods for analyzing survey data, including descriptive statistics, hypothesis testing, and data visualization tools, in addition to natural language processing and text analysis tools for thematic analysis and sentiment analysis.
@@ -27,19 +18,11 @@ python based code repository for analyzing customer experience data, notably the
 * Isabel (Izzy) Metzger - isabel.metzger@gsa.gov <br>
 * Ashleigh Sanders - ashleigh.sanders@gsa.gov <br>
 
-## TO DO: add thank you to testers
+## We aimed to explore
 * What insights can we glean about HISP performance and public sentiment from the CX response data that GSA collects? 
 * What insights can we uncover about the response-level touchpoints data responses? 
 * What statistical analyses are most meaningful for understanding the CX response data? How can these statistical functions be best captured in a reusable tool kit?
-*  
 
-Does the available CX data offer a more meaningful performance metric for HISPs? What about if we link it with financial data?
-How could A-11 be redesigned to better capture meaningful CX data from the public?
-
-
-## Our Approach
-* 
-## need to add additonal info
 
 
 ## Requirements
@@ -78,20 +61,10 @@ python -m spacy download en_core_web_md
 *notebooks - notebook examples for applying exploratory data visualization, survey data visualization, 
 ```
 
-## Datasets
-## Unsupervised Learning
-* Analogy & similarity
+### In addition to exploratory data analysis and statistical tests, additional methods this code repository has cover unsupervised and supervised machine learning techniques such as
+* Topic Modeling
+* Text similarity Ranking
+* Sentiment Analysis (both Lexicon-Based and emotion text classification)
 
-### Topic Modeling
-### Text similarity Ranking
-## Sentiment Analysis
-### Lexicon-Based
-### Aspect Level Sentiment Extraction
-### Emotion Text classification
-
-
-## Future Work
-* Efficiently incorporating more sources:  
-* ..
 ## Tags
 * NLP, FederalCX, open-source, emotion and sentiment analysis, survey analysis
