@@ -1,0 +1,88 @@
+{
+  "lang":"en",
+  "name":"pipeline",
+  "version":"0.0.0",
+  "spacy_version":">=3.5.2,<3.6.0",
+  "description":"",
+  "author":"Isabel (Izzy) Metzger",
+  "email":"isabel.metzger@gsa.gov",
+  "url":"",
+  "license":"",
+  "spacy_git_version":"aea4a96f9",
+  "vectors":{
+    "width":0,
+    "vectors":0,
+    "keys":0,
+    "name":null,
+    "mode":"default"
+  },
+  "labels":{
+    "textcat":[
+      "Employer/HR Professional",
+      "Student",
+      "Spam or Newsletter (not a Human)",
+      "Working adult",
+      "Workforce counselor",
+      "Unemployed adult",
+      "Teacher or school counselor"
+    ]
+  },
+  "pipeline":[
+    "textcat"
+  ],
+  "components":[
+    "textcat"
+  ],
+  "disabled":[
+
+  ],
+  "performance":{
+    "cats_score":0.3933808768,
+    "cats_score_desc":"macro F",
+    "cats_micro_p":0.8766094421,
+    "cats_micro_r":0.8766094421,
+    "cats_micro_f":0.8766094421,
+    "cats_macro_p":0.6170225199,
+    "cats_macro_r":0.3675775666,
+    "cats_macro_f":0.3933808768,
+    "cats_macro_auc":0.7840175582,
+    "cats_f_per_type":{
+      "Employer/HR Professional":{
+        "p":0.3571428571,
+        "r":0.1111111111,
+        "f":0.1694915254
+      },
+      "Student":{
+        "p":0.6666666667,
+        "r":0.303030303,
+        "f":0.4166666667
+      },
+      "Spam or Newsletter (not a Human)":{
+        "p":0.9227519614,
+        "r":0.9689480355,
+        "f":0.9452859351
+      },
+      "Working adult":{
+        "p":1.0,
+        "r":0.0333333333,
+        "f":0.064516129
+      },
+      "Workforce counselor":{
+        "p":0.3854166667,
+        "r":0.4743589744,
+        "f":0.4252873563
+      },
+      "Unemployed adult":{
+        "p":0.6538461538,
+        "r":0.6296296296,
+        "f":0.641509434
+      },
+      "Teacher or school counselor":{
+        "p":0.3333333333,
+        "r":0.0526315789,
+        "f":0.0909090909
+      }
+    },
+    "textcat_loss":4.3071842774
+  }
+}

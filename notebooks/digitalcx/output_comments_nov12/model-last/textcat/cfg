@@ -1,0 +1,13 @@
+{
+  "labels":[
+    "Employer/HR Professional",
+    "Student",
+    "Spam or Newsletter (not a Human)",
+    "Working adult",
+    "Workforce counselor",
+    "Unemployed adult",
+    "Teacher or school counselor"
+  ],
+  "threshold":0.0,
+  "positive_label":null
+}
