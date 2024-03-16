@@ -6,3 +6,6 @@ Please find notebooks for the following: <br>
 * text classification <br>
 * text classification model predictions <br>
 * BERTopic - topic modeling and topics over time <br>
+
+
+Also look in the govcxanalyzer folder for the python scripts associated with these notebooks
