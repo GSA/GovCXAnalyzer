@@ -41,7 +41,7 @@ numpy==1.25.2
 pandas==2.0.3
 pathy==0.10.2
 patsy==0.5.3
-Pillow==10.0.1
+Pillow==10.2.0
 plotly==5.16.1
 pyarrow==13.0.0
 pydantic==2.3.0
