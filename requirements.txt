@@ -47,7 +47,7 @@ pyarrow==13.0.0
 pydantic==2.3.0
 pydantic_core==2.6.3
 regex==2023.8.8
-requests==2.31.0
+requests==2.32.0
 safetensors==0.3.3
 scikit-posthocs==0.7.0
 scipy==1.11.2
