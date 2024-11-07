@@ -17,7 +17,7 @@ nltk.download("stopwords")
 
 def clean_text(s, stop_words = stopwords.words('english')):
     # remove punctuation and set string to lower case
-    s = re.sub(r'[^\w\s]', ' ', s).lower()
+    s = re.sub(r'[^\w\s]', ' ', str(s)).lower()
     s = s.replace('_', '')
 
     # remove numbers (digits)
