@@ -14,6 +14,7 @@ from functools import partial
 import requests
 
 nltk.download("stopwords")
+pd.options.mode.copy_on_write = True
 
 def clean_text(s, stop_words = stopwords.words('english')):
     # remove punctuation and set string to lower case
@@ -168,6 +169,9 @@ class SpecClustering:
             self.k =  km.fit_predict(Usub) + 1
 
     def summarize_clusters(self):
+        """
+        requires API endpoint to summarize clusters
+        """
 
         if not self.ai_cluster_descriptions:
             return
