@@ -15,6 +15,7 @@ python based code repository for analyzing customer experience data, notably the
 
 ### Project Team
 * Isabel (Izzy) Metzger - isabel.metzger@gsa.gov <br>
+* Kai Cobb - kai.cobb@gsa.gov <br>
 * Ashleigh Sanders - ashleigh.sanders@gsa.gov <br>
 ### Contributors
 * Samual Thomas - samual.thomas@gsa.gov <br>
