@@ -72,7 +72,7 @@ transformers==4.32.0
 typer==0.9.0
 tzdata==2023.3
 ujson==5.8.0
-urllib3==2.0.4
+urllib3==2.2.2
 user-agent==0.1.10
 wasabi==1.1.2
 xmltodict==0.13.0
