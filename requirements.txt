@@ -80,3 +80,4 @@ xxhash==3.3.0
 yarl==1.9.2
 zipp==3.16.2
 ipywidgets
+setuptools>=70.0.0 # not directly required, pinned by Snyk to avoid a vulnerability
